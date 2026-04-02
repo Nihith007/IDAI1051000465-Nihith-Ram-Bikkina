@@ -349,6 +349,8 @@ Geographic visualisation reveals where stations are concentrated, which regions 
 
 ## 🚀 Streamlit Deployment
 
+**Live app link:** https://idai1051000465-nihith-ram-bikkina-7qhzhkevxcelvxam4buosj.streamlit.app/ 
+
 The complete project is deployed as an interactive Streamlit web application. The dataset is generated programmatically inside the app on first run — no external CSV file upload is needed on Streamlit Cloud.
 
 **Dashboard Pages:**
