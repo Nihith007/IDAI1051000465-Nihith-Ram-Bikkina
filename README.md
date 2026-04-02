@@ -1,4 +1,4 @@
-<img width="1408" height="781" alt="image" src="https://github.com/user-attachments/assets/d279cb5f-f395-434b-9ddf-5fbb0a392473" /># IDAI1051000465-Nihith-Ram-Bikkina
+# IDAI1051000465-Nihith-Ram-Bikkina
 Mining the Future: Unlocking Business Intelligence with AI
 
 # Candidate Name – Nihith Ram Bikkina
@@ -334,8 +334,24 @@ Geographic visualisation reveals where stations are concentrated, which regions 
 <img width="1469" height="928" alt="image" src="https://github.com/user-attachments/assets/d33ba5b4-fd5f-42e8-be7d-b0f43223f671" />
 <img width="1453" height="903" alt="image" src="https://github.com/user-attachments/assets/c6ee57ab-a81d-4167-ba92-56d146633918" />
 <img width="1458" height="558" alt="image" src="https://github.com/user-attachments/assets/bcc176c2-38f5-4bb2-b7ad-ae001fb44515" />
-
-
+<img width="1408" height="781" alt="image" src="https://github.com/user-attachments/assets/d0f41766-2705-4b0d-9cc9-8bcd50c9de9f" />
+<img width="763" height="828" alt="image" src="https://github.com/user-attachments/assets/9c360e51-ec79-41a1-8035-a14023afb582" />
+<img width="1429" height="859" alt="image" src="https://github.com/user-attachments/assets/cb5c9f61-5bab-478f-b594-717932b259a9" />
+<img width="1416" height="669" alt="image" src="https://github.com/user-attachments/assets/a05faa3d-cc16-4ccc-a0b2-a8be96b51a71" />
+<img width="1455" height="944" alt="image" src="https://github.com/user-attachments/assets/cea6e951-bf51-45c2-9426-39bb3751521f" />
+<img width="1362" height="928" alt="image" src="https://github.com/user-attachments/assets/df9c4422-703f-480c-883f-20f9f6b911a8" />
+<img width="1392" height="698" alt="image" src="https://github.com/user-attachments/assets/1b9cad4c-3fc4-4ef1-b747-e0c28a025e6f" />
+<img width="1411" height="844" alt="image" src="https://github.com/user-attachments/assets/5f91b351-29a6-4895-80c8-5d3be4adffc2" />
+<img width="1336" height="879" alt="image" src="https://github.com/user-attachments/assets/869064e7-ce3e-4048-aab6-2d4d7d7a6064" />
+<img width="1414" height="762" alt="image" src="https://github.com/user-attachments/assets/935e70c9-97fc-45f1-b513-cd659a949f60" />
+<img width="1373" height="858" alt="image" src="https://github.com/user-attachments/assets/3ae3253b-fad1-438f-afa9-e2ef720ddfde" />
+<img width="1436" height="790" alt="image" src="https://github.com/user-attachments/assets/9f1fc106-3521-440d-8aa8-d1cef4d6b54b" />
+<img width="1403" height="885" alt="image" src="https://github.com/user-attachments/assets/8462179b-b690-41eb-960e-2ed3f5576082" />
+<img width="1449" height="809" alt="image" src="https://github.com/user-attachments/assets/e115940a-1bb8-4bf4-b00c-3c5128cd4271" />
+<img width="1399" height="758" alt="image" src="https://github.com/user-attachments/assets/178129b2-7b6b-4487-b8ef-cae9e23a6151" />
+<img width="1399" height="542" alt="image" src="https://github.com/user-attachments/assets/b2c1d6ee-89c7-4bca-b0a3-55885dceb754" />
+<img width="1779" height="952" alt="image" src="https://github.com/user-attachments/assets/57f11d58-5d92-4ed3-aa2a-0cb11cb52321" />
+<img width="1779" height="919" alt="image" src="https://github.com/user-attachments/assets/b93ee0f7-f15e-47c4-943d-eb48445fc6a0" />
 
 
 
