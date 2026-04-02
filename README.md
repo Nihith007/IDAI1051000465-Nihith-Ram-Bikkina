@@ -1,5 +1,4 @@
-# IDAI1051000465-Nihith-Ram-Bikkina
-Mining the Future: Unlocking Business Intelligence with AI
+## IDAI1051000465-Nihith-Ram-Bikkina
 
 # Candidate Name – Nihith Ram Bikkina
 
@@ -11,17 +10,10 @@ Mining the Future: Unlocking Business Intelligence with AI
 
 # School Name – Birla Open Minds International School, Kollur
 
-# Summative Assessment
+# Summative Assessment- Mining the Future: Unlocking Business Intelligence with AI
 
 ---
 
-# ⚡ EV SmartCharging Analytics — Uncovering EV Behavior Patterns
-
-**Assignment Title:** Mining the Future: Unlocking Business Intelligence with AI
-**Scenario Selected:** Scenario 2 — SmartCharging Analytics
-**Deployment:** Streamlit Cloud
-
----
 
 ## 📋 Project Scope
 
