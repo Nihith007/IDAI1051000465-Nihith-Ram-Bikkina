@@ -1,0 +1,1201 @@
+Station_ID,Latitude,Longitude,Address,Charger_Type,Cost_USD_per_kWh,Availability_pct,Distance_to_City_km,Usage_Stats_avg_users_day,Station_Operator,Charging_Capacity_kW,Connector_Types,Installation_Year,Renewable_Energy_Source,Reviews_Rating,Parking_Spots,Maintenance_Frequency
+EVST00001,39.646825,-122.1034,"3146 San Francisco St, Station Area",AC Level 2,0.1402,50.6,0.55,27.7,Blink,25,Tesla Proprietary,2024,No,2.3,29,Quarterly
+EVST00002,-34.247576,149.527153,"6424 Sydney St, Station Area",AC Level 2,0.1453,59.1,2.07,33.4,EVgo,24,"CHAdeMO, Type 2",2012,Yes,3.9,27,Quarterly
+EVST00003,49.401782,4.545733,"6806 Paris St, Station Area",DC Fast,0.2854,90.5,4.78,58.9,EVgo,203,Tesla Proprietary,2022,No,3.3,14,Quarterly
+EVST00004,32.061317,140.864092,"9185 Tokyo St, Station Area",AC Level 2,0.2173,76.2,22.88,23.0,Electrify America,21,"CCS, Tesla Proprietary, Type 2",2016,No,3.7,12,Monthly
+EVST00005,33.941679,139.793459,"7891 Tokyo St, Station Area",AC Level 2,0.0828,81.3,2.23,46.1,BP Pulse,15,"CCS, J1772",2024,No,4.7,23,Monthly
+EVST00006,28.173232,73.554437,"2487 New Delhi St, Station Area",AC Level 2,0.1383,67.9,16.03,22.4,EVgo,10,Tesla Proprietary,2012,No,3.1,19,Quarterly
+EVST00007,36.1667,-123.894524,"2067 San Francisco St, Station Area",AC Level 2,0.1499,53.4,9.01,19.7,EVgo,36,Type 2,2014,No,5.0,7,Annual
+EVST00008,-32.797205,152.240942,"8864 Sydney St, Station Area",AC Level 2,0.1266,92.8,13.85,26.5,Blink,25,"J1772, Tesla Proprietary, Type 2",2021,No,3.5,25,Bi-Annual
+EVST00009,54.503345,1.691526,"4878 London St, Station Area",AC Level 1,0.098,59.6,5.65,10.5,BP Pulse,7,"CHAdeMO, Type 2",2022,Yes,2.9,20,Bi-Annual
+EVST00010,36.009978,-120.755645,"976 San Francisco St, Station Area",AC Level 2,0.1744,51.7,2.1,29.1,EVgo,23,"CCS, CHAdeMO, Tesla Proprietary",2013,No,4.2,19,Monthly
+EVST00011,47.600405,-0.03582,"8249 Paris St, Station Area",AC Level 2,0.1486,78.6,2.71,22.7,ChargePoint,15,"J1772, Tesla Proprietary",2014,Yes,3.9,23,Bi-Annual
+EVST00012,28.967073,77.661328,"6484 New Delhi St, Station Area",DC Fast,0.2865,54.2,6.02,55.6,BP Pulse,110,"CHAdeMO, J1772, Tesla Proprietary",2016,No,4.1,7,Quarterly
+EVST00013,-31.452126,152.732573,"256 Sydney St, Station Area",AC Level 1,0.0778,54.8,12.93,8.9,BP Pulse,10,"J1772, Tesla Proprietary",2012,Yes,,24,Monthly
+EVST00014,-35.702361,148.721797,"7827 Sydney St, Station Area",AC Level 2,0.1469,90.0,7.57,27.9,EVgo,25,"CHAdeMO, J1772, Tesla Proprietary",2022,No,4.0,4,Quarterly
+EVST00015,-33.495246,151.197443,"6073 Sydney St, Station Area",DC Fast,0.2961,74.6,19.64,52.5,Blink,112,"CHAdeMO, J1772, Tesla Proprietary",2020,No,3.1,24,Monthly
+EVST00016,-31.136852,151.620064,"6145 Sydney St, Station Area",DC Fast,0.2906,62.1,0.1,60.1,Electrify America,89,"CHAdeMO, Type 2",2021,Yes,3.4,18,Bi-Annual
+EVST00017,46.378961,1.901053,"8648 Paris St, Station Area",DC Fast,0.3126,67.4,0.72,17.7,Shell Recharge,124,"J1772, Type 2",2018,Yes,3.7,17,Bi-Annual
+EVST00018,35.853296,-125.197643,"4955 San Francisco St, Station Area",AC Level 2,0.1726,86.5,5.3,29.4,EVgo,20,"CCS, J1772, Type 2",2020,Yes,5.0,22,Monthly
+EVST00019,27.97849,76.720453,"4612 New Delhi St, Station Area",AC Level 2,0.1131,53.3,2.3,29.9,Blink,32,"CHAdeMO, J1772, Tesla Proprietary",2019,Yes,4.9,10,Quarterly
+EVST00020,34.895317,139.159342,"6173 Tokyo St, Station Area",AC Level 2,0.1185,55.8,10.67,24.2,Blink,21,,2021,No,3.4,23,Quarterly
+EVST00021,50.075502,2.130091,"1978 Paris St, Station Area",AC Level 1,0.045,80.8,4.32,15.3,Blink,5,Tesla Proprietary,2017,No,3.6,1,Monthly
+EVST00022,36.03869,138.805093,"1517 Tokyo St, Station Area",AC Level 2,0.176,80.3,14.84,33.6,ChargePoint,22,CCS,2020,No,3.2,21,Quarterly
+EVST00023,48.844957,-0.792318,"8437 London St, Station Area",AC Level 2,0.1575,98.6,11.17,37.1,Electrify America,23,"CCS, Tesla Proprietary",2020,No,4.3,24,Bi-Annual
+EVST00024,29.387016,77.149441,"2156 New Delhi St, Station Area",AC Level 2,0.599488549239315,68.7,20.29,169.83546456472274,ChargePoint,16,Type 2,2020,Yes,4.1,1,Bi-Annual
+EVST00025,-34.735108,151.872982,"5043 Sydney St, Station Area",AC Level 2,0.1071,53.3,1.01,56.1,EVgo,24,CCS,2023,Yes,3.8,21,Monthly
+EVST00026,50.768271,1.89556,"2699 Paris St, Station Area",AC Level 2,0.2035,76.9,3.88,31.6,Shell Recharge,28,"CHAdeMO, J1772",2016,No,4.3,23,Quarterly
+EVST00027,34.734819,139.035827,"2305 Tokyo St, Station Area",AC Level 2,0.1317,81.9,1.3,27.9,EVgo,23,Tesla Proprietary,2023,No,3.4,16,Monthly
+EVST00028,-34.823723,151.347831,"5977 Sydney St, Station Area",DC Fast,0.3084,57.0,9.58,36.5,Blink,110,"CCS, CHAdeMO, Type 2",2012,No,3.7,18,Monthly
+EVST00029,49.668297,-0.529174,"8023 Paris St, Station Area",DC Fast,0.3427,77.6,1.62,62.3,BP Pulse,124,CCS,2018,No,3.4,2,Monthly
+EVST00030,36.82059,140.365853,"4419 Tokyo St, Station Area",AC Level 2,0.1204,59.9,5.7,37.9,ChargePoint,14,CHAdeMO,2017,No,4.0,29,Monthly
+EVST00031,36.348349,139.649455,"1388 Tokyo St, Station Area",AC Level 2,0.1336,92.2,10.43,10.9,Shell Recharge,21,"CHAdeMO, Tesla Proprietary",2023,No,3.6,29,Quarterly
+EVST00032,48.979004,-0.06826,"2445 London St, Station Area",AC Level 2,0.1554,91.8,6.28,18.7,ChargePoint,24,"CHAdeMO, J1772, Tesla Proprietary",2012,No,3.4,23,Quarterly
+EVST00033,38.581952,-120.978299,"1646 San Francisco St, Station Area",AC Level 1,0.1371,71.5,8.29,22.1,EVgo,5,Tesla Proprietary,2014,Yes,,1,Quarterly
+EVST00034,47.305138,-0.577023,"8827 Paris St, Station Area",DC Fast,0.3151,98.3,0.43,69.0,Tesla,247,CCS,2018,No,2.8,13,Quarterly
+EVST00035,28.966814,74.248249,"3195 New Delhi St, Station Area",AC Level 2,0.1982,99.0,5.17,39.8,EVgo,26,Tesla Proprietary,2022,No,3.7,24,Monthly
+EVST00036,35.639298,-122.008694,"3739 San Francisco St, Station Area",AC Level 2,0.1862,56.5,3.17,29.9,EVgo,13,"CCS, Tesla Proprietary",2018,Yes,4.5,20,Annual
+EVST00037,29.283383,77.198325,"711 New Delhi St, Station Area",AC Level 2,0.161,68.4,3.17,44.2,ChargePoint,13,Tesla Proprietary,2020,No,3.8,27,Bi-Annual
+EVST00038,-35.078698,151.464565,"4460 Sydney St, Station Area",AC Level 2,0.1203,80.0,7.75,55.6,Tesla,17,CCS,2014,No,4.3,18,Monthly
+EVST00039,49.583448,-0.820991,"9138 London St, Station Area",AC Level 1,0.1012,54.2,10.83,10.2,ChargePoint,10,"J1772, Type 2",2024,No,3.5,21,Quarterly
+EVST00040,49.92733,3.348731,"4097 Paris St, Station Area",AC Level 2,0.1051,69.1,2.54,29.8,Electrify America,26,J1772,2022,Yes,4.4,10,Monthly
+EVST00041,38.137367,-121.020442,"6512 San Francisco St, Station Area",DC Fast,0.38,63.1,10.22,52.0,Tesla,231,"CHAdeMO, Type 2",2012,Yes,3.7,24,Annual
+EVST00042,-34.789765,151.935273,"1820 Sydney St, Station Area",AC Level 2,0.156,97.6,11.16,38.8,EVgo,22,Tesla Proprietary,2021,No,3.5,16,Quarterly
+EVST00043,-31.692032,150.818057,"1430 Sydney St, Station Area",AC Level 2,0.0705,70.6,1.04,27.7,ChargePoint,21,"CHAdeMO, Tesla Proprietary, Type 2",2013,Yes,4.5,24,Monthly
+EVST00044,35.015221,136.488766,"7315 Tokyo St, Station Area",AC Level 1,0.0732,88.1,24.82,1.0,EVgo,5,J1772,2019,Yes,3.1,6,Bi-Annual
+EVST00045,37.823062,-121.265546,"658 San Francisco St, Station Area",AC Level 2,0.1696,69.3,13.07,38.3,Tesla,24,"CHAdeMO, Type 2",2021,Yes,3.6,8,Bi-Annual
+EVST00046,29.01727,79.041593,"4484 New Delhi St, Station Area",AC Level 1,0.0753,56.6,19.53,6.4,Blink,7,"CCS, CHAdeMO, Type 2",2024,Yes,4.3,3,Monthly
+EVST00047,34.746701,140.617138,"3167 Tokyo St, Station Area",AC Level 2,0.1715,93.2,4.78,16.2,Electrify America,21,Tesla Proprietary,2012,No,2.7,20,Quarterly
+EVST00048,29.320604,75.889536,"163 New Delhi St, Station Area",DC Fast,0.2575,50.0,2.33,37.9,ChargePoint,231,Type 2,2015,No,,22,Quarterly
+EVST00049,-34.668979,152.219992,"5312 Sydney St, Station Area",AC Level 2,0.1108,52.8,0.38,33.1,ChargePoint,21,"CCS, CHAdeMO, Type 2",2020,,4.0,9,Monthly
+EVST00050,-34.486257,152.500095,"9639 Sydney St, Station Area",AC Level 2,0.1479,68.2,13.62,30.1,Electrify America,29,"CCS, CHAdeMO, Tesla Proprietary",2015,No,3.4,12,Monthly
+EVST00051,-31.824836,153.547524,"692 Sydney St, Station Area",AC Level 1,0.0806,84.3,28.83,1.0,ChargePoint,4,"CCS, CHAdeMO, J1772",2021,Yes,4.4,17,Bi-Annual
+EVST00052,49.946521,-1.441965,"8157 London St, Station Area",AC Level 1,0.073,67.1,6.93,13.2,Blink,12,"CCS, CHAdeMO, Tesla Proprietary",2014,Yes,4.9,22,Bi-Annual
+EVST00053,32.05703,139.310618,"5391 Tokyo St, Station Area",AC Level 2,0.1868,53.3,4.74,27.0,Tesla,20,Type 2,2014,No,4.1,9,Quarterly
+EVST00054,38.092605,140.771208,"7235 Tokyo St, Station Area",DC Fast,0.2575,65.9,8.27,42.3,Electrify America,185,CCS,2019,No,3.7,15,Quarterly
+EVST00055,39.500192,139.736415,"966 Tokyo St, Station Area",AC Level 2,0.1594,62.2,0.73,33.1,ChargePoint,26,"CHAdeMO, Tesla Proprietary, Type 2",2020,Yes,3.4,6,Quarterly
+EVST00056,37.166996,-124.095391,"8690 San Francisco St, Station Area",AC Level 2,0.152,50.3,1.91,28.0,ChargePoint,20,Tesla Proprietary,2014,No,3.5,24,Quarterly
+EVST00057,45.951343,2.974124,"115 Paris St, Station Area",DC Fast,0.2222,76.7,6.36,76.5,EVgo,191,J1772,2023,Yes,4.5,26,Bi-Annual
+EVST00058,37.309174,-121.551408,"9067 San Francisco St, Station Area",AC Level 1,0.0536,55.8,5.35,20.9,Tesla,9,J1772,2023,No,4.4,22,Monthly
+EVST00059,-34.298134,151.341244,"6577 Sydney St, Station Area",AC Level 2,0.1504,64.4,21.81,1.0,EVgo,18,CHAdeMO,2013,,4.2,24,Monthly
+EVST00060,-34.153686,151.538677,"3375 Sydney St, Station Area",AC Level 2,0.2094,82.1,5.76,30.4,Tesla,18,"CCS, Tesla Proprietary",2015,No,2.6,23,Monthly
+EVST00061,26.943818,76.820941,"72 New Delhi St, Station Area",DC Fast,0.329,86.3,3.07,42.1,Electrify America,152,"J1772, Type 2",2019,No,3.6,25,Bi-Annual
+EVST00062,-32.999458,153.426718,"6109 Sydney St, Station Area",AC Level 2,0.0982,63.2,3.69,52.4,BP Pulse,21,"J1772, Tesla Proprietary",2018,Yes,4.1,13,Quarterly
+EVST00063,36.462961,138.299262,"875 Tokyo St, Station Area",DC Fast,0.1445,66.5,7.55,41.8,Blink,220,Tesla Proprietary,2015,No,4.0,6,Quarterly
+EVST00064,26.372292,76.328019,"6087 New Delhi St, Station Area",DC Fast,0.3367,62.3,1.09,54.1,ChargePoint,185,"Tesla Proprietary, Type 2",2018,No,4.3,28,Quarterly
+EVST00065,36.724995,139.666778,"7730 Tokyo St, Station Area",DC Fast,0.2952,97.8,2.91,55.0,Blink,146,,2024,Yes,4.1,1,Bi-Annual
+EVST00066,54.586427,1.190631,"2673 London St, Station Area",DC Fast,0.3571,59.5,2.51,48.5,ChargePoint,180,J1772,2015,No,3.2,12,Monthly
+EVST00067,28.87184,74.96294,"2387 New Delhi St, Station Area",DC Fast,0.256,59.2,20.37,40.1,EVgo,48,"CHAdeMO, Tesla Proprietary",2014,No,,22,Quarterly
+EVST00068,35.170212,137.684855,"2220 Tokyo St, Station Area",DC Fast,0.3175,72.3,3.01,58.0,Shell Recharge,119,J1772,2021,Yes,3.6,24,Bi-Annual
+EVST00069,37.561895,-125.475993,"2248 San Francisco St, Station Area",DC Fast,0.3423,59.5,2.39,39.9,Blink,164,,2019,No,4.1,20,Quarterly
+EVST00070,36.599085,139.699343,"1139 Tokyo St, Station Area",DC Fast,0.2776,57.8,1.33,62.3,ChargePoint,206,"CCS, CHAdeMO",2020,Yes,3.2,15,Quarterly
+EVST00071,-36.464807,149.531841,"2497 Sydney St, Station Area",DC Fast,0.2787,54.8,4.55,47.3,EVgo,160,"CCS, J1772",2020,No,3.8,27,Monthly
+EVST00072,51.753986,-0.704625,"6592 London St, Station Area",DC Fast,0.3013,82.0,0.27,58.9,BP Pulse,223,"CCS, Tesla Proprietary",2021,No,,7,Annual
+EVST00073,35.090504,140.642367,"3025 Tokyo St, Station Area",AC Level 2,0.1663,80.6,7.71,31.9,ChargePoint,26,J1772,2021,No,3.9,5,Quarterly
+EVST00074,40.546638,-123.381714,"7808 San Francisco St, Station Area",AC Level 2,0.1496,82.5,8.64,40.5,Electrify America,20,CCS,2019,No,4.1,19,Bi-Annual
+EVST00075,-34.130059,151.556223,"8192 Sydney St, Station Area",AC Level 2,0.1792,88.7,0.89,37.2,Shell Recharge,21,"CCS, J1772, Tesla Proprietary",2017,No,,10,Bi-Annual
+EVST00076,38.178031,139.201293,"7609 Tokyo St, Station Area",DC Fast,0.2769,66.3,0.21,27.3,EVgo,170,Type 2,2017,Yes,4.4,14,Bi-Annual
+EVST00077,49.851789,0.880371,"5395 London St, Station Area",AC Level 2,0.1101,95.9,3.11,52.6,Tesla,20,"CCS, J1772, Type 2",2015,Yes,4.4,14,Monthly
+EVST00078,52.388289,0.584892,"3163 London St, Station Area",DC Fast,0.3988,86.7,26.35,33.3,EVgo,227,"CCS, CHAdeMO, Type 2",2017,No,3.6,8,Quarterly
+EVST00079,49.3357,1.314299,"9298 Paris St, Station Area",DC Fast,0.2698,90.2,15.75,67.1,Blink,95,"CHAdeMO, Tesla Proprietary",2019,Yes,3.8,29,Monthly
+EVST00080,-35.172371,150.956322,"2053 Sydney St, Station Area",DC Fast,0.2716,86.0,10.6,24.9,EVgo,166,"J1772, Tesla Proprietary",2021,No,3.2,12,Monthly
+EVST00081,28.879994,78.774615,"4645 New Delhi St, Station Area",AC Level 2,0.148,67.9,13.33,25.1,ChargePoint,26,J1772,2022,Yes,4.1,20,Monthly
+EVST00082,37.494978,140.240365,"4536 Tokyo St, Station Area",DC Fast,0.3034,64.2,15.87,62.6,Electrify America,134,"CHAdeMO, J1772",2016,Yes,3.9,5,Quarterly
+EVST00083,37.289212,-124.514843,"7455 San Francisco St, Station Area",DC Fast,0.2807,71.1,3.06,42.2,Shell Recharge,123,"CHAdeMO, J1772, Tesla Proprietary",2021,Yes,3.3,29,Quarterly
+EVST00084,-36.406744,152.192727,"5468 Sydney St, Station Area",DC Fast,0.5631958415223196,54.9,4.84,152.3084218412149,Blink,146,"CCS, J1772, Tesla Proprietary",2017,No,3.7,29,Quarterly
+EVST00085,48.830256,0.725284,"7994 Paris St, Station Area",DC Fast,0.298,72.6,9.58,53.9,Tesla,191,"CCS, Tesla Proprietary",2016,Yes,,3,Quarterly
+EVST00086,-35.222435,153.32807,"9190 Sydney St, Station Area",AC Level 2,0.1552,52.2,2.33,46.1,Blink,20,"CHAdeMO, J1772, Type 2",2014,Yes,4.6,19,Monthly
+EVST00087,37.261389,-120.883252,"3906 San Francisco St, Station Area",AC Level 2,0.0793,50.2,18.97,18.5,ChargePoint,17,"CCS, Type 2",2015,No,4.2,18,Quarterly
+EVST00088,51.385018,0.307028,"8747 London St, Station Area",AC Level 2,0.2064,96.6,7.51,26.3,Tesla,28,Type 2,2020,No,3.4,6,Quarterly
+EVST00089,-36.427278,151.445149,"1697 Sydney St, Station Area",DC Fast,0.2926,84.5,6.68,70.1,ChargePoint,170,"CCS, Tesla Proprietary, Type 2",2014,No,3.9,23,Monthly
+EVST00090,-36.292288,150.895752,"9159 Sydney St, Station Area",AC Level 2,0.1674,78.1,3.37,26.0,Electrify America,27,"CHAdeMO, Tesla Proprietary, Type 2",2013,Yes,4.3,23,Bi-Annual
+EVST00091,36.3993,140.668086,"1780 Tokyo St, Station Area",DC Fast,0.2311,67.1,0.74,37.9,Blink,188,"CHAdeMO, Tesla Proprietary, Type 2",2015,Yes,4.7,25,Quarterly
+EVST00092,-34.652878,150.653133,"8501 Sydney St, Station Area",DC Fast,0.2764,78.5,8.78,51.2,Shell Recharge,259,"J1772, Tesla Proprietary, Type 2",2024,No,4.7,18,Quarterly
+EVST00093,24.766783,77.562355,"3902 New Delhi St, Station Area",AC Level 2,0.1298,94.6,9.93,27.7,Blink,28,Tesla Proprietary,2013,Yes,4.4,21,Bi-Annual
+EVST00094,36.853466,140.958202,"9644 Tokyo St, Station Area",AC Level 2,0.1941,82.6,17.77,19.9,Blink,18,"CCS, CHAdeMO, Type 2",2013,No,4.3,21,Quarterly
+EVST00095,29.022455,76.36629,"1292 New Delhi St, Station Area",AC Level 2,0.1324,80.1,6.8,32.2,Electrify America,24,"J1772, Tesla Proprietary",2017,No,4.2,23,Quarterly
+EVST00096,50.436588,-1.052089,"4655 London St, Station Area",DC Fast,0.3379,73.0,8.33,40.1,EVgo,122,"CCS, CHAdeMO, J1772",2016,Yes,4.9,17,Annual
+EVST00097,49.532155,-1.919348,"9017 London St, Station Area",AC Level 2,0.1305,67.3,9.62,29.9,ChargePoint,20,"CCS, CHAdeMO, Tesla Proprietary",2023,No,3.5,22,Monthly
+EVST00098,-32.615088,149.612591,"475 Sydney St, Station Area",AC Level 1,0.0709,84.9,6.95,1.0,Shell Recharge,4,CCS,2015,Yes,3.7,2,Quarterly
+EVST00099,49.380626,-0.390393,"2650 Paris St, Station Area",DC Fast,0.2877,99.0,3.35,57.9,Blink,136,Tesla Proprietary,2017,Yes,4.3,18,Annual
+EVST00100,41.348803,-121.324657,"836 San Francisco St, Station Area",AC Level 2,0.1885,71.2,6.38,29.8,ChargePoint,25,"CHAdeMO, J1772",2015,Yes,3.3,6,Bi-Annual
+EVST00101,-33.238517,153.922672,"3213 Sydney St, Station Area",DC Fast,0.2055,69.6,1.62,71.9,EVgo,147,CHAdeMO,2015,No,3.1,12,Quarterly
+EVST00102,52.088955,2.010193,"3902 London St, Station Area",AC Level 2,0.1105,71.4,1.52,36.4,Tesla,17,J1772,2016,No,3.5,23,Monthly
+EVST00103,-34.119192,148.770173,"6188 Sydney St, Station Area",AC Level 2,0.0916,71.3,22.56,17.9,Tesla,14,"CHAdeMO, J1772, Type 2",2015,No,,4,Quarterly
+EVST00104,39.000064,-121.332118,"2577 San Francisco St, Station Area",AC Level 1,0.0582,99.5,1.69,12.2,Shell Recharge,11,Tesla Proprietary,2021,Yes,4.0,22,Bi-Annual
+EVST00105,-32.931172,153.34246,"1587 Sydney St, Station Area",AC Level 2,0.1257,85.3,4.86,36.1,EVgo,24,"CHAdeMO, J1772",2022,No,3.6,8,Quarterly
+EVST00106,-31.991212,150.524085,"1700 Sydney St, Station Area",AC Level 2,0.1016,68.0,4.83,36.5,Blink,18,Type 2,2014,No,3.6,22,Monthly
+EVST00107,-34.650784,151.361471,"9383 Sydney St, Station Area",DC Fast,0.2633,68.6,6.17,31.8,Blink,173,"J1772, Type 2",2018,No,3.1,23,Monthly
+EVST00108,48.203489,-0.65964,"9531 Paris St, Station Area",AC Level 2,0.0896,71.5,28.92,33.1,ChargePoint,33,"CHAdeMO, Tesla Proprietary",2015,No,2.2,1,Bi-Annual
+EVST00109,34.957545,140.050404,"2214 Tokyo St, Station Area",AC Level 2,0.1195,51.8,2.29,37.9,Electrify America,25,Tesla Proprietary,2023,No,3.1,7,Quarterly
+EVST00110,-32.682597,149.61396,"1954 Sydney St, Station Area",AC Level 2,0.186,76.4,0.31,21.7,ChargePoint,8,"Tesla Proprietary, Type 2",2013,No,3.9,24,Annual
+EVST00111,53.754962,0.171653,"542 London St, Station Area",AC Level 2,0.1621,90.6,3.45,41.4,Tesla,35,"CHAdeMO, Tesla Proprietary, Type 2",2017,Yes,4.0,10,Quarterly
+EVST00112,-34.557061,148.867496,"9592 Sydney St, Station Area",DC Fast,0.3094,83.0,3.56,40.6,Tesla,58,"CHAdeMO, J1772, Tesla Proprietary",2016,No,4.0,13,Quarterly
+EVST00113,48.219439,3.166487,"7061 Paris St, Station Area",AC Level 2,0.1199,59.9,1.12,36.9,Electrify America,21,Tesla Proprietary,2016,Yes,4.2,1,Monthly
+EVST00114,36.147316,141.187069,"7607 Tokyo St, Station Area",DC Fast,0.2232,86.4,0.19,59.1,ChargePoint,93,"CCS, CHAdeMO",2024,No,3.3,21,Quarterly
+EVST00115,48.487958,1.17743,"2906 Paris St, Station Area",AC Level 2,0.1158,86.0,2.59,52.5,ChargePoint,18,CHAdeMO,2019,Yes,3.8,3,Quarterly
+EVST00116,50.28468,0.646816,"6409 Paris St, Station Area",AC Level 1,0.0791,63.1,6.93,7.9,Shell Recharge,8,"CCS, Type 2",2016,Yes,5.0,8,Monthly
+EVST00117,34.397234,-125.653435,"598 San Francisco St, Station Area",AC Level 2,0.176,81.1,0.19,28.2,Tesla,12,"CCS, CHAdeMO, Type 2",2022,Yes,4.0,14,Quarterly
+EVST00118,36.534842,-122.81902,"6759 San Francisco St, Station Area",AC Level 1,0.5582681706431459,80.5,3.96,157.25974383532278,EVgo,7,J1772,2022,No,4.2,23,Monthly
+EVST00119,50.333775,-1.000191,"5796 London St, Station Area",DC Fast,0.3315,92.0,4.66,53.4,Electrify America,207,"CCS, CHAdeMO, Tesla Proprietary",2013,Yes,3.9,15,Bi-Annual
+EVST00120,34.294366,-124.745929,"3315 San Francisco St, Station Area",AC Level 2,0.1279,56.8,16.89,22.2,Shell Recharge,18,CCS,2018,No,4.5,29,Monthly
+EVST00121,34.230742,140.329828,"7104 Tokyo St, Station Area",AC Level 2,0.1507,59.7,18.01,28.0,Blink,15,"CCS, Tesla Proprietary",2017,No,3.4,16,Quarterly
+EVST00122,-35.241534,150.534344,"6463 Sydney St, Station Area",DC Fast,0.5535541364512303,74.3,11.51,151.88291897937302,Shell Recharge,143,J1772,2017,Yes,4.2,8,Quarterly
+EVST00123,48.554943,0.738596,"4390 Paris St, Station Area",AC Level 2,0.144,52.2,3.77,43.2,ChargePoint,20,"CCS, Type 2",2016,No,4.9,6,Monthly
+EVST00124,37.345649,138.818441,"1867 Tokyo St, Station Area",DC Fast,0.4019,70.8,2.19,55.4,BP Pulse,120,J1772,2022,No,3.7,23,Quarterly
+EVST00125,28.246309,78.815957,"236 New Delhi St, Station Area",DC Fast,0.2119,89.4,3.08,65.7,ChargePoint,91,"CHAdeMO, J1772, Tesla Proprietary",2024,No,4.0,14,Bi-Annual
+EVST00126,47.310379,3.256605,"9376 Paris St, Station Area",DC Fast,0.2883,57.4,4.49,51.7,Blink,176,J1772,2012,,4.8,18,Quarterly
+EVST00127,37.689468,-122.614439,"2814 San Francisco St, Station Area",DC Fast,0.3606,73.0,9.72,66.1,ChargePoint,180,CHAdeMO,2023,No,4.2,11,Quarterly
+EVST00128,-32.29504,152.137958,"3018 Sydney St, Station Area",DC Fast,0.2267,99.5,6.98,71.3,Electrify America,97,"CHAdeMO, Tesla Proprietary",2023,Yes,,8,Bi-Annual
+EVST00129,47.392662,0.610832,"6810 Paris St, Station Area",AC Level 2,0.1307,75.3,0.19,51.0,BP Pulse,17,CCS,2016,No,3.4,18,Annual
+EVST00130,47.490738,2.400755,"2552 Paris St, Station Area",DC Fast,0.2735,74.9,6.38,57.5,Blink,157,"CCS, CHAdeMO, Tesla Proprietary",2018,No,4.1,9,Bi-Annual
+EVST00131,49.694423,2.573183,"3757 Paris St, Station Area",AC Level 1,0.0755,77.9,12.79,5.8,Blink,5,CHAdeMO,2013,No,3.9,29,Quarterly
+EVST00132,48.524296,1.647445,"7111 Paris St, Station Area",DC Fast,0.2202,59.3,19.52,37.1,Blink,159,"CCS, Type 2",2016,Yes,4.4,22,Quarterly
+EVST00133,38.746127,-121.766212,"5953 San Francisco St, Station Area",DC Fast,0.3298,57.4,0.55,55.5,ChargePoint,223,Tesla Proprietary,2015,No,4.2,24,Quarterly
+EVST00134,48.83613,1.18155,"6564 Paris St, Station Area",AC Level 1,0.0933,83.9,42.48,1.0,Electrify America,7,"J1772, Tesla Proprietary, Type 2",2023,Yes,4.2,9,Quarterly
+EVST00135,-32.816305,151.974031,"47 Sydney St, Station Area",DC Fast,0.3254,69.8,6.17,72.6,ChargePoint,89,CHAdeMO,2013,Yes,4.1,1,Quarterly
+EVST00136,49.954783,0.699988,"4513 London St, Station Area",DC Fast,0.2565,64.5,0.57,64.9,BP Pulse,170,"CHAdeMO, Type 2",2016,Yes,4.2,2,Bi-Annual
+EVST00137,48.838473,-2.02354,"4752 Paris St, Station Area",AC Level 2,0.1526,51.6,10.35,30.9,BP Pulse,21,"CCS, J1772, Tesla Proprietary",2018,No,4.4,25,Quarterly
+EVST00138,37.458865,-120.633941,"6324 San Francisco St, Station Area",AC Level 2,0.123,92.3,15.92,5.8,ChargePoint,21,"J1772, Tesla Proprietary, Type 2",2024,Yes,4.7,26,Bi-Annual
+EVST00139,33.852364,135.078851,"1515 Tokyo St, Station Area",DC Fast,0.2834,51.6,2.87,53.5,EVgo,174,"CHAdeMO, Tesla Proprietary, Type 2",2022,No,3.7,20,Annual
+EVST00140,33.330983,138.726226,"1595 Tokyo St, Station Area",DC Fast,0.4077,87.5,2.08,36.3,BP Pulse,185,"CCS, CHAdeMO, Tesla Proprietary",2024,No,2.6,18,Quarterly
+EVST00141,29.642524,78.747022,"7623 New Delhi St, Station Area",AC Level 1,0.0819,69.1,3.39,14.8,Shell Recharge,7,"CCS, Tesla Proprietary, Type 2",2016,No,4.1,7,Monthly
+EVST00142,50.980971,-0.60373,"6732 London St, Station Area",AC Level 2,0.1144,79.9,7.63,27.1,Electrify America,22,"CCS, CHAdeMO, Type 2",2015,No,4.4,22,Annual
+EVST00143,49.97398,-2.327079,"8111 London St, Station Area",DC Fast,0.309,62.4,2.79,59.4,ChargePoint,253,J1772,2019,No,3.5,15,Monthly
+EVST00144,35.531932,138.009694,"2706 Tokyo St, Station Area",AC Level 2,0.1094,57.8,0.9,37.1,ChargePoint,28,"J1772, Tesla Proprietary, Type 2",2016,,3.7,18,Bi-Annual
+EVST00145,30.305928,78.749359,"9975 New Delhi St, Station Area",AC Level 2,0.114,76.7,3.79,21.5,Electrify America,26,"CHAdeMO, Tesla Proprietary, Type 2",2012,No,3.6,1,Monthly
+EVST00146,25.192793,74.326743,"2728 New Delhi St, Station Area",AC Level 1,0.0592,84.8,2.56,3.9,EVgo,7,"J1772, Tesla Proprietary",2022,Yes,4.3,15,Monthly
+EVST00147,35.529942,-120.725913,"6509 San Francisco St, Station Area",AC Level 2,0.1367,59.8,6.44,43.8,Tesla,17,"CCS, Tesla Proprietary, Type 2",2013,Yes,4.7,21,Monthly
+EVST00148,50.12307,-0.210453,"1622 London St, Station Area",AC Level 2,0.1781,71.8,13.41,19.5,Electrify America,28,Tesla Proprietary,2014,Yes,3.8,23,Monthly
+EVST00149,-31.677032,149.420707,"9184 Sydney St, Station Area",DC Fast,0.3289,72.2,4.18,83.8,EVgo,157,"CCS, CHAdeMO, Tesla Proprietary",2024,No,3.6,5,Annual
+EVST00150,38.19878,-123.294073,"3324 San Francisco St, Station Area",AC Level 2,0.1657,60.8,18.45,35.6,ChargePoint,19,"CHAdeMO, J1772, Tesla Proprietary",2021,Yes,4.7,1,Monthly
+EVST00151,29.764876,75.683163,"8024 New Delhi St, Station Area",DC Fast,0.2451,78.3,8.5,43.6,EVgo,138,"J1772, Tesla Proprietary, Type 2",2020,Yes,4.2,25,Monthly
+EVST00152,49.797159,1.171538,"3312 London St, Station Area",AC Level 2,0.1338,57.3,5.2,52.8,Shell Recharge,17,"CCS, J1772, Tesla Proprietary",2013,No,3.8,10,Quarterly
+EVST00153,26.934596,78.307642,"7907 New Delhi St, Station Area",AC Level 2,0.1582,75.5,9.68,45.5,Blink,27,"CCS, J1772",2015,Yes,,14,Annual
+EVST00154,52.179121,-2.706542,"4541 London St, Station Area",AC Level 1,0.0674,55.7,13.61,1.0,ChargePoint,8,"CCS, Tesla Proprietary",2014,No,,19,Quarterly
+EVST00155,35.763611,139.044912,"625 Tokyo St, Station Area",AC Level 2,0.1416,74.3,8.19,7.9,BP Pulse,23,"CHAdeMO, Type 2",2020,Yes,3.5,15,Bi-Annual
+EVST00156,49.679708,1.057422,"1904 Paris St, Station Area",AC Level 2,0.1632,65.6,0.8,34.6,Electrify America,22,Tesla Proprietary,2018,No,4.4,28,Monthly
+EVST00157,37.493394,-120.479135,"6834 San Francisco St, Station Area",AC Level 2,0.1395,72.6,0.23,42.5,EVgo,19,"CCS, CHAdeMO",2016,Yes,3.9,25,Bi-Annual
+EVST00158,49.273816,0.327051,"1930 Paris St, Station Area",AC Level 1,0.0845,71.7,12.82,1.0,Shell Recharge,3,Tesla Proprietary,2021,Yes,5.0,12,Bi-Annual
+EVST00159,49.093779,4.758544,"2753 Paris St, Station Area",AC Level 2,0.1978,95.4,0.89,45.6,EVgo,15,,2022,No,3.3,6,Bi-Annual
+EVST00160,-32.702149,151.159358,"5417 Sydney St, Station Area",DC Fast,0.2914,74.5,6.22,46.7,BP Pulse,113,"Tesla Proprietary, Type 2",2021,No,4.2,29,Quarterly
+EVST00161,29.824412,75.466098,"2530 New Delhi St, Station Area",AC Level 2,0.1854,90.9,0.79,30.2,Shell Recharge,18,"CCS, Type 2",2013,Yes,4.0,21,Annual
+EVST00162,46.426792,1.336289,"1289 Paris St, Station Area",DC Fast,0.328,61.3,19.56,31.0,Blink,164,"J1772, Type 2",2019,Yes,3.1,22,Quarterly
+EVST00163,32.305297,138.447872,"6242 Tokyo St, Station Area",DC Fast,0.2266,67.6,3.12,49.4,EVgo,191,"CHAdeMO, Tesla Proprietary",2014,No,4.6,14,Bi-Annual
+EVST00164,37.178818,137.738372,"6888 Tokyo St, Station Area",AC Level 2,0.1169,53.8,7.98,20.9,Blink,21,"CCS, J1772, Type 2",2015,Yes,3.1,15,Bi-Annual
+EVST00165,37.457788,139.79254,"7330 Tokyo St, Station Area",AC Level 1,0.0633,71.0,2.29,12.8,Tesla,10,CCS,2024,No,,6,Monthly
+EVST00166,-35.399735,149.367427,"9438 Sydney St, Station Area",AC Level 2,0.1244,83.4,5.96,16.5,Tesla,18,Tesla Proprietary,2017,No,4.7,13,Annual
+EVST00167,48.717647,-3.398349,"1245 London St, Station Area",AC Level 1,0.0782,91.9,0.14,1.0,EVgo,7,"CCS, J1772, Type 2",2022,No,3.0,16,Bi-Annual
+EVST00168,51.655952,-0.697315,"4268 London St, Station Area",AC Level 2,0.1684,78.3,2.39,37.5,BP Pulse,22,CHAdeMO,2015,No,3.3,4,Bi-Annual
+EVST00169,37.072457,136.946016,"2340 Tokyo St, Station Area",AC Level 2,0.1877,82.0,10.85,51.3,EVgo,27,Tesla Proprietary,2024,Yes,4.5,19,Quarterly
+EVST00170,40.471292,-123.547641,"9010 San Francisco St, Station Area",AC Level 2,0.1592,58.9,3.83,18.4,Electrify America,23,"CCS, J1772",2015,No,4.3,18,Bi-Annual
+EVST00171,38.549346,-123.783054,"5397 San Francisco St, Station Area",AC Level 2,0.1366,51.9,5.03,4.7,Tesla,23,"CHAdeMO, Tesla Proprietary",2014,No,2.8,25,Quarterly
+EVST00172,37.217325,-123.726224,"983 San Francisco St, Station Area",DC Fast,0.1959,89.6,10.69,51.2,EVgo,67,"CCS, CHAdeMO, Tesla Proprietary",2016,No,2.6,2,Annual
+EVST00173,-35.208496,154.210745,"6921 Sydney St, Station Area",DC Fast,0.3035,58.4,2.32,78.7,ChargePoint,105,"J1772, Tesla Proprietary",2014,No,3.0,7,Monthly
+EVST00174,-33.851623,151.293917,"430 Sydney St, Station Area",DC Fast,0.3013,54.6,0.48,61.8,Tesla,205,"CCS, Tesla Proprietary",2019,,2.7,13,Quarterly
+EVST00175,-34.317697,151.577357,"2742 Sydney St, Station Area",AC Level 2,0.1555,96.9,3.79,38.9,Tesla,12,"CCS, Tesla Proprietary",2013,Yes,4.5,26,Monthly
+EVST00176,34.153598,136.985703,"7213 Tokyo St, Station Area",AC Level 2,0.2132,98.2,8.24,42.2,ChargePoint,29,J1772,2014,No,3.0,7,Bi-Annual
+EVST00177,-30.795667,150.228355,"5060 Sydney St, Station Area",AC Level 1,0.1048,80.8,6.77,22.0,Electrify America,8,"CHAdeMO, J1772",2021,No,2.7,29,Quarterly
+EVST00178,40.452653,-122.096446,"7609 San Francisco St, Station Area",DC Fast,0.3393,68.9,13.14,24.7,EVgo,113,Type 2,2012,Yes,4.0,28,Bi-Annual
+EVST00179,30.317973,75.672207,"5711 New Delhi St, Station Area",AC Level 2,0.1211,91.7,23.56,45.0,Blink,18,CHAdeMO,2017,No,3.7,3,Bi-Annual
+EVST00180,47.475324,3.714294,"8429 Paris St, Station Area",AC Level 2,0.1346,60.2,14.78,24.1,Shell Recharge,31,"CCS, CHAdeMO, Type 2",2021,No,2.6,11,Quarterly
+EVST00181,29.896429,75.404955,"5625 New Delhi St, Station Area",AC Level 2,0.1472,71.5,1.85,29.9,Blink,29,"J1772, Type 2",2017,No,3.3,8,Bi-Annual
+EVST00182,38.73434,-122.848949,"569 San Francisco St, Station Area",DC Fast,0.2612,67.9,11.7,50.0,Tesla,144,"J1772, Type 2",2012,No,3.7,15,Quarterly
+EVST00183,36.340018,138.771223,"713 Tokyo St, Station Area",AC Level 2,0.165,95.6,8.39,36.0,Tesla,23,Type 2,2014,Yes,4.1,27,Quarterly
+EVST00184,-31.994302,151.455781,"7768 Sydney St, Station Area",AC Level 2,0.1607,96.0,5.48,22.4,ChargePoint,19,"CHAdeMO, J1772",2024,No,3.5,11,Quarterly
+EVST00185,36.629257,138.689565,"386 Tokyo St, Station Area",AC Level 2,0.1174,82.5,2.37,15.6,EVgo,23,"CCS, CHAdeMO, J1772",2022,Yes,3.6,20,Monthly
+EVST00186,36.786221,139.24396,"3765 Tokyo St, Station Area",AC Level 2,0.1859,55.5,11.05,36.4,Blink,19,"CHAdeMO, Tesla Proprietary, Type 2",2016,No,,4,Monthly
+EVST00187,38.730259,-122.773595,"162 San Francisco St, Station Area",AC Level 2,0.1531,74.1,3.68,10.8,ChargePoint,22,"J1772, Type 2",2023,No,3.5,17,Quarterly
+EVST00188,36.187387,138.548718,"3033 Tokyo St, Station Area",AC Level 2,0.0981,62.3,0.1,25.6,Tesla,31,"CHAdeMO, J1772, Type 2",2012,No,2.9,11,Quarterly
+EVST00189,48.831983,0.599841,"5951 London St, Station Area",AC Level 2,0.1485,94.2,9.65,34.0,ChargePoint,22,"J1772, Type 2",2012,Yes,4.3,27,Quarterly
+EVST00190,51.632832,0.229783,"1730 London St, Station Area",DC Fast,0.3141,56.9,2.59,58.9,BP Pulse,98,Type 2,2023,No,3.8,23,Annual
+EVST00191,-34.703088,151.076379,"4661 Sydney St, Station Area",AC Level 1,0.0995,52.7,14.85,7.3,EVgo,4,"CCS, Type 2",2020,No,3.7,7,Monthly
+EVST00192,46.936839,1.706512,"9959 Paris St, Station Area",DC Fast,0.2831,85.2,15.73,51.2,Blink,156,"CHAdeMO, Tesla Proprietary",2019,Yes,4.8,19,Bi-Annual
+EVST00193,51.379325,3.547016,"705 Paris St, Station Area",AC Level 2,0.1748,72.7,1.07,56.2,BP Pulse,18,Tesla Proprietary,2016,Yes,4.1,10,Bi-Annual
+EVST00194,38.269693,139.296549,"637 Tokyo St, Station Area",DC Fast,0.3094,91.9,12.97,44.3,EVgo,162,"J1772, Type 2",2022,Yes,3.9,13,Bi-Annual
+EVST00195,30.652731,76.748954,"2712 New Delhi St, Station Area",AC Level 2,0.1105,53.7,3.45,44.2,Tesla,14,"J1772, Tesla Proprietary",2019,No,3.4,14,Quarterly
+EVST00196,38.15772,-122.262365,"8269 San Francisco St, Station Area",DC Fast,0.2292,90.1,2.62,64.6,Electrify America,185,"CCS, J1772, Type 2",2017,No,4.6,24,Monthly
+EVST00197,37.702138,142.19518,"4058 Tokyo St, Station Area",AC Level 2,0.1837,51.9,4.83,42.6,Shell Recharge,17,Tesla Proprietary,2016,No,3.4,9,Bi-Annual
+EVST00198,37.79298,-124.429934,"6394 San Francisco St, Station Area",DC Fast,0.3598,51.4,2.18,81.0,ChargePoint,152,"CCS, CHAdeMO",2016,No,4.2,1,Bi-Annual
+EVST00199,35.980396,140.805085,"339 Tokyo St, Station Area",AC Level 2,0.1597,73.1,2.56,47.0,ChargePoint,20,"CCS, CHAdeMO",2019,No,4.1,6,Bi-Annual
+EVST00200,26.973693,74.369243,"7350 New Delhi St, Station Area",DC Fast,0.3748,61.1,6.58,52.2,BP Pulse,236,"CCS, Tesla Proprietary, Type 2",2020,No,4.4,24,Monthly
+EVST00201,36.271687,139.97621,"675 Tokyo St, Station Area",DC Fast,0.3528,79.7,4.44,55.7,ChargePoint,159,"CCS, J1772",2022,Yes,3.9,9,Quarterly
+EVST00202,28.704479,79.571624,"7116 New Delhi St, Station Area",AC Level 2,0.1705,51.3,15.92,26.4,Electrify America,32,"CHAdeMO, J1772",2017,Yes,4.6,2,Quarterly
+EVST00203,33.722222,140.383303,"1479 Tokyo St, Station Area",AC Level 2,0.1227,51.8,8.07,31.5,Tesla,25,"Tesla Proprietary, Type 2",2015,Yes,3.3,12,Quarterly
+EVST00204,-33.945596,151.465238,"8583 Sydney St, Station Area",AC Level 2,0.2019,86.4,12.25,34.5,Tesla,29,"CCS, CHAdeMO",2019,No,3.3,26,Bi-Annual
+EVST00205,35.556606,138.809626,"2961 Tokyo St, Station Area",AC Level 2,0.1661,60.5,3.42,38.7,Electrify America,21,"CCS, J1772, Tesla Proprietary",2019,No,5.0,26,Monthly
+EVST00206,54.203742,-0.081229,"1838 London St, Station Area",AC Level 2,0.1384,82.8,10.82,27.2,BP Pulse,24,CCS,2015,No,2.9,28,Monthly
+EVST00207,-32.52748,150.831206,"3367 Sydney St, Station Area",AC Level 2,0.13,87.5,11.12,27.4,ChargePoint,28,CCS,2012,No,4.0,20,Monthly
+EVST00208,28.631068,76.030035,"9 New Delhi St, Station Area",AC Level 2,0.1577,53.0,15.37,27.2,Tesla,27,"CCS, J1772",2016,No,2.2,24,Monthly
+EVST00209,51.880581,-0.562613,"1651 London St, Station Area",AC Level 2,0.0999,88.5,2.91,40.6,Electrify America,25,"CCS, Type 2",2012,No,2.9,23,Monthly
+EVST00210,-33.802481,151.506872,"5985 Sydney St, Station Area",DC Fast,0.335,63.4,0.56,43.5,Blink,134,"CHAdeMO, J1772",2013,No,4.2,1,Monthly
+EVST00211,51.203029,-1.278626,"3008 London St, Station Area",AC Level 2,0.1214,69.5,5.76,34.7,Shell Recharge,21,"J1772, Tesla Proprietary",2024,Yes,3.9,13,Quarterly
+EVST00212,-35.492441,149.999877,"3538 Sydney St, Station Area",DC Fast,0.3185,54.3,0.2,52.3,EVgo,207,CCS,2022,Yes,4.1,16,Quarterly
+EVST00213,-34.095378,149.168935,"8071 Sydney St, Station Area",AC Level 1,0.0696,91.9,20.21,5.9,ChargePoint,10,"J1772, Tesla Proprietary",2012,No,3.2,14,Bi-Annual
+EVST00214,34.557053,140.236388,"1238 Tokyo St, Station Area",AC Level 2,0.1421,78.0,0.56,42.6,Shell Recharge,19,"Tesla Proprietary, Type 2",2016,No,2.5,25,Quarterly
+EVST00215,-35.744273,152.027285,"3959 Sydney St, Station Area",AC Level 1,0.0649,75.2,5.43,1.2,BP Pulse,6,"CCS, Tesla Proprietary, Type 2",2015,,4.1,29,Monthly
+EVST00216,52.274233,0.219691,"1862 London St, Station Area",DC Fast,0.2919,98.4,13.03,10.1,ChargePoint,105,Tesla Proprietary,2024,Yes,4.2,16,Bi-Annual
+EVST00217,38.361797,-120.971644,"4828 San Francisco St, Station Area",AC Level 2,0.2067,66.7,3.33,30.7,Electrify America,26,CCS,2017,No,2.8,3,Quarterly
+EVST00218,35.094839,-122.287599,"3317 San Francisco St, Station Area",DC Fast,0.3693,94.5,11.44,54.3,ChargePoint,104,"CCS, Type 2",2015,No,3.7,11,Monthly
+EVST00219,35.492173,140.238316,"463 Tokyo St, Station Area",AC Level 2,0.1606,86.0,8.91,32.5,ChargePoint,26,"CCS, Tesla Proprietary",2020,Yes,4.4,6,Quarterly
+EVST00220,30.107452,77.664756,"703 New Delhi St, Station Area",AC Level 2,0.1492,96.4,1.18,49.9,Blink,25,"J1772, Tesla Proprietary, Type 2",2018,No,3.6,14,Annual
+EVST00221,39.363736,-122.55671,"8522 San Francisco St, Station Area",AC Level 2,0.1753,95.4,9.19,23.3,Shell Recharge,19,,2014,No,3.8,7,Quarterly
+EVST00222,37.214955,138.854067,"570 Tokyo St, Station Area",AC Level 2,0.1839,99.6,4.36,14.4,ChargePoint,30,,2015,Yes,4.3,3,Annual
+EVST00223,-33.81043,154.530529,"7826 Sydney St, Station Area",AC Level 2,0.1251,56.6,3.18,44.2,ChargePoint,15,"J1772, Tesla Proprietary, Type 2",2013,Yes,4.1,5,Monthly
+EVST00224,50.239832,-0.805726,"9159 London St, Station Area",AC Level 2,0.1477,89.8,8.63,23.9,Electrify America,30,Type 2,2021,No,3.7,15,Monthly
+EVST00225,-35.494348,150.210483,"4658 Sydney St, Station Area",AC Level 2,0.0953,90.2,16.71,9.5,EVgo,24,CCS,2024,No,4.1,5,Monthly
+EVST00226,52.024307,0.523215,"3121 London St, Station Area",AC Level 1,0.1025,82.2,15.57,18.0,ChargePoint,3,"Tesla Proprietary, Type 2",2022,Yes,4.6,1,Bi-Annual
+EVST00227,-33.29988,151.587082,"7762 Sydney St, Station Area",AC Level 1,0.1213,63.9,11.4,7.5,Blink,10,"CCS, CHAdeMO, Type 2",2016,No,4.2,9,Quarterly
+EVST00228,50.787597,0.245013,"9821 Paris St, Station Area",DC Fast,0.304,98.3,7.97,48.3,Electrify America,199,"CHAdeMO, J1772",2018,No,,19,Quarterly
+EVST00229,50.506569,4.036217,"1205 Paris St, Station Area",AC Level 2,0.0862,60.2,8.56,54.6,Tesla,20,"CCS, J1772, Tesla Proprietary",2012,Yes,3.6,19,Annual
+EVST00230,51.309057,-0.269092,"9642 London St, Station Area",AC Level 1,0.0922,75.0,9.24,11.7,Electrify America,5,"CCS, CHAdeMO, Type 2",2016,No,4.0,12,Quarterly
+EVST00231,33.809891,137.983903,"9436 Tokyo St, Station Area",DC Fast,0.2548,76.1,5.51,61.0,ChargePoint,72,"CCS, CHAdeMO, Type 2",2012,No,3.3,20,Monthly
+EVST00232,28.13524,78.992176,"1426 New Delhi St, Station Area",AC Level 1,0.0667,58.1,8.5,7.1,EVgo,12,"CCS, Tesla Proprietary, Type 2",2021,Yes,4.5,6,Bi-Annual
+EVST00233,38.100747,-121.480887,"548 San Francisco St, Station Area",AC Level 2,0.1688,86.1,1.04,32.4,Electrify America,17,"CCS, Tesla Proprietary, Type 2",2023,Yes,4.3,21,Monthly
+EVST00234,-34.171925,149.312487,"7148 Sydney St, Station Area",DC Fast,0.3127,54.4,13.68,48.9,Blink,87,"J1772, Type 2",2014,Yes,,1,Quarterly
+EVST00235,34.809359,142.316074,"777 Tokyo St, Station Area",DC Fast,0.2756,84.7,2.22,41.3,ChargePoint,163,"CCS, CHAdeMO, Type 2",2020,No,2.6,4,Bi-Annual
+EVST00236,-33.489473,152.197496,"6007 Sydney St, Station Area",DC Fast,0.2675,92.4,3.98,58.4,EVgo,68,"J1772, Type 2",2019,No,4.7,27,Quarterly
+EVST00237,48.100663,2.336906,"648 Paris St, Station Area",AC Level 2,0.1538,67.5,24.32,20.8,Blink,17,Type 2,2017,No,4.4,14,Quarterly
+EVST00238,34.734101,142.035628,"6906 Tokyo St, Station Area",DC Fast,0.2795,85.5,7.27,68.5,ChargePoint,200,CHAdeMO,2021,No,3.8,17,Quarterly
+EVST00239,51.974579,0.111147,"2317 London St, Station Area",AC Level 1,0.0578,57.8,1.51,16.1,BP Pulse,8,"CCS, J1772, Type 2",2020,Yes,4.1,12,Monthly
+EVST00240,48.253611,2.310075,"962 Paris St, Station Area",DC Fast,0.2834,92.3,0.1,70.7,EVgo,131,"CCS, CHAdeMO, Tesla Proprietary",2015,No,3.9,19,Quarterly
+EVST00241,38.141057,-123.40985,"667 San Francisco St, Station Area",DC Fast,0.317,97.6,0.99,42.1,Tesla,151,Type 2,2022,No,3.3,22,Quarterly
+EVST00242,49.266406,3.224976,"1886 Paris St, Station Area",DC Fast,0.2911,57.6,1.4,45.4,ChargePoint,128,"CHAdeMO, Type 2",2020,No,3.6,23,Monthly
+EVST00243,36.065756,-121.704496,"5407 San Francisco St, Station Area",AC Level 2,0.1076,84.6,5.38,38.3,Tesla,22,CCS,2016,No,2.8,8,Monthly
+EVST00244,48.134738,2.37422,"767 Paris St, Station Area",AC Level 1,0.0998,75.3,5.79,1.0,Tesla,5,CHAdeMO,2021,No,2.7,19,Quarterly
+EVST00245,51.013265,1.16722,"8022 Paris St, Station Area",DC Fast,0.1631,76.6,3.8,46.8,BP Pulse,121,"CHAdeMO, J1772, Tesla Proprietary",2020,No,5.0,23,Quarterly
+EVST00246,36.031781,-122.224505,"6041 San Francisco St, Station Area",AC Level 2,0.1366,85.3,4.31,16.2,EVgo,19,"CHAdeMO, J1772, Type 2",2013,No,3.7,12,Quarterly
+EVST00247,-37.043782,151.104602,"2973 Sydney St, Station Area",AC Level 2,0.1314,74.4,22.04,4.6,Electrify America,18,Tesla Proprietary,2014,No,3.8,12,Annual
+EVST00248,32.883432,137.650089,"9864 Tokyo St, Station Area",DC Fast,0.3074,80.0,8.62,53.0,Blink,202,Type 2,2016,No,3.7,19,Monthly
+EVST00249,-33.825135,149.001581,"6585 Sydney St, Station Area",AC Level 2,0.1668,61.5,5.27,34.8,Tesla,26,"CCS, CHAdeMO",2012,Yes,3.6,17,Monthly
+EVST00250,37.821276,-121.57167,"6719 San Francisco St, Station Area",AC Level 2,0.1838,68.9,2.55,28.3,BP Pulse,17,"CCS, Type 2",2017,Yes,3.9,8,Bi-Annual
+EVST00251,51.330984,-4.030632,"1740 London St, Station Area",AC Level 2,0.1286,93.3,1.39,45.8,Tesla,16,CCS,2018,No,3.8,28,Monthly
+EVST00252,37.497485,139.958416,"7107 Tokyo St, Station Area",AC Level 1,0.0917,55.5,1.36,20.7,Electrify America,7,"CHAdeMO, Type 2",2022,No,3.6,17,Annual
+EVST00253,47.498148,-0.844925,"5591 London St, Station Area",AC Level 2,0.1559,79.9,8.22,34.9,Shell Recharge,33,Type 2,2014,Yes,4.2,17,Quarterly
+EVST00254,52.101301,1.83457,"9844 London St, Station Area",AC Level 1,0.0458,59.2,0.67,1.5,BP Pulse,5,"J1772, Type 2",2019,Yes,4.7,6,Quarterly
+EVST00255,51.198757,1.611998,"4780 Paris St, Station Area",DC Fast,0.395,92.3,7.47,42.1,ChargePoint,142,CHAdeMO,2020,No,3.8,20,Monthly
+EVST00256,36.083229,-121.430174,"6779 San Francisco St, Station Area",DC Fast,0.2281,79.0,15.22,40.9,ChargePoint,154,CCS,2017,Yes,4.4,27,Quarterly
+EVST00257,-34.43851,150.613929,"3411 Sydney St, Station Area",AC Level 2,0.1626,70.2,3.29,47.1,Tesla,21,"CHAdeMO, Tesla Proprietary, Type 2",2023,No,,22,Bi-Annual
+EVST00258,36.645562,-122.248778,"402 San Francisco St, Station Area",AC Level 2,0.1617,62.5,50.66,24.2,BP Pulse,20,"Tesla Proprietary, Type 2",2016,Yes,4.5,15,Monthly
+EVST00259,50.165881,0.977455,"1279 London St, Station Area",DC Fast,0.3138,71.8,3.24,49.8,EVgo,208,"CHAdeMO, J1772",2017,No,3.6,19,Bi-Annual
+EVST00260,48.367207,1.658366,"8669 Paris St, Station Area",DC Fast,0.2753,97.9,3.94,61.7,Blink,173,Type 2,2012,Yes,4.1,7,Bi-Annual
+EVST00261,-31.727572,152.704132,"7380 Sydney St, Station Area",DC Fast,0.3414,75.5,36.6,53.9,EVgo,192,"CHAdeMO, J1772, Type 2",2017,No,3.1,2,Bi-Annual
+EVST00262,54.26348,-1.618347,"3647 London St, Station Area",AC Level 2,0.1032,73.5,3.74,28.3,ChargePoint,25,"CHAdeMO, J1772",2012,No,2.6,19,Monthly
+EVST00263,51.003491,0.314089,"6977 London St, Station Area",DC Fast,0.2967,87.3,4.37,53.4,ChargePoint,195,"CCS, Tesla Proprietary, Type 2",2024,Yes,4.5,6,Bi-Annual
+EVST00264,31.47149,78.59296,"44 New Delhi St, Station Area",AC Level 2,0.1331,69.0,11.72,32.9,ChargePoint,30,"CHAdeMO, J1772, Type 2",2015,No,3.3,3,Bi-Annual
+EVST00265,28.667265,78.199056,"372 New Delhi St, Station Area",AC Level 2,0.1297,71.4,13.81,12.8,ChargePoint,29,"CHAdeMO, Tesla Proprietary",2022,No,3.1,23,Monthly
+EVST00266,51.487137,5.226867,"5072 Paris St, Station Area",DC Fast,0.3214,66.8,10.12,51.8,Electrify America,266,"J1772, Tesla Proprietary, Type 2",2013,No,4.2,13,Bi-Annual
+EVST00267,35.536252,138.505141,"6249 Tokyo St, Station Area",AC Level 2,0.1823,57.5,6.34,7.6,Blink,28,Tesla Proprietary,2015,Yes,3.8,25,Monthly
+EVST00268,35.872787,137.581576,"9369 Tokyo St, Station Area",AC Level 2,0.1397,85.7,1.71,34.3,ChargePoint,19,"CCS, Type 2",2013,No,2.9,26,Annual
+EVST00269,49.404812,0.860697,"7596 Paris St, Station Area",AC Level 2,0.1734,93.7,0.98,15.2,EVgo,26,"CCS, Tesla Proprietary",2016,Yes,2.8,4,Monthly
+EVST00270,53.624881,3.342864,"2573 Paris St, Station Area",AC Level 2,0.1515,95.3,0.21,50.6,Blink,26,Tesla Proprietary,2019,No,2.7,23,Monthly
+EVST00271,52.784328,0.619084,"8150 London St, Station Area",AC Level 2,0.1232,94.0,7.25,34.9,EVgo,32,CHAdeMO,2017,No,3.6,10,Quarterly
+EVST00272,36.714003,-122.266015,"4915 San Francisco St, Station Area",DC Fast,0.2871,72.6,12.11,19.4,Blink,102,"CCS, Tesla Proprietary, Type 2",2019,No,2.6,21,Monthly
+EVST00273,39.228397,-124.103836,"8259 San Francisco St, Station Area",AC Level 2,0.141,64.2,6.91,32.0,ChargePoint,25,"CCS, CHAdeMO",2022,Yes,4.3,2,Monthly
+EVST00274,28.071151,78.359301,"1738 New Delhi St, Station Area",AC Level 2,0.1291,81.9,0.76,27.2,Electrify America,19,"CCS, CHAdeMO",2012,Yes,4.7,14,Monthly
+EVST00275,34.941575,137.813243,"263 Tokyo St, Station Area",DC Fast,0.3214,97.7,1.86,61.7,ChargePoint,176,"CHAdeMO, Tesla Proprietary",2017,Yes,3.9,19,Bi-Annual
+EVST00276,37.039102,141.388724,"577 Tokyo St, Station Area",AC Level 2,0.157,86.4,3.46,19.1,ChargePoint,21,Tesla Proprietary,2019,Yes,3.0,13,Monthly
+EVST00277,35.722828,143.936458,"9907 Tokyo St, Station Area",DC Fast,0.2205,74.7,0.93,48.9,ChargePoint,174,Type 2,2018,No,4.5,16,Quarterly
+EVST00278,-33.450936,151.758977,"806 Sydney St, Station Area",AC Level 2,0.1005,84.4,4.17,23.1,Blink,15,"CCS, Tesla Proprietary, Type 2",2013,No,3.4,1,Quarterly
+EVST00279,37.795878,-121.544738,"9392 San Francisco St, Station Area",AC Level 2,0.1627,88.6,9.39,16.6,ChargePoint,26,Type 2,2014,Yes,3.1,1,Quarterly
+EVST00280,38.279775,-123.15869,"7269 San Francisco St, Station Area",AC Level 2,0.1255,96.0,16.61,15.8,Blink,23,Type 2,2016,Yes,4.1,18,Quarterly
+EVST00281,52.144849,-2.84312,"1461 London St, Station Area",DC Fast,0.3151,88.2,18.9,42.7,Blink,158,"CHAdeMO, J1772, Type 2",2020,No,3.5,13,Monthly
+EVST00282,32.77075,138.746221,"8640 Tokyo St, Station Area",AC Level 1,0.0956,71.7,18.05,7.9,ChargePoint,11,"CCS, J1772, Tesla Proprietary",2024,No,2.6,17,Annual
+EVST00283,-32.868941,149.569957,"1442 Sydney St, Station Area",DC Fast,0.2365,63.7,0.81,35.3,Shell Recharge,131,Type 2,2016,No,3.1,11,Bi-Annual
+EVST00284,34.203171,137.479793,"1433 Tokyo St, Station Area",AC Level 2,0.1077,75.0,22.8,50.0,Blink,24,CHAdeMO,2018,Yes,5.0,1,Annual
+EVST00285,33.512751,142.23384,"5755 Tokyo St, Station Area",AC Level 2,0.2002,66.4,8.73,35.3,ChargePoint,23,"CCS, CHAdeMO",2015,Yes,4.0,21,Bi-Annual
+EVST00286,28.526283,77.618294,"2883 New Delhi St, Station Area",AC Level 2,0.1605,97.1,27.39,25.1,EVgo,23,"CCS, J1772",2012,Yes,4.3,4,Bi-Annual
+EVST00287,37.900872,-121.849869,"2908 San Francisco St, Station Area",AC Level 1,0.0716,75.4,0.78,9.5,ChargePoint,11,CCS,2017,No,3.5,23,Annual
+EVST00288,47.816341,1.888666,"1950 Paris St, Station Area",AC Level 2,0.122,73.6,1.29,46.8,Electrify America,22,J1772,2016,No,4.0,1,Quarterly
+EVST00289,50.103148,2.092893,"6076 Paris St, Station Area",AC Level 2,0.1347,67.4,34.33,17.2,ChargePoint,19,"CHAdeMO, J1772, Tesla Proprietary",2013,Yes,4.0,27,Annual
+EVST00290,33.662937,141.097126,"269 Tokyo St, Station Area",AC Level 2,0.1143,82.0,8.42,41.7,EVgo,31,"Tesla Proprietary, Type 2",2020,Yes,4.5,8,Monthly
+EVST00291,-34.479216,151.160794,"2451 Sydney St, Station Area",AC Level 2,0.1765,76.0,11.23,38.9,BP Pulse,20,J1772,2015,No,3.9,26,Monthly
+EVST00292,50.630089,0.668241,"5534 London St, Station Area",AC Level 2,0.587690977811943,56.5,13.57,151.22949748190132,ChargePoint,14,"CCS, CHAdeMO, Type 2",2014,Yes,4.0,1,Quarterly
+EVST00293,28.544019,76.914994,"4865 New Delhi St, Station Area",AC Level 1,0.1019,93.5,1.01,21.3,ChargePoint,6,"J1772, Tesla Proprietary, Type 2",2017,No,3.4,14,Quarterly
+EVST00294,51.925696,-0.641029,"6998 London St, Station Area",AC Level 1,0.072,68.0,2.27,28.3,Tesla,5,"CCS, J1772, Type 2",2024,Yes,4.4,13,Quarterly
+EVST00295,47.344761,0.241829,"2162 Paris St, Station Area",AC Level 2,0.1187,71.6,0.1,31.9,BP Pulse,13,"CCS, CHAdeMO",2020,Yes,4.3,5,Quarterly
+EVST00296,49.943024,-0.614424,"6478 Paris St, Station Area",AC Level 2,0.1372,60.3,34.02,26.5,EVgo,20,CCS,2017,Yes,4.5,14,Quarterly
+EVST00297,28.708404,76.816657,"7598 New Delhi St, Station Area",AC Level 2,0.0713,77.7,4.38,30.9,Tesla,22,J1772,2022,No,4.2,7,Bi-Annual
+EVST00298,32.838281,139.735045,"3880 Tokyo St, Station Area",AC Level 2,0.1464,85.1,0.37,41.1,ChargePoint,28,"CCS, CHAdeMO, Tesla Proprietary",2012,Yes,3.3,13,Quarterly
+EVST00299,48.569513,-2.056995,"2568 London St, Station Area",DC Fast,0.2915,94.1,0.1,43.1,Tesla,181,"CCS, Tesla Proprietary",2016,Yes,4.4,11,Quarterly
+EVST00300,37.756421,-122.471112,"5549 San Francisco St, Station Area",AC Level 2,0.1747,52.6,2.22,33.8,Blink,25,Type 2,2019,No,4.7,6,Bi-Annual
+EVST00301,35.344749,139.730929,"5788 Tokyo St, Station Area",AC Level 1,0.0423,98.7,1.96,10.4,Tesla,5,"J1772, Tesla Proprietary",2018,Yes,4.8,23,Quarterly
+EVST00302,-34.02393,147.975288,"941 Sydney St, Station Area",DC Fast,0.3581,85.2,18.07,46.6,ChargePoint,194,"CHAdeMO, J1772",2020,Yes,,16,Bi-Annual
+EVST00303,37.732926,-123.792087,"5650 San Francisco St, Station Area",AC Level 2,0.1746,64.2,0.62,6.9,EVgo,29,"CCS, CHAdeMO, Type 2",2021,Yes,4.1,25,Quarterly
+EVST00304,28.95224,77.819896,"1543 New Delhi St, Station Area",AC Level 2,0.1876,60.2,8.05,33.1,Blink,24,"CCS, CHAdeMO",2017,No,,24,Monthly
+EVST00305,50.278074,2.932788,"5688 Paris St, Station Area",DC Fast,0.2974,64.8,3.59,43.1,Electrify America,171,"CCS, CHAdeMO, Tesla Proprietary",2024,Yes,3.8,8,Annual
+EVST00306,36.108243,-124.149912,"9317 San Francisco St, Station Area",DC Fast,0.3507,93.8,0.57,80.6,Electrify America,87,"CHAdeMO, Tesla Proprietary",2024,No,3.6,9,Monthly
+EVST00307,49.749443,0.109872,"5370 London St, Station Area",DC Fast,0.2264,64.6,2.07,33.0,Shell Recharge,203,"Tesla Proprietary, Type 2",2018,No,4.6,28,Quarterly
+EVST00308,47.216614,3.885811,"7614 Paris St, Station Area",AC Level 1,0.0943,73.1,16.99,1.0,BP Pulse,11,"CCS, CHAdeMO, J1772",2023,No,3.0,10,Quarterly
+EVST00309,51.940775,1.037809,"3097 London St, Station Area",AC Level 2,0.576400012773099,85.3,1.7,158.9235046903564,EVgo,24,J1772,2020,Yes,4.0,3,Quarterly
+EVST00310,39.642321,-122.562329,"9226 San Francisco St, Station Area",DC Fast,0.2174,93.6,4.99,76.2,Electrify America,120,"CCS, Tesla Proprietary, Type 2",2013,No,3.9,16,Bi-Annual
+EVST00311,48.209591,1.650236,"8126 Paris St, Station Area",DC Fast,0.2438,82.9,17.52,35.5,ChargePoint,142,"CHAdeMO, Type 2",2013,No,3.8,29,Quarterly
+EVST00312,-37.62135,150.265283,"9165 Sydney St, Station Area",AC Level 1,0.0801,87.7,4.54,2.6,Shell Recharge,6,"CCS, J1772, Tesla Proprietary",2013,No,3.6,7,Monthly
+EVST00313,35.218911,-121.71767,"7415 San Francisco St, Station Area",AC Level 2,0.1253,58.7,37.94,17.8,Tesla,20,"CCS, J1772, Type 2",2014,Yes,4.9,19,Bi-Annual
+EVST00314,50.257845,0.164856,"6493 London St, Station Area",AC Level 2,0.1613,93.9,8.81,32.3,EVgo,25,"CHAdeMO, J1772, Tesla Proprietary",2016,No,4.3,10,Monthly
+EVST00315,50.670807,0.816306,"5249 London St, Station Area",AC Level 1,0.0438,63.8,4.77,9.2,EVgo,8,"CHAdeMO, J1772, Type 2",2012,No,4.6,12,Monthly
+EVST00316,48.244017,2.550011,"9281 Paris St, Station Area",DC Fast,0.1936,56.4,13.18,44.2,Electrify America,200,"CHAdeMO, J1772, Tesla Proprietary",2019,No,3.7,14,Quarterly
+EVST00317,-33.810928,152.437446,"8481 Sydney St, Station Area",AC Level 2,0.1912,98.8,5.05,32.1,Shell Recharge,24,"CCS, CHAdeMO, J1772",2017,Yes,5.0,5,Quarterly
+EVST00318,-34.336419,151.351189,"4167 Sydney St, Station Area",AC Level 2,0.1771,60.1,5.02,27.1,Electrify America,18,"CCS, Tesla Proprietary, Type 2",2019,No,4.6,12,Quarterly
+EVST00319,30.187909,78.386033,"857 New Delhi St, Station Area",AC Level 1,0.059,56.8,6.55,13.4,EVgo,6,"CCS, J1772, Tesla Proprietary",2018,No,3.1,8,Quarterly
+EVST00320,-34.882826,152.515534,"37 Sydney St, Station Area",AC Level 2,0.1499,81.3,3.31,29.4,EVgo,19,"Tesla Proprietary, Type 2",2015,No,4.8,24,Quarterly
+EVST00321,50.213923,-1.33459,"2335 London St, Station Area",AC Level 2,0.1806,65.9,5.74,24.3,BP Pulse,21,"Tesla Proprietary, Type 2",2019,No,4.5,7,Quarterly
+EVST00322,38.493213,-125.131616,"626 San Francisco St, Station Area",AC Level 2,0.1626,56.7,11.47,21.5,Tesla,31,"CHAdeMO, J1772",2024,No,4.6,25,Bi-Annual
+EVST00323,46.553137,4.667439,"2115 Paris St, Station Area",AC Level 1,0.083,80.1,10.8,18.1,EVgo,11,"J1772, Type 2",2016,Yes,4.4,1,Monthly
+EVST00324,29.198438,77.593988,"1095 New Delhi St, Station Area",DC Fast,0.3548,87.9,0.31,37.7,Tesla,192,"CCS, CHAdeMO",2015,Yes,3.6,12,Annual
+EVST00325,28.76773,74.637271,"9809 New Delhi St, Station Area",AC Level 1,0.0654,89.7,4.48,1.0,Tesla,7,J1772,2018,Yes,4.4,8,Quarterly
+EVST00326,51.286236,-1.198529,"954 London St, Station Area",AC Level 2,0.1509,57.8,1.95,19.9,Electrify America,15,"CCS, J1772",2022,No,3.9,13,Quarterly
+EVST00327,53.889814,1.030011,"6268 London St, Station Area",AC Level 2,0.1495,77.8,2.09,30.7,Tesla,23,"CHAdeMO, Tesla Proprietary",2018,Yes,4.2,23,Bi-Annual
+EVST00328,36.841589,-122.838915,"3517 San Francisco St, Station Area",AC Level 1,0.0745,90.7,4.61,16.5,Shell Recharge,5,"CCS, J1772, Tesla Proprietary",2022,No,3.5,28,Quarterly
+EVST00329,40.865347,-123.187492,"1742 San Francisco St, Station Area",AC Level 2,0.1383,58.1,9.9,22.4,Shell Recharge,30,"CHAdeMO, Tesla Proprietary",2012,No,4.1,22,Quarterly
+EVST00330,48.518453,4.453523,"7012 Paris St, Station Area",AC Level 1,0.0815,60.4,2.21,6.3,EVgo,4,"CCS, CHAdeMO, J1772",2013,No,3.6,15,Annual
+EVST00331,46.941075,0.781269,"9704 Paris St, Station Area",AC Level 1,0.0807,50.1,2.03,22.4,ChargePoint,8,"CCS, Tesla Proprietary",2017,No,3.0,15,Bi-Annual
+EVST00332,35.781079,138.45307,"7905 Tokyo St, Station Area",AC Level 2,0.1185,76.2,13.08,29.4,Tesla,18,"CCS, Tesla Proprietary",2015,No,4.2,29,Quarterly
+EVST00333,49.893032,0.18928,"9751 London St, Station Area",DC Fast,0.3401,59.7,2.03,65.1,Tesla,150,"CCS, J1772, Type 2",2012,Yes,3.7,29,Bi-Annual
+EVST00334,-34.996434,151.794982,"5901 Sydney St, Station Area",AC Level 1,0.0605,86.2,3.13,6.4,EVgo,8,"CHAdeMO, Type 2",2014,No,3.6,23,Quarterly
+EVST00335,36.27175,140.394815,"6735 Tokyo St, Station Area",AC Level 2,0.1435,98.1,2.58,17.2,Shell Recharge,27,Type 2,2015,,4.1,5,Bi-Annual
+EVST00336,-33.035427,152.576157,"1465 Sydney St, Station Area",AC Level 2,0.1411,60.4,1.44,31.8,ChargePoint,22,J1772,2023,No,3.8,8,Monthly
+EVST00337,27.680648,77.506868,"8523 New Delhi St, Station Area",AC Level 2,0.1607,82.5,12.12,25.8,Blink,26,"J1772, Type 2",2022,Yes,4.4,8,Monthly
+EVST00338,52.988508,0.606276,"7478 London St, Station Area",AC Level 2,0.0864,60.6,34.91,18.7,Shell Recharge,19,,2016,Yes,4.1,7,Quarterly
+EVST00339,53.243662,-0.516614,"2540 London St, Station Area",AC Level 1,0.0978,50.9,0.91,17.2,BP Pulse,7,"CCS, Tesla Proprietary, Type 2",2024,No,4.5,29,Monthly
+EVST00340,30.768353,77.303047,"3548 New Delhi St, Station Area",AC Level 2,0.1297,87.9,3.14,28.1,EVgo,27,"CCS, J1772, Tesla Proprietary",2022,No,2.6,5,Bi-Annual
+EVST00341,49.65072,2.513501,"6108 Paris St, Station Area",AC Level 2,0.1866,71.7,2.96,37.8,ChargePoint,24,CCS,2015,No,4.0,25,Monthly
+EVST00342,53.552543,0.194847,"130 London St, Station Area",DC Fast,0.2761,97.3,1.54,45.5,EVgo,124,"CCS, CHAdeMO, Type 2",2018,No,3.5,24,Monthly
+EVST00343,46.035402,3.51101,"8178 Paris St, Station Area",DC Fast,0.2976,76.7,5.81,20.3,EVgo,136,"CCS, J1772",2023,No,3.2,16,Quarterly
+EVST00344,48.37974,3.184919,"2806 Paris St, Station Area",DC Fast,0.3957,57.9,18.08,52.3,EVgo,201,CCS,2017,No,4.4,9,Quarterly
+EVST00345,27.313392,77.275326,"750 New Delhi St, Station Area",AC Level 2,0.1417,72.5,0.42,48.4,Blink,17,"CHAdeMO, Tesla Proprietary, Type 2",2016,No,4.2,8,Annual
+EVST00346,51.686239,-1.341489,"3306 London St, Station Area",AC Level 1,0.1048,60.1,15.94,4.9,Blink,5,"CCS, Tesla Proprietary",2023,No,2.5,20,Monthly
+EVST00347,27.756726,77.310507,"8357 New Delhi St, Station Area",AC Level 2,0.1512,93.9,3.16,36.3,Tesla,25,"CHAdeMO, Tesla Proprietary",2020,Yes,4.8,20,Monthly
+EVST00348,28.364663,77.166973,"2742 New Delhi St, Station Area",AC Level 2,0.1625,84.5,17.94,12.7,Tesla,20,"CHAdeMO, J1772",2017,Yes,4.6,16,Monthly
+EVST00349,54.330662,0.161972,"5391 London St, Station Area",AC Level 1,0.0814,67.1,3.7,11.0,Tesla,4,Type 2,2023,No,3.3,17,Quarterly
+EVST00350,37.52032,-119.109612,"8118 San Francisco St, Station Area",AC Level 1,0.5778050100468644,76.4,2.29,187.1824646175354,EVgo,10,"CHAdeMO, Tesla Proprietary",2021,Yes,3.9,24,Monthly
+EVST00351,49.477288,1.566541,"338 Paris St, Station Area",AC Level 2,0.1294,83.5,0.27,27.3,Blink,17,"CCS, CHAdeMO, Type 2",2016,No,2.7,22,Bi-Annual
+EVST00352,37.426496,-121.785966,"7598 San Francisco St, Station Area",AC Level 2,0.1205,89.1,0.1,33.4,Blink,21,J1772,2017,Yes,3.6,22,Monthly
+EVST00353,51.62097,1.474893,"2887 London St, Station Area",AC Level 2,0.1308,54.0,10.36,37.2,BP Pulse,19,J1772,2012,No,3.6,9,Annual
+EVST00354,35.685225,139.797303,"6955 Tokyo St, Station Area",DC Fast,0.305,51.1,18.74,23.3,EVgo,135,"CHAdeMO, J1772",2013,Yes,4.3,2,Quarterly
+EVST00355,29.286386,80.715768,"1881 New Delhi St, Station Area",AC Level 2,0.1434,55.7,4.89,28.7,Tesla,18,,2024,No,3.9,14,Quarterly
+EVST00356,30.361861,76.641941,"1390 New Delhi St, Station Area",DC Fast,0.3355,69.7,7.09,31.8,EVgo,186,Type 2,2012,No,3.1,10,Monthly
+EVST00357,40.245991,-121.933266,"7882 San Francisco St, Station Area",AC Level 2,0.1891,73.3,0.18,41.2,Shell Recharge,23,"CCS, Tesla Proprietary, Type 2",2022,Yes,3.8,10,Monthly
+EVST00358,29.07833,76.010791,"8077 New Delhi St, Station Area",AC Level 2,0.1207,56.8,12.88,30.3,Blink,27,CHAdeMO,2014,No,3.5,16,Quarterly
+EVST00359,38.65922,-122.946687,"9812 San Francisco St, Station Area",AC Level 2,0.128,70.6,5.33,32.6,EVgo,19,"CCS, Tesla Proprietary",2019,No,3.1,27,Quarterly
+EVST00360,-35.595097,151.582701,"6771 Sydney St, Station Area",AC Level 2,0.1069,72.1,21.57,28.4,Shell Recharge,33,"J1772, Type 2",2021,No,2.7,24,Quarterly
+EVST00361,28.482085,78.478456,"4658 New Delhi St, Station Area",AC Level 2,0.2109,55.5,7.76,12.4,ChargePoint,12,CCS,2024,No,4.1,20,Quarterly
+EVST00362,30.024334,77.687642,"1948 New Delhi St, Station Area",AC Level 2,0.1591,95.8,4.9,33.5,Tesla,14,Type 2,2016,No,4.0,21,Monthly
+EVST00363,52.806353,1.760872,"2952 London St, Station Area",AC Level 2,0.1644,80.0,0.1,39.3,EVgo,31,"CCS, J1772, Type 2",2024,No,4.0,12,Annual
+EVST00364,28.931315,77.066552,"6480 New Delhi St, Station Area",AC Level 2,0.1098,69.4,15.57,29.3,BP Pulse,24,"Tesla Proprietary, Type 2",2017,No,3.3,16,Monthly
+EVST00365,39.104491,-122.917653,"3461 San Francisco St, Station Area",AC Level 2,0.15,75.3,8.34,33.7,Electrify America,24,"CCS, Tesla Proprietary",2023,No,3.8,13,Monthly
+EVST00366,49.59275,6.408178,"4835 Paris St, Station Area",DC Fast,0.3255,65.7,8.02,45.9,ChargePoint,172,"CHAdeMO, Tesla Proprietary",2013,No,2.9,24,Quarterly
+EVST00367,37.476659,140.241656,"1681 Tokyo St, Station Area",AC Level 1,0.0749,92.7,17.63,1.0,Shell Recharge,8,"CCS, J1772, Type 2",2015,Yes,3.1,29,Quarterly
+EVST00368,51.941439,-1.207022,"4393 London St, Station Area",AC Level 2,0.1823,78.8,1.54,43.4,Electrify America,23,J1772,2020,No,3.7,13,Quarterly
+EVST00369,37.241353,-123.460796,"2380 San Francisco St, Station Area",AC Level 2,0.2194,74.7,13.89,16.5,Tesla,17,Tesla Proprietary,2021,No,3.9,21,Quarterly
+EVST00370,-33.365038,149.79528,"1122 Sydney St, Station Area",AC Level 2,0.1216,95.5,0.74,25.6,Blink,26,"CCS, Tesla Proprietary",2022,No,2.7,2,Quarterly
+EVST00371,31.280308,141.055154,"1320 Tokyo St, Station Area",AC Level 2,0.1193,91.9,0.47,43.8,ChargePoint,25,"J1772, Tesla Proprietary",2016,Yes,4.8,12,Quarterly
+EVST00372,49.430929,1.805634,"5183 Paris St, Station Area",AC Level 1,0.0624,90.6,18.76,1.0,Tesla,10,J1772,2020,No,3.5,26,Monthly
+EVST00373,30.203581,139.841344,"3664 Tokyo St, Station Area",DC Fast,0.3803,61.3,21.49,67.5,EVgo,238,Tesla Proprietary,2020,No,4.3,20,Monthly
+EVST00374,33.091005,139.555037,"1000 Tokyo St, Station Area",AC Level 2,0.1813,57.7,1.18,38.3,Shell Recharge,24,J1772,2024,Yes,4.2,16,Bi-Annual
+EVST00375,29.291553,78.306239,"5142 New Delhi St, Station Area",AC Level 2,0.1459,84.5,2.37,16.9,Blink,16,"CHAdeMO, J1772, Tesla Proprietary",2013,No,3.8,7,Monthly
+EVST00376,38.491194,-123.689516,"1643 San Francisco St, Station Area",AC Level 2,0.1511,73.4,3.43,19.9,Tesla,31,"CHAdeMO, Tesla Proprietary",2012,No,3.8,24,Quarterly
+EVST00377,-35.612443,149.595942,"155 Sydney St, Station Area",DC Fast,0.2592,84.2,15.71,37.6,Blink,99,"CHAdeMO, Type 2",2019,Yes,4.2,29,Quarterly
+EVST00378,-34.936953,151.545746,"1326 Sydney St, Station Area",DC Fast,0.3445,88.0,14.37,34.1,Tesla,167,"CHAdeMO, Tesla Proprietary",2012,No,3.9,12,Bi-Annual
+EVST00379,37.732011,140.551739,"4485 Tokyo St, Station Area",DC Fast,0.281,64.8,2.99,66.1,ChargePoint,137,"J1772, Type 2",2014,Yes,4.4,24,Monthly
+EVST00380,50.781355,0.370998,"9540 London St, Station Area",DC Fast,0.287,64.2,11.85,50.3,EVgo,128,"CHAdeMO, J1772",2018,No,3.3,18,Annual
+EVST00381,41.13928,-123.633581,"2417 San Francisco St, Station Area",DC Fast,0.3304,74.5,0.29,67.0,ChargePoint,188,"CCS, Tesla Proprietary, Type 2",2015,Yes,4.5,12,Quarterly
+EVST00382,28.61102,78.225227,"2849 New Delhi St, Station Area",AC Level 2,0.1444,63.7,2.15,27.8,Tesla,23,CCS,2015,No,4.6,10,Annual
+EVST00383,29.225954,76.093209,"2427 New Delhi St, Station Area",DC Fast,0.2883,83.4,5.8,60.4,Blink,176,Tesla Proprietary,2016,Yes,4.9,15,Monthly
+EVST00384,53.932712,-0.910108,"3552 London St, Station Area",AC Level 2,0.1503,87.3,5.14,26.6,Electrify America,18,"CHAdeMO, Tesla Proprietary",2020,No,4.4,12,Bi-Annual
+EVST00385,37.971441,-123.83533,"7172 San Francisco St, Station Area",AC Level 2,0.1739,73.6,4.37,19.1,ChargePoint,21,,2016,No,2.6,18,Quarterly
+EVST00386,36.271384,-120.467662,"3221 San Francisco St, Station Area",AC Level 2,0.1994,86.2,1.19,25.0,Tesla,18,"CCS, CHAdeMO",2022,Yes,4.8,5,Bi-Annual
+EVST00387,37.610309,-121.469268,"6575 San Francisco St, Station Area",AC Level 2,0.1676,75.5,13.16,31.0,Tesla,21,"CCS, J1772",2014,No,3.5,14,Quarterly
+EVST00388,-33.922216,152.11679,"8981 Sydney St, Station Area",AC Level 1,0.0961,85.6,1.9,19.6,ChargePoint,7,"CHAdeMO, J1772, Tesla Proprietary",2013,No,5.0,22,Bi-Annual
+EVST00389,26.566788,79.079817,"9460 New Delhi St, Station Area",AC Level 2,0.144,61.2,12.69,30.4,ChargePoint,31,"CHAdeMO, J1772, Type 2",2014,No,3.5,25,Bi-Annual
+EVST00390,37.391152,-118.200426,"5629 San Francisco St, Station Area",AC Level 2,0.1288,86.9,10.88,26.4,Blink,21,J1772,2023,No,4.1,9,Quarterly
+EVST00391,-34.982088,148.645461,"7131 Sydney St, Station Area",DC Fast,0.3327,85.8,4.0,52.5,Tesla,44,Type 2,2015,No,3.9,18,Monthly
+EVST00392,52.893937,-1.235365,"9190 London St, Station Area",AC Level 2,0.1551,63.3,5.71,31.9,BP Pulse,29,J1772,2012,No,3.9,9,Monthly
+EVST00393,35.728118,138.726037,"7866 Tokyo St, Station Area",DC Fast,0.2289,77.8,4.9,45.8,ChargePoint,172,"CHAdeMO, Type 2",2016,No,3.7,23,Annual
+EVST00394,48.432406,1.075971,"2999 Paris St, Station Area",AC Level 2,0.1402,92.8,38.07,22.6,Electrify America,21,"J1772, Type 2",2020,Yes,4.1,11,Annual
+EVST00395,-34.028073,149.592925,"1321 Sydney St, Station Area",DC Fast,0.2959,62.5,4.51,53.8,Electrify America,128,"CCS, CHAdeMO, Tesla Proprietary",2016,Yes,3.9,20,Monthly
+EVST00396,28.948583,76.75952,"1149 New Delhi St, Station Area",AC Level 1,0.0698,86.8,18.64,3.4,Tesla,5,"CCS, J1772, Tesla Proprietary",2016,Yes,4.2,13,Monthly
+EVST00397,38.700121,-124.244306,"8819 San Francisco St, Station Area",DC Fast,0.3741,97.7,12.49,48.3,EVgo,247,"CCS, Tesla Proprietary",2013,Yes,4.1,8,Monthly
+EVST00398,50.007832,0.374764,"5562 London St, Station Area",AC Level 2,0.1644,93.3,8.82,46.2,BP Pulse,22,Type 2,2020,No,2.6,17,Monthly
+EVST00399,49.945019,-0.050253,"2963 London St, Station Area",AC Level 2,0.1912,70.1,0.34,31.2,EVgo,13,Tesla Proprietary,2014,Yes,4.2,19,Monthly
+EVST00400,53.164419,0.593743,"3455 London St, Station Area",AC Level 2,0.1579,80.4,4.21,20.3,Shell Recharge,24,"CHAdeMO, J1772",2013,No,4.0,20,Bi-Annual
+EVST00401,27.995395,77.970593,"2817 New Delhi St, Station Area",AC Level 2,0.1524,99.6,19.65,38.6,Blink,28,Type 2,2021,Yes,4.3,23,Monthly
+EVST00402,-35.994063,152.11381,"8018 Sydney St, Station Area",AC Level 2,0.1219,78.4,11.05,38.1,Electrify America,23,"CHAdeMO, J1772, Tesla Proprietary",2024,Yes,4.1,20,Bi-Annual
+EVST00403,52.173119,-0.687913,"6123 London St, Station Area",DC Fast,0.3006,55.8,16.96,72.6,BP Pulse,105,,2019,No,3.1,25,Annual
+EVST00404,29.308955,80.390715,"8793 New Delhi St, Station Area",DC Fast,0.3007,52.3,3.85,44.7,BP Pulse,100,,2024,Yes,4.5,13,Monthly
+EVST00405,33.380127,140.001947,"3018 Tokyo St, Station Area",DC Fast,0.2316,89.5,0.15,56.2,Blink,104,"CHAdeMO, J1772",2017,No,3.5,15,Quarterly
+EVST00406,49.200823,-0.441527,"4725 Paris St, Station Area",AC Level 2,0.1338,71.2,15.19,20.7,Shell Recharge,30,"CCS, J1772, Tesla Proprietary",2018,No,4.2,14,Quarterly
+EVST00407,36.779575,138.146736,"1218 Tokyo St, Station Area",AC Level 2,0.1403,62.3,5.62,45.4,ChargePoint,22,"CCS, J1772, Type 2",2016,No,2.4,17,Monthly
+EVST00408,38.33648,-125.030154,"9712 San Francisco St, Station Area",DC Fast,0.3207,67.4,2.43,44.7,Electrify America,66,"CCS, CHAdeMO, J1772",2018,No,3.8,5,Bi-Annual
+EVST00409,29.561872,77.235002,"5118 New Delhi St, Station Area",DC Fast,0.3231,87.9,4.88,45.3,Blink,169,Type 2,2023,No,4.3,25,Quarterly
+EVST00410,35.668496,-122.602108,"5530 San Francisco St, Station Area",AC Level 2,0.1326,73.3,3.27,35.6,Tesla,23,"CCS, Tesla Proprietary",2020,Yes,3.1,16,Monthly
+EVST00411,52.00396,-0.830439,"4136 London St, Station Area",DC Fast,0.3234,93.4,1.89,47.4,EVgo,128,Type 2,2012,No,4.1,17,Bi-Annual
+EVST00412,51.05347,2.888589,"2709 London St, Station Area",AC Level 2,0.1445,86.7,4.65,41.3,ChargePoint,17,CCS,2019,Yes,4.2,26,Quarterly
+EVST00413,50.783215,0.695674,"9483 London St, Station Area",DC Fast,0.1565,98.7,1.57,52.2,Blink,97,"CHAdeMO, Tesla Proprietary, Type 2",2016,Yes,5.0,14,Monthly
+EVST00414,39.080733,-121.330252,"4889 San Francisco St, Station Area",DC Fast,0.2758,94.4,23.94,27.8,ChargePoint,204,J1772,2019,No,4.7,14,Annual
+EVST00415,39.993812,-123.81601,"6747 San Francisco St, Station Area",DC Fast,0.3539,62.7,1.31,73.0,EVgo,162,CCS,2019,No,3.9,17,Monthly
+EVST00416,-31.177245,149.710583,"374 Sydney St, Station Area",AC Level 2,0.0995,83.0,7.17,14.8,Shell Recharge,24,"Tesla Proprietary, Type 2",2019,No,4.5,28,Monthly
+EVST00417,30.586112,77.264208,"2759 New Delhi St, Station Area",AC Level 2,0.1534,51.0,15.12,29.1,Electrify America,23,Type 2,2023,No,3.0,8,Monthly
+EVST00418,37.610299,-122.159889,"8039 San Francisco St, Station Area",AC Level 1,0.1117,99.6,11.26,1.6,Electrify America,8,"CCS, CHAdeMO, Tesla Proprietary",2023,No,2.6,5,Quarterly
+EVST00419,52.03648,-2.912267,"879 London St, Station Area",DC Fast,0.5522603193221487,63.1,4.06,150.7384984104554,Electrify America,127,"CCS, CHAdeMO, Tesla Proprietary",2024,No,4.8,4,Quarterly
+EVST00420,50.006834,2.081739,"1015 Paris St, Station Area",AC Level 2,0.1501,83.2,10.45,46.8,EVgo,21,Tesla Proprietary,2019,Yes,3.8,22,Quarterly
+EVST00421,28.795667,77.230108,"8097 New Delhi St, Station Area",DC Fast,0.2348,92.5,4.09,94.4,EVgo,208,Tesla Proprietary,2015,Yes,3.4,1,Quarterly
+EVST00422,-33.672654,150.886576,"3087 Sydney St, Station Area",DC Fast,0.3814,58.0,3.24,59.3,EVgo,221,"CCS, CHAdeMO, Tesla Proprietary",2014,No,4.0,21,Quarterly
+EVST00423,-32.63317,149.989214,"2739 Sydney St, Station Area",AC Level 2,0.1475,92.4,2.74,42.6,ChargePoint,16,CHAdeMO,2023,No,4.2,26,Monthly
+EVST00424,48.767676,1.542897,"5653 Paris St, Station Area",AC Level 2,0.1514,50.6,1.35,45.8,Tesla,21,J1772,2023,Yes,3.4,20,Quarterly
+EVST00425,34.58227,139.385011,"1949 Tokyo St, Station Area",AC Level 2,0.1906,72.1,6.03,35.4,Electrify America,26,"CHAdeMO, J1772",2012,No,3.8,5,Annual
+EVST00426,50.88569,0.0084,"430 London St, Station Area",AC Level 2,0.1698,73.6,7.53,29.5,Tesla,31,Type 2,2014,Yes,4.3,20,Bi-Annual
+EVST00427,29.564766,78.116187,"45 New Delhi St, Station Area",AC Level 2,0.1237,68.7,4.84,55.0,Electrify America,31,"J1772, Tesla Proprietary, Type 2",2020,,4.1,13,Bi-Annual
+EVST00428,-33.86431,152.830584,"794 Sydney St, Station Area",AC Level 1,0.0671,79.3,2.16,18.0,ChargePoint,5,"J1772, Type 2",2014,Yes,4.6,1,Quarterly
+EVST00429,38.285215,-122.860922,"1585 San Francisco St, Station Area",AC Level 2,0.1648,95.7,1.99,39.8,Electrify America,28,"CCS, J1772, Type 2",2012,Yes,4.8,6,Quarterly
+EVST00430,-32.863681,150.525066,"6960 Sydney St, Station Area",AC Level 2,0.1313,66.3,0.1,23.0,ChargePoint,22,CCS,2024,Yes,4.4,22,Bi-Annual
+EVST00431,37.212638,-121.762916,"2979 San Francisco St, Station Area",AC Level 2,0.0865,79.0,8.42,38.8,Shell Recharge,27,"J1772, Tesla Proprietary, Type 2",2013,Yes,4.3,17,Bi-Annual
+EVST00432,-32.734428,152.125567,"718 Sydney St, Station Area",AC Level 2,0.1484,93.9,23.22,21.7,Blink,26,"CCS, J1772",2014,No,4.3,15,Bi-Annual
+EVST00433,-33.300536,150.557999,"145 Sydney St, Station Area",AC Level 2,0.1056,88.6,9.67,37.5,EVgo,16,Tesla Proprietary,2024,No,3.3,23,Quarterly
+EVST00434,35.92268,-121.23381,"4770 San Francisco St, Station Area",AC Level 2,0.1985,52.0,14.51,33.9,EVgo,25,"CCS, CHAdeMO, J1772",2013,Yes,3.9,16,Monthly
+EVST00435,37.839657,141.119678,"8400 Tokyo St, Station Area",AC Level 2,0.1553,97.1,2.56,28.8,Blink,27,"CHAdeMO, J1772, Tesla Proprietary",2022,No,4.0,29,Monthly
+EVST00436,37.023783,-120.48187,"3387 San Francisco St, Station Area",DC Fast,0.2547,52.3,7.97,64.1,Blink,149,"CHAdeMO, Tesla Proprietary",2019,No,3.7,2,Monthly
+EVST00437,46.373957,5.019681,"639 Paris St, Station Area",AC Level 2,0.129,79.4,0.1,41.9,ChargePoint,21,"Tesla Proprietary, Type 2",2019,No,4.0,9,Quarterly
+EVST00438,27.046334,75.909376,"2281 New Delhi St, Station Area",AC Level 2,0.0933,78.8,6.5,27.8,Tesla,14,"CCS, Tesla Proprietary",2022,Yes,4.5,6,Monthly
+EVST00439,36.243332,-122.398553,"4993 San Francisco St, Station Area",DC Fast,0.245,89.3,24.46,57.6,BP Pulse,184,"CHAdeMO, Tesla Proprietary, Type 2",2012,Yes,4.4,13,Quarterly
+EVST00440,35.75446,139.667217,"1888 Tokyo St, Station Area",AC Level 2,0.1805,57.4,3.87,35.1,Blink,23,"CCS, Tesla Proprietary",2012,No,5.0,27,Quarterly
+EVST00441,28.203124,77.06189,"9783 New Delhi St, Station Area",AC Level 2,0.217,59.0,4.02,17.9,EVgo,17,"CCS, J1772, Tesla Proprietary",2014,No,2.9,12,Quarterly
+EVST00442,51.002152,-1.101694,"7633 London St, Station Area",AC Level 1,0.0945,87.6,5.06,19.0,Shell Recharge,6,CHAdeMO,2018,No,,10,Quarterly
+EVST00443,38.704453,-124.647743,"3446 San Francisco St, Station Area",AC Level 2,0.1472,57.5,10.91,12.2,EVgo,23,J1772,2024,No,3.5,3,Monthly
+EVST00444,36.186013,139.789319,"9514 Tokyo St, Station Area",AC Level 1,0.0714,73.5,1.01,1.7,Shell Recharge,6,"CCS, CHAdeMO, J1772",2012,Yes,4.4,12,Quarterly
+EVST00445,49.330672,1.199667,"3250 Paris St, Station Area",DC Fast,0.2522,86.6,7.86,23.5,EVgo,150,"CHAdeMO, J1772",2017,Yes,3.7,7,Annual
+EVST00446,49.471343,2.48119,"1402 Paris St, Station Area",DC Fast,0.403,82.6,14.12,69.9,EVgo,63,"CCS, CHAdeMO, Tesla Proprietary",2017,Yes,3.6,6,Quarterly
+EVST00447,52.431602,-1.318865,"9381 London St, Station Area",AC Level 2,0.1443,60.5,4.21,31.4,ChargePoint,29,"CCS, Tesla Proprietary, Type 2",2014,No,4.2,4,Bi-Annual
+EVST00448,25.45197,75.559512,"9595 New Delhi St, Station Area",AC Level 2,0.2135,65.2,6.1,41.4,ChargePoint,22,Type 2,2016,Yes,3.7,19,Quarterly
+EVST00449,48.309943,2.703648,"3126 Paris St, Station Area",AC Level 2,0.1918,98.4,17.85,14.6,Tesla,17,"CHAdeMO, J1772",2014,Yes,4.4,21,Quarterly
+EVST00450,48.237085,0.098582,"5947 London St, Station Area",AC Level 2,0.0978,72.4,7.27,23.8,Shell Recharge,10,"CHAdeMO, Tesla Proprietary, Type 2",2013,Yes,4.4,22,Quarterly
+EVST00451,28.66799,78.077923,"1733 New Delhi St, Station Area",AC Level 2,0.13,52.2,0.98,43.6,ChargePoint,27,"J1772, Tesla Proprietary, Type 2",2018,Yes,4.7,2,Quarterly
+EVST00452,28.606951,80.487796,"6416 New Delhi St, Station Area",DC Fast,0.2665,61.0,9.87,73.3,BP Pulse,178,"J1772, Tesla Proprietary",2024,Yes,3.3,27,Bi-Annual
+EVST00453,37.244498,140.066234,"6900 Tokyo St, Station Area",DC Fast,0.296,67.1,1.98,45.1,Blink,161,"CCS, J1772, Type 2",2017,No,4.3,15,Quarterly
+EVST00454,39.556352,-121.691777,"7098 San Francisco St, Station Area",AC Level 2,0.1482,100.0,6.39,1.8,EVgo,26,Tesla Proprietary,2020,No,3.7,17,Bi-Annual
+EVST00455,49.160763,0.735858,"5687 Paris St, Station Area",DC Fast,0.4498,65.1,8.15,44.7,Shell Recharge,193,"CHAdeMO, J1772, Type 2",2020,No,3.5,26,Bi-Annual
+EVST00456,48.106058,0.421839,"7040 Paris St, Station Area",AC Level 2,0.1177,51.3,3.71,40.3,Shell Recharge,23,"CHAdeMO, Type 2",2022,No,4.0,8,Bi-Annual
+EVST00457,38.502642,-120.045156,"5550 San Francisco St, Station Area",AC Level 2,0.1569,75.6,2.22,60.4,EVgo,21,"CHAdeMO, J1772, Type 2",2022,No,4.1,15,Monthly
+EVST00458,48.064724,0.96698,"8197 Paris St, Station Area",DC Fast,0.5540528495745758,54.2,19.75,165.22387124300795,Blink,129,"CCS, CHAdeMO",2023,Yes,4.5,3,Monthly
+EVST00459,28.611811,75.643084,"1796 New Delhi St, Station Area",AC Level 1,0.08,63.7,8.36,14.7,ChargePoint,8,"CHAdeMO, J1772, Tesla Proprietary",2022,Yes,4.0,15,Bi-Annual
+EVST00460,39.254104,-122.478048,"4834 San Francisco St, Station Area",DC Fast,0.3055,99.6,5.78,74.3,Blink,220,"CCS, J1772",2024,No,3.6,8,Bi-Annual
+EVST00461,-34.705457,151.074011,"4164 Sydney St, Station Area",DC Fast,0.2478,85.2,3.27,55.2,Electrify America,145,"CCS, J1772",2024,No,3.1,6,Annual
+EVST00462,38.983418,-123.77316,"5333 San Francisco St, Station Area",DC Fast,0.3053,52.5,17.82,50.3,Blink,224,Tesla Proprietary,2021,No,4.0,18,Monthly
+EVST00463,-32.852698,150.75184,"1421 Sydney St, Station Area",AC Level 2,0.1653,72.4,6.84,45.6,Electrify America,24,CCS,2018,Yes,3.5,4,Bi-Annual
+EVST00464,34.244012,141.494364,"3238 Tokyo St, Station Area",AC Level 2,0.1598,58.6,26.52,21.6,ChargePoint,24,"J1772, Tesla Proprietary, Type 2",2015,Yes,4.0,29,Bi-Annual
+EVST00465,39.235741,-123.62839,"9540 San Francisco St, Station Area",DC Fast,0.3285,56.1,4.48,59.7,EVgo,270,"J1772, Tesla Proprietary, Type 2",2019,Yes,5.0,7,Bi-Annual
+EVST00466,29.66175,75.118491,"1053 New Delhi St, Station Area",DC Fast,0.3706,79.4,13.85,48.2,Blink,233,"CCS, CHAdeMO",2022,No,4.1,3,Quarterly
+EVST00467,37.927789,-121.00551,"6352 San Francisco St, Station Area",AC Level 2,0.1781,75.3,11.53,25.1,EVgo,30,Tesla Proprietary,2021,,3.6,13,Monthly
+EVST00468,47.713115,3.090645,"6646 Paris St, Station Area",DC Fast,0.3036,87.1,5.65,39.1,Tesla,110,J1772,2018,Yes,3.6,12,Quarterly
+EVST00469,50.218591,-1.058578,"4745 London St, Station Area",AC Level 2,0.1148,94.6,8.19,45.0,BP Pulse,33,"CHAdeMO, Tesla Proprietary, Type 2",2012,Yes,,20,Quarterly
+EVST00470,27.807406,74.835749,"337 New Delhi St, Station Area",AC Level 2,0.132,62.3,20.53,30.3,Shell Recharge,22,"CCS, Type 2",2015,Yes,4.5,20,Quarterly
+EVST00471,-33.054908,150.092365,"344 Sydney St, Station Area",DC Fast,0.289,96.1,1.75,63.9,Electrify America,139,"CCS, Tesla Proprietary",2019,Yes,4.0,18,Monthly
+EVST00472,-35.302238,151.127243,"2756 Sydney St, Station Area",AC Level 2,0.1576,75.9,0.12,35.9,ChargePoint,11,"Tesla Proprietary, Type 2",2017,No,4.8,17,Bi-Annual
+EVST00473,36.332468,141.398808,"1025 Tokyo St, Station Area",AC Level 2,0.1357,62.9,4.61,8.2,BP Pulse,24,"CCS, CHAdeMO",2017,Yes,4.2,23,Monthly
+EVST00474,33.813567,138.095427,"943 Tokyo St, Station Area",DC Fast,0.2532,92.3,1.31,24.5,Shell Recharge,96,"CCS, CHAdeMO, Type 2",2015,No,3.4,19,Quarterly
+EVST00475,48.550497,2.22542,"1601 Paris St, Station Area",DC Fast,0.2406,51.8,1.74,32.8,Shell Recharge,170,"CCS, Type 2",2012,No,3.3,5,Quarterly
+EVST00476,-33.704328,152.222017,"1907 Sydney St, Station Area",DC Fast,0.2174,78.0,20.93,58.5,EVgo,92,"CHAdeMO, J1772, Tesla Proprietary",2018,No,,14,Annual
+EVST00477,32.281595,73.637099,"8384 New Delhi St, Station Area",AC Level 2,0.143,86.1,4.3,29.7,ChargePoint,31,"CHAdeMO, Type 2",2017,No,3.7,20,Quarterly
+EVST00478,35.708927,-120.868721,"6387 San Francisco St, Station Area",DC Fast,0.2265,64.0,1.42,63.0,Electrify America,178,Type 2,2022,No,4.0,8,Quarterly
+EVST00479,51.064622,0.578524,"305 Paris St, Station Area",AC Level 2,0.12,93.2,7.21,19.8,EVgo,33,Type 2,2013,No,2.9,26,Monthly
+EVST00480,37.999664,-121.921407,"6284 San Francisco St, Station Area",AC Level 2,0.1382,62.0,0.1,21.1,Blink,17,"CHAdeMO, Tesla Proprietary, Type 2",2018,Yes,3.7,14,Quarterly
+EVST00481,52.124158,0.242225,"1367 London St, Station Area",AC Level 2,0.1099,92.0,2.34,42.8,EVgo,30,"CCS, J1772, Type 2",2023,Yes,4.0,10,Monthly
+EVST00482,-33.691278,152.83618,"4210 Sydney St, Station Area",DC Fast,0.319,53.9,4.11,56.2,Tesla,60,J1772,2015,Yes,,12,Bi-Annual
+EVST00483,52.17449,0.698587,"381 London St, Station Area",DC Fast,0.5957311494821781,58.0,8.43,178.2394035518916,Blink,160,"CCS, Type 2",2016,No,3.7,18,Quarterly
+EVST00484,-34.099328,147.643364,"902 Sydney St, Station Area",DC Fast,0.2725,69.0,17.67,39.1,Electrify America,118,CHAdeMO,2013,No,3.8,21,Monthly
+EVST00485,37.857275,138.473131,"1326 Tokyo St, Station Area",AC Level 2,0.1369,92.7,0.17,47.1,Tesla,20,"CCS, J1772",2019,Yes,3.9,8,Bi-Annual
+EVST00486,50.822693,0.079508,"4333 London St, Station Area",AC Level 2,0.1661,57.2,4.55,46.6,EVgo,19,"CCS, Tesla Proprietary, Type 2",2023,No,3.2,5,Monthly
+EVST00487,37.374552,139.35783,"4630 Tokyo St, Station Area",AC Level 2,0.1286,93.8,1.33,39.4,ChargePoint,17,"CCS, CHAdeMO, Tesla Proprietary",2018,No,3.7,3,Monthly
+EVST00488,47.890049,3.068616,"3527 Paris St, Station Area",AC Level 2,0.1265,61.5,10.13,46.1,BP Pulse,16,"CHAdeMO, J1772, Type 2",2017,No,4.0,15,Quarterly
+EVST00489,-33.959178,152.39335,"6201 Sydney St, Station Area",AC Level 1,0.1039,72.6,6.08,11.0,EVgo,6,"J1772, Tesla Proprietary, Type 2",2021,No,3.8,27,Monthly
+EVST00490,47.248656,3.264878,"7204 Paris St, Station Area",AC Level 2,0.1765,67.6,3.07,28.5,EVgo,23,"CCS, CHAdeMO, Type 2",2017,Yes,3.5,28,Monthly
+EVST00491,29.296436,76.887588,"7286 New Delhi St, Station Area",DC Fast,0.3301,55.9,1.37,80.7,EVgo,208,"CCS, Tesla Proprietary",2017,No,3.6,17,Annual
+EVST00492,30.781589,74.439494,"5790 New Delhi St, Station Area",DC Fast,0.3463,97.2,8.36,62.2,Blink,165,"CHAdeMO, J1772, Tesla Proprietary",2021,Yes,4.0,16,Bi-Annual
+EVST00493,-33.984834,150.526078,"5455 Sydney St, Station Area",DC Fast,0.2011,71.9,3.83,57.0,Electrify America,208,,2015,No,4.0,15,Bi-Annual
+EVST00494,48.561271,2.976752,"4915 Paris St, Station Area",AC Level 2,0.1906,84.5,10.86,14.5,ChargePoint,15,"J1772, Type 2",2023,Yes,4.7,7,Quarterly
+EVST00495,49.835475,-1.763471,"2379 London St, Station Area",AC Level 2,0.1618,78.8,6.32,43.5,Shell Recharge,20,"CCS, CHAdeMO, Type 2",2015,Yes,4.5,13,Monthly
+EVST00496,35.332261,140.597212,"4869 Tokyo St, Station Area",AC Level 1,0.1002,75.1,3.29,5.6,ChargePoint,8,"J1772, Type 2",2018,No,3.3,28,Bi-Annual
+EVST00497,35.385709,-121.05681,"101 San Francisco St, Station Area",AC Level 2,0.1616,80.8,16.05,25.7,BP Pulse,24,Type 2,2015,No,3.7,18,Quarterly
+EVST00498,34.306883,139.8406,"9662 Tokyo St, Station Area",AC Level 2,0.1515,94.9,8.29,40.1,Tesla,18,"CCS, CHAdeMO, J1772",2020,Yes,4.1,8,Monthly
+EVST00499,28.954079,72.61333,"3701 New Delhi St, Station Area",AC Level 2,0.1417,85.0,10.94,28.2,ChargePoint,27,CCS,2017,No,4.0,3,Quarterly
+EVST00500,37.65472,137.733167,"7562 Tokyo St, Station Area",AC Level 1,0.0873,76.6,5.92,15.7,Tesla,6,"CCS, CHAdeMO, Tesla Proprietary",2015,Yes,4.6,22,Quarterly
+EVST00501,41.988716,-119.590116,"9566 San Francisco St, Station Area",DC Fast,0.2844,82.3,7.31,67.0,Blink,111,"CCS, CHAdeMO",2021,No,3.5,27,Monthly
+EVST00502,47.976722,1.532393,"4969 Paris St, Station Area",AC Level 2,0.176,80.3,7.08,8.6,BP Pulse,24,"CCS, Type 2",2024,Yes,,4,Monthly
+EVST00503,30.76685,74.232785,"8617 New Delhi St, Station Area",AC Level 2,0.1024,71.7,4.25,33.1,Electrify America,22,J1772,2012,Yes,4.0,11,Quarterly
+EVST00504,28.979529,79.061871,"4792 New Delhi St, Station Area",AC Level 2,0.1338,81.2,2.85,42.4,EVgo,19,"CHAdeMO, J1772, Type 2",2019,No,3.4,25,Quarterly
+EVST00505,51.280529,-0.107767,"1323 London St, Station Area",AC Level 2,0.2113,72.2,16.66,26.8,EVgo,19,"CCS, J1772, Type 2",2021,No,2.9,8,Monthly
+EVST00506,36.325092,141.307711,"265 Tokyo St, Station Area",AC Level 2,0.1312,87.9,3.11,48.0,BP Pulse,17,Tesla Proprietary,2021,No,2.7,6,Quarterly
+EVST00507,48.949475,2.767638,"1356 Paris St, Station Area",AC Level 2,0.1428,98.4,1.02,19.8,Tesla,20,"J1772, Tesla Proprietary",2014,No,3.5,12,Monthly
+EVST00508,51.672994,0.560039,"9424 London St, Station Area",AC Level 2,0.1235,98.0,4.13,12.6,EVgo,28,"CCS, CHAdeMO",2013,Yes,4.8,12,Quarterly
+EVST00509,50.8949,0.416714,"4751 London St, Station Area",AC Level 1,0.0867,91.0,8.05,15.9,EVgo,7,,2018,No,3.4,14,Monthly
+EVST00510,49.410236,0.918432,"3192 London St, Station Area",DC Fast,0.2632,80.1,13.57,46.3,Blink,198,"CCS, J1772",2020,Yes,3.3,29,Quarterly
+EVST00511,26.298462,80.625146,"4460 New Delhi St, Station Area",AC Level 1,0.0763,87.5,6.4,12.1,Electrify America,8,"J1772, Tesla Proprietary, Type 2",2015,No,3.7,29,Quarterly
+EVST00512,-32.888933,152.66581,"2559 Sydney St, Station Area",AC Level 2,0.1755,58.9,11.1,28.3,Tesla,19,"J1772, Type 2",2016,No,4.4,17,Quarterly
+EVST00513,28.19885,74.838491,"8704 New Delhi St, Station Area",AC Level 2,0.129,74.0,17.21,33.5,Shell Recharge,14,"CCS, Tesla Proprietary",2018,No,3.2,3,Monthly
+EVST00514,-34.762933,151.879292,"9993 Sydney St, Station Area",AC Level 2,0.1737,62.9,13.33,14.5,Tesla,17,CCS,2017,No,3.3,8,Quarterly
+EVST00515,28.626658,78.921221,"849 New Delhi St, Station Area",AC Level 2,0.1747,50.2,3.13,17.8,Tesla,19,"CCS, J1772, Tesla Proprietary",2018,No,3.8,6,Bi-Annual
+EVST00516,38.967298,-120.615349,"7186 San Francisco St, Station Area",DC Fast,0.3527,98.3,14.62,44.6,EVgo,113,"CCS, J1772, Tesla Proprietary",2020,No,4.0,1,Monthly
+EVST00517,28.884446,76.569093,"3356 New Delhi St, Station Area",AC Level 2,0.1542,93.2,13.99,44.3,Electrify America,27,"Tesla Proprietary, Type 2",2024,Yes,5.0,12,Quarterly
+EVST00518,36.790818,-120.671983,"474 San Francisco St, Station Area",AC Level 2,0.2472,75.7,2.44,21.9,EVgo,27,"CCS, Type 2",2022,No,3.9,1,Quarterly
+EVST00519,37.515639,141.041914,"9221 Tokyo St, Station Area",AC Level 2,0.1816,62.7,2.04,32.9,Shell Recharge,33,"CCS, CHAdeMO, J1772",2012,No,,17,Bi-Annual
+EVST00520,51.225378,6.210976,"619 Paris St, Station Area",AC Level 1,0.0865,84.6,17.37,1.0,Blink,5,"CCS, CHAdeMO, Tesla Proprietary",2016,No,2.8,8,Quarterly
+EVST00521,36.418035,138.525297,"2059 Tokyo St, Station Area",AC Level 2,0.1237,71.7,8.51,37.1,Electrify America,30,"CCS, Tesla Proprietary",2012,No,3.5,22,Annual
+EVST00522,39.235395,-123.180501,"255 San Francisco St, Station Area",AC Level 2,0.1471,90.2,5.33,32.7,Shell Recharge,30,"J1772, Tesla Proprietary",2023,Yes,4.3,16,Quarterly
+EVST00523,53.37034,-0.586979,"4712 London St, Station Area",AC Level 2,0.1928,100.0,13.8,19.3,Electrify America,21,Tesla Proprietary,2020,No,3.4,28,Quarterly
+EVST00524,-32.173651,150.473967,"5995 Sydney St, Station Area",DC Fast,0.3855,67.5,0.34,67.2,Blink,174,"CCS, CHAdeMO, Tesla Proprietary",2014,No,3.9,15,Monthly
+EVST00525,52.428549,-1.462831,"3207 London St, Station Area",DC Fast,0.5788365412231936,62.2,0.98,187.1851784217972,Electrify America,212,Type 2,2022,Yes,4.2,5,Quarterly
+EVST00526,52.404921,-4.271813,"716 London St, Station Area",DC Fast,0.3393,63.4,12.67,46.4,ChargePoint,147,"J1772, Tesla Proprietary",2019,Yes,3.5,27,Monthly
+EVST00527,29.393391,76.556951,"1162 New Delhi St, Station Area",AC Level 2,0.1123,54.7,8.03,16.7,ChargePoint,21,CCS,2012,No,3.6,9,Quarterly
+EVST00528,36.128893,-121.865363,"9333 San Francisco St, Station Area",DC Fast,0.3244,69.7,0.33,34.1,Electrify America,119,Type 2,2013,Yes,4.2,23,Monthly
+EVST00529,29.664985,76.469167,"8058 New Delhi St, Station Area",AC Level 2,0.1128,50.9,0.46,38.8,Electrify America,10,"J1772, Tesla Proprietary, Type 2",2022,No,4.0,23,Quarterly
+EVST00530,26.580179,80.112072,"9368 New Delhi St, Station Area",AC Level 2,0.1054,55.7,6.79,30.5,ChargePoint,22,Type 2,2015,Yes,3.4,27,Bi-Annual
+EVST00531,47.664701,2.372264,"5307 Paris St, Station Area",DC Fast,0.312,63.6,2.64,51.0,BP Pulse,115,"CHAdeMO, Type 2",2018,Yes,3.4,19,Annual
+EVST00532,39.730248,-120.482856,"5460 San Francisco St, Station Area",DC Fast,0.3262,58.0,3.63,40.0,EVgo,96,J1772,2023,Yes,3.2,15,Monthly
+EVST00533,39.03523,-122.027269,"7859 San Francisco St, Station Area",DC Fast,0.3452,86.6,14.1,63.3,Shell Recharge,171,"J1772, Tesla Proprietary, Type 2",2015,No,3.9,12,Bi-Annual
+EVST00534,53.738497,1.111811,"6166 London St, Station Area",DC Fast,0.3249,55.3,9.65,35.7,Electrify America,77,"CCS, Tesla Proprietary, Type 2",2012,No,2.9,13,Bi-Annual
+EVST00535,48.449088,2.771062,"4364 Paris St, Station Area",AC Level 1,0.0906,93.3,8.15,5.7,Shell Recharge,9,CCS,2013,No,4.2,23,Bi-Annual
+EVST00536,36.046527,-120.366223,"2919 San Francisco St, Station Area",DC Fast,0.5609603340616952,61.1,9.98,183.89459494795273,Shell Recharge,174,"CHAdeMO, Type 2",2023,No,4.3,17,Bi-Annual
+EVST00537,35.315544,139.734209,"4855 Tokyo St, Station Area",AC Level 2,0.1469,55.4,4.92,22.7,BP Pulse,20,"Tesla Proprietary, Type 2",2019,No,3.6,2,Monthly
+EVST00538,37.927947,-121.675219,"640 San Francisco St, Station Area",DC Fast,0.2246,50.5,4.96,27.1,Tesla,147,"J1772, Tesla Proprietary, Type 2",2016,Yes,4.5,11,Bi-Annual
+EVST00539,48.975083,2.901699,"1925 Paris St, Station Area",DC Fast,0.1998,85.8,15.63,62.7,Blink,90,"CCS, CHAdeMO, Tesla Proprietary",2013,Yes,4.1,27,Quarterly
+EVST00540,39.475421,-122.851828,"7374 San Francisco St, Station Area",AC Level 1,0.0948,62.8,0.35,6.0,EVgo,9,"CCS, CHAdeMO, Tesla Proprietary",2021,No,4.2,7,Bi-Annual
+EVST00541,-34.410706,151.816773,"8679 Sydney St, Station Area",AC Level 1,0.0649,75.5,8.97,4.7,Electrify America,7,J1772,2012,Yes,3.8,14,Monthly
+EVST00542,38.302952,-119.067821,"1018 San Francisco St, Station Area",AC Level 1,0.0974,55.6,1.28,23.4,ChargePoint,8,"Tesla Proprietary, Type 2",2013,No,4.8,25,Monthly
+EVST00543,50.024459,-0.533395,"969 London St, Station Area",AC Level 2,0.1833,99.3,8.55,55.6,BP Pulse,25,Type 2,2019,No,3.6,9,Monthly
+EVST00544,52.182876,0.501397,"856 London St, Station Area",AC Level 1,0.0676,56.3,0.66,5.2,ChargePoint,6,"CCS, J1772, Type 2",2020,No,3.0,20,Quarterly
+EVST00545,-33.864137,153.095968,"7915 Sydney St, Station Area",DC Fast,0.3295,70.6,37.39,46.4,Shell Recharge,74,Type 2,2019,No,4.2,23,Quarterly
+EVST00546,36.65018,-120.70902,"3112 San Francisco St, Station Area",AC Level 2,0.1302,92.6,13.24,35.2,EVgo,27,"CCS, CHAdeMO",2023,No,3.6,10,Bi-Annual
+EVST00547,35.322456,139.667875,"3267 Tokyo St, Station Area",DC Fast,0.2077,62.2,1.22,18.8,Shell Recharge,184,"J1772, Type 2",2015,No,,26,Monthly
+EVST00548,48.580336,-1.222883,"125 Paris St, Station Area",AC Level 2,0.1537,63.3,6.82,25.2,BP Pulse,19,"CHAdeMO, J1772",2019,No,3.9,13,Monthly
+EVST00549,48.451367,3.127254,"9725 Paris St, Station Area",AC Level 2,0.1359,90.4,31.28,18.2,EVgo,24,CHAdeMO,2015,No,3.8,9,Quarterly
+EVST00550,-31.211788,147.880089,"4340 Sydney St, Station Area",AC Level 1,0.0712,63.7,3.23,6.7,Electrify America,10,CCS,2016,No,4.3,7,Monthly
+EVST00551,-34.016469,153.414206,"7973 Sydney St, Station Area",DC Fast,0.3988,50.1,9.51,53.1,Blink,207,Tesla Proprietary,2013,Yes,5.0,8,Quarterly
+EVST00552,35.310356,139.904511,"7076 Tokyo St, Station Area",AC Level 2,0.1042,71.4,35.33,4.6,Electrify America,19,"J1772, Tesla Proprietary",2022,No,3.4,17,Bi-Annual
+EVST00553,-37.014976,152.708811,"1418 Sydney St, Station Area",AC Level 1,0.0877,50.6,9.83,26.8,Shell Recharge,4,"J1772, Type 2",2021,No,3.1,7,Annual
+EVST00554,50.166089,-1.480967,"8012 London St, Station Area",AC Level 2,0.1202,95.5,2.37,39.2,Blink,15,"CCS, J1772, Tesla Proprietary",2021,,2.2,11,Monthly
+EVST00555,28.21929,74.880239,"5502 New Delhi St, Station Area",DC Fast,0.3454,82.1,10.94,23.4,ChargePoint,134,J1772,2013,Yes,3.7,21,Monthly
+EVST00556,47.827821,2.743332,"6042 Paris St, Station Area",AC Level 1,0.086,79.2,7.76,1.0,EVgo,10,CCS,2013,No,3.0,26,Bi-Annual
+EVST00557,-31.796239,151.158895,"2003 Sydney St, Station Area",AC Level 2,0.5603730648264054,60.1,0.99,199.42122209003094,ChargePoint,18,"J1772, Tesla Proprietary",2022,Yes,5.0,20,Monthly
+EVST00558,28.366493,76.471689,"8468 New Delhi St, Station Area",DC Fast,0.2528,85.0,2.97,46.8,Shell Recharge,120,"CCS, CHAdeMO, Tesla Proprietary",2020,,3.5,16,Bi-Annual
+EVST00559,-31.936134,151.336292,"9315 Sydney St, Station Area",DC Fast,0.2617,83.9,0.62,32.5,Blink,119,J1772,2012,Yes,3.8,21,Quarterly
+EVST00560,28.706457,81.360154,"4065 New Delhi St, Station Area",AC Level 2,0.1778,53.0,1.86,35.7,BP Pulse,19,"CHAdeMO, J1772",2020,No,4.2,12,Bi-Annual
+EVST00561,48.912442,3.603988,"925 Paris St, Station Area",AC Level 1,0.1154,94.0,3.9,10.7,BP Pulse,7,"CCS, Tesla Proprietary",2024,No,3.9,8,Monthly
+EVST00562,37.641705,-120.845152,"8487 San Francisco St, Station Area",AC Level 2,0.1644,79.0,0.31,14.2,Shell Recharge,16,"CHAdeMO, Tesla Proprietary, Type 2",2021,No,3.6,22,Annual
+EVST00563,35.681894,140.916205,"8873 Tokyo St, Station Area",AC Level 2,0.1231,89.6,6.84,49.2,Tesla,27,"CCS, Tesla Proprietary",2015,Yes,4.3,4,Annual
+EVST00564,54.085593,2.091393,"5064 London St, Station Area",DC Fast,0.3169,63.1,2.0,87.5,Blink,143,"CCS, Tesla Proprietary",2016,Yes,5.0,27,Monthly
+EVST00565,25.134484,76.923892,"5791 New Delhi St, Station Area",AC Level 2,0.2228,56.1,6.57,38.1,Electrify America,34,"CCS, Type 2",2021,Yes,3.5,13,Quarterly
+EVST00566,48.505081,-3.209942,"2230 London St, Station Area",AC Level 2,0.1531,85.1,9.46,19.4,Electrify America,16,"J1772, Tesla Proprietary, Type 2",2017,Yes,4.4,24,Quarterly
+EVST00567,50.692644,-0.410679,"675 London St, Station Area",AC Level 1,0.1092,89.7,6.23,1.0,BP Pulse,10,CCS,2021,No,4.2,3,Monthly
+EVST00568,51.529192,1.089804,"9440 London St, Station Area",AC Level 2,0.1278,69.3,6.96,36.7,EVgo,29,"CCS, Type 2",2024,No,3.8,15,Annual
+EVST00569,49.891757,0.897499,"4829 Paris St, Station Area",AC Level 2,0.1487,51.2,1.58,61.2,ChargePoint,20,"CHAdeMO, Tesla Proprietary",2017,Yes,4.6,13,Monthly
+EVST00570,49.566231,2.087651,"2750 Paris St, Station Area",DC Fast,0.331,90.9,33.73,57.5,BP Pulse,130,"CHAdeMO, Tesla Proprietary, Type 2",2019,No,4.2,11,Monthly
+EVST00571,28.037531,76.171345,"6931 New Delhi St, Station Area",AC Level 1,0.0879,60.3,2.98,25.0,Shell Recharge,5,"CHAdeMO, Tesla Proprietary",2018,Yes,2.9,15,Monthly
+EVST00572,37.204766,141.903344,"262 Tokyo St, Station Area",DC Fast,0.2617,67.0,2.4,25.8,Blink,105,"CCS, CHAdeMO, J1772",2018,Yes,4.2,20,Quarterly
+EVST00573,53.052693,0.996386,"800 London St, Station Area",DC Fast,0.2595,81.4,18.1,58.1,Electrify America,150,"CCS, J1772, Tesla Proprietary",2012,No,4.6,28,Bi-Annual
+EVST00574,38.050987,-121.442089,"2427 San Francisco St, Station Area",AC Level 2,0.1796,55.0,10.82,19.8,ChargePoint,22,"CCS, Type 2",2024,No,4.9,24,Quarterly
+EVST00575,39.218886,-121.486998,"4506 San Francisco St, Station Area",AC Level 1,0.1038,53.6,1.24,22.2,Tesla,4,Type 2,2019,No,,7,Quarterly
+EVST00576,36.085168,139.594426,"3667 Tokyo St, Station Area",AC Level 2,0.1954,51.3,0.48,47.3,Blink,33,CCS,2014,No,3.9,29,Monthly
+EVST00577,27.771675,77.505334,"1874 New Delhi St, Station Area",AC Level 2,0.2041,95.8,3.08,48.0,EVgo,21,CCS,2019,No,3.6,15,Bi-Annual
+EVST00578,49.903325,0.574423,"3513 Paris St, Station Area",AC Level 2,0.154,65.6,30.79,27.7,Blink,22,Tesla Proprietary,2017,No,2.6,14,Quarterly
+EVST00579,28.77982,73.929337,"3339 New Delhi St, Station Area",DC Fast,0.2844,83.0,12.52,34.2,Blink,119,"CCS, CHAdeMO, J1772",2022,No,3.7,1,Quarterly
+EVST00580,37.77691,-122.194278,"5246 San Francisco St, Station Area",AC Level 2,0.1905,99.5,5.66,18.9,EVgo,21,"CCS, CHAdeMO, J1772",2021,No,4.0,20,Quarterly
+EVST00581,39.98433,-121.933415,"5627 San Francisco St, Station Area",AC Level 2,0.1714,83.5,0.11,27.3,Blink,20,CCS,2016,No,3.7,26,Annual
+EVST00582,24.937592,79.022897,"8830 New Delhi St, Station Area",AC Level 2,0.1205,76.3,3.4,55.1,EVgo,22,"CCS, J1772, Tesla Proprietary",2021,Yes,3.5,9,Bi-Annual
+EVST00583,35.648374,-120.062396,"8067 San Francisco St, Station Area",AC Level 2,0.119,76.0,2.86,36.4,Tesla,22,Tesla Proprietary,2012,No,3.5,26,Quarterly
+EVST00584,35.994294,-120.064402,"2923 San Francisco St, Station Area",DC Fast,0.3246,68.8,23.34,44.7,Electrify America,190,"CCS, J1772",2024,No,4.1,3,Quarterly
+EVST00585,35.131309,138.153265,"9025 Tokyo St, Station Area",AC Level 1,0.0765,80.0,0.18,7.1,Electrify America,7,"CHAdeMO, J1772, Tesla Proprietary",2018,No,3.1,29,Monthly
+EVST00586,28.231988,76.680602,"5207 New Delhi St, Station Area",DC Fast,0.2987,97.9,0.13,57.2,Blink,185,J1772,2020,Yes,4.7,8,Quarterly
+EVST00587,-36.129788,151.929801,"1877 Sydney St, Station Area",DC Fast,0.3536,89.4,8.79,36.1,ChargePoint,150,"CCS, CHAdeMO, Tesla Proprietary",2020,No,4.0,14,Quarterly
+EVST00588,36.297163,-118.621543,"3401 San Francisco St, Station Area",AC Level 1,0.0952,71.2,1.1,17.7,Shell Recharge,7,"CCS, Tesla Proprietary, Type 2",2016,No,,1,Bi-Annual
+EVST00589,27.322637,79.429149,"7417 New Delhi St, Station Area",AC Level 2,0.1899,66.6,3.84,23.5,Shell Recharge,21,CHAdeMO,2020,Yes,4.6,27,Quarterly
+EVST00590,32.300036,78.888096,"8217 New Delhi St, Station Area",AC Level 2,0.0921,94.2,0.77,32.5,BP Pulse,27,Type 2,2017,No,3.5,15,Quarterly
+EVST00591,-31.166187,150.627618,"3741 Sydney St, Station Area",DC Fast,0.3127,56.8,1.6,61.6,BP Pulse,166,"J1772, Tesla Proprietary",2020,No,,29,Monthly
+EVST00592,27.996276,75.884201,"1576 New Delhi St, Station Area",AC Level 2,0.1708,92.5,3.32,37.9,Tesla,21,"CCS, Tesla Proprietary",2013,Yes,4.4,11,Monthly
+EVST00593,50.962025,1.055562,"1919 London St, Station Area",DC Fast,0.2237,62.8,7.38,63.3,Shell Recharge,141,Type 2,2013,Yes,3.7,2,Bi-Annual
+EVST00594,26.890094,75.558008,"1035 New Delhi St, Station Area",DC Fast,0.2673,85.8,10.86,55.4,EVgo,145,"CHAdeMO, Type 2",2024,No,4.0,20,Annual
+EVST00595,48.645204,-0.485455,"6986 London St, Station Area",DC Fast,0.258,90.3,6.5,71.6,Electrify America,152,Tesla Proprietary,2021,No,4.6,5,Quarterly
+EVST00596,-34.04412,151.037133,"5029 Sydney St, Station Area",AC Level 2,0.1507,73.8,0.2,43.3,BP Pulse,22,CCS,2013,No,2.3,18,Quarterly
+EVST00597,47.359822,4.741568,"4511 Paris St, Station Area",AC Level 2,0.1988,59.6,4.02,27.6,Electrify America,19,"CCS, J1772, Tesla Proprietary",2014,No,4.0,2,Quarterly
+EVST00598,-33.996076,150.677254,"6718 Sydney St, Station Area",DC Fast,0.4011,92.2,1.44,44.3,EVgo,188,"CCS, J1772, Type 2",2019,No,4.0,5,Monthly
+EVST00599,46.456291,-1.306674,"8286 Paris St, Station Area",AC Level 2,0.1256,68.4,1.51,28.5,EVgo,26,J1772,2012,No,3.6,19,Monthly
+EVST00600,47.713638,3.108867,"7954 Paris St, Station Area",DC Fast,0.3263,66.0,5.06,88.6,Blink,239,"J1772, Tesla Proprietary",2017,Yes,3.5,20,Monthly
+EVST00601,49.079541,1.303667,"1372 Paris St, Station Area",AC Level 1,0.0912,75.5,10.68,18.1,Blink,6,"CCS, CHAdeMO, Type 2",2016,No,3.7,5,Annual
+EVST00602,-33.319486,151.273247,"5896 Sydney St, Station Area",AC Level 2,0.1616,71.8,1.97,37.4,Shell Recharge,25,Type 2,2013,No,3.3,6,Monthly
+EVST00603,-33.242592,151.079243,"8824 Sydney St, Station Area",DC Fast,0.3199,84.2,12.19,60.3,Electrify America,55,"CCS, J1772, Tesla Proprietary",2015,Yes,4.3,25,Quarterly
+EVST00604,35.794167,-122.829956,"7737 San Francisco St, Station Area",AC Level 2,0.1591,56.9,10.82,32.2,Blink,26,"CHAdeMO, Tesla Proprietary",2015,No,3.9,1,Quarterly
+EVST00605,-32.586771,152.394811,"3294 Sydney St, Station Area",AC Level 1,0.1138,71.8,20.7,4.3,Electrify America,4,"J1772, Type 2",2012,Yes,,7,Quarterly
+EVST00606,47.656282,0.052903,"3927 Paris St, Station Area",AC Level 2,0.1831,94.6,15.73,26.3,EVgo,17,"CHAdeMO, Tesla Proprietary, Type 2",2020,No,2.5,29,Monthly
+EVST00607,52.456687,-0.903321,"8901 London St, Station Area",AC Level 2,0.1182,51.8,5.73,11.3,Tesla,24,"CCS, J1772, Tesla Proprietary",2015,No,4.1,16,Annual
+EVST00608,48.840642,3.378257,"329 Paris St, Station Area",DC Fast,0.3398,72.9,1.76,45.3,EVgo,119,Tesla Proprietary,2012,Yes,3.9,1,Quarterly
+EVST00609,26.549319,76.287873,"5254 New Delhi St, Station Area",AC Level 1,0.0978,83.0,9.11,16.9,EVgo,5,"CHAdeMO, Tesla Proprietary",2012,No,3.6,26,Annual
+EVST00610,28.139603,74.79579,"1161 New Delhi St, Station Area",AC Level 1,0.0863,94.4,24.37,14.1,Electrify America,6,CHAdeMO,2024,No,4.1,10,Quarterly
+EVST00611,29.161946,78.211833,"8945 New Delhi St, Station Area",AC Level 2,0.1839,79.7,16.32,18.7,Electrify America,26,"CCS, CHAdeMO, Tesla Proprietary",2013,No,3.5,21,Quarterly
+EVST00612,36.595648,141.334942,"388 Tokyo St, Station Area",DC Fast,0.3094,91.2,3.07,30.0,Electrify America,103,"CCS, Tesla Proprietary, Type 2",2023,No,4.3,19,Bi-Annual
+EVST00613,-34.080282,151.141807,"234 Sydney St, Station Area",AC Level 2,0.156,61.1,28.98,6.1,EVgo,22,"CHAdeMO, J1772",2014,Yes,4.0,11,Quarterly
+EVST00614,37.973868,136.709032,"3289 Tokyo St, Station Area",DC Fast,0.3061,67.6,2.11,68.8,Electrify America,131,"CCS, J1772, Tesla Proprietary",2013,Yes,5.0,11,Monthly
+EVST00615,-32.357534,152.268255,"2002 Sydney St, Station Area",DC Fast,0.1991,97.1,6.15,53.6,Blink,191,CHAdeMO,2019,Yes,3.9,16,Bi-Annual
+EVST00616,48.471619,-0.137632,"4954 Paris St, Station Area",AC Level 2,0.1476,94.3,5.11,39.6,EVgo,26,J1772,2023,Yes,4.6,12,Quarterly
+EVST00617,52.632583,0.335399,"2996 London St, Station Area",DC Fast,0.5620451593073141,77.9,15.62,163.7813631210789,Tesla,58,"CHAdeMO, J1772",2012,Yes,5.0,6,Quarterly
+EVST00618,54.40809,-1.458996,"3563 London St, Station Area",DC Fast,0.2407,73.8,4.75,48.5,Electrify America,202,,2016,No,2.9,21,Bi-Annual
+EVST00619,40.715627,-124.159159,"5649 San Francisco St, Station Area",AC Level 2,0.193,72.6,10.58,37.5,BP Pulse,19,"CHAdeMO, Tesla Proprietary",2021,Yes,3.8,20,Quarterly
+EVST00620,35.9329,-123.082265,"5605 San Francisco St, Station Area",AC Level 2,0.1651,52.9,3.88,15.0,Blink,23,CHAdeMO,2012,No,3.8,18,Quarterly
+EVST00621,34.2864,139.375354,"9348 Tokyo St, Station Area",DC Fast,0.2985,94.6,1.69,71.4,Shell Recharge,103,"CHAdeMO, J1772, Type 2",2014,Yes,4.5,22,Quarterly
+EVST00622,37.903578,138.683988,"4806 Tokyo St, Station Area",DC Fast,0.2718,90.9,12.83,56.4,Blink,169,"CCS, J1772",2015,Yes,4.9,16,Monthly
+EVST00623,36.187478,-121.536345,"5642 San Francisco St, Station Area",DC Fast,0.3148,72.8,5.92,60.7,Tesla,278,"CCS, J1772, Tesla Proprietary",2022,No,3.7,27,Quarterly
+EVST00624,33.692388,138.981196,"6779 Tokyo St, Station Area",DC Fast,0.3496,64.0,12.98,29.6,Shell Recharge,156,"CCS, CHAdeMO, Type 2",2022,No,3.6,26,Monthly
+EVST00625,48.127309,3.822486,"1742 Paris St, Station Area",AC Level 2,0.1252,67.1,6.04,18.0,Electrify America,20,"CHAdeMO, J1772",2021,No,4.4,29,Monthly
+EVST00626,52.13774,0.29396,"6669 London St, Station Area",DC Fast,0.2998,56.2,3.35,52.1,Shell Recharge,138,J1772,2020,Yes,4.5,4,Bi-Annual
+EVST00627,35.522605,138.603964,"8618 Tokyo St, Station Area",DC Fast,0.3434,86.1,3.9,47.1,Shell Recharge,77,Tesla Proprietary,2012,No,3.4,3,Monthly
+EVST00628,34.700355,138.35139,"3181 Tokyo St, Station Area",AC Level 2,0.0919,77.8,37.19,31.0,Blink,29,"CCS, J1772, Type 2",2015,Yes,4.1,14,Monthly
+EVST00629,47.845281,-0.119044,"1784 Paris St, Station Area",AC Level 1,0.0788,61.7,17.12,7.8,BP Pulse,8,"CCS, J1772, Type 2",2023,No,3.9,21,Bi-Annual
+EVST00630,34.607694,140.0864,"3462 Tokyo St, Station Area",AC Level 2,0.1371,81.2,15.4,39.6,BP Pulse,17,"Tesla Proprietary, Type 2",2021,No,4.7,7,Bi-Annual
+EVST00631,-35.188064,150.677419,"2750 Sydney St, Station Area",DC Fast,0.2933,99.0,11.65,29.6,EVgo,99,J1772,2015,Yes,4.9,4,Bi-Annual
+EVST00632,54.929849,-3.686093,"5851 London St, Station Area",AC Level 2,0.135,56.1,1.45,50.8,ChargePoint,22,"CCS, Type 2",2021,No,4.2,2,Quarterly
+EVST00633,36.122467,138.846728,"8636 Tokyo St, Station Area",DC Fast,0.3069,72.9,8.26,46.4,Blink,197,"CCS, Tesla Proprietary, Type 2",2021,No,3.2,17,Quarterly
+EVST00634,37.006339,138.298749,"5964 Tokyo St, Station Area",AC Level 1,0.1185,74.7,5.59,16.3,Shell Recharge,5,CCS,2021,Yes,3.9,29,Annual
+EVST00635,50.773784,2.235716,"1255 London St, Station Area",AC Level 2,0.1403,58.3,7.52,37.7,BP Pulse,28,"J1772, Tesla Proprietary, Type 2",2024,Yes,4.2,14,Monthly
+EVST00636,-34.147735,148.655132,"3147 Sydney St, Station Area",AC Level 2,0.1588,76.6,4.23,20.1,Shell Recharge,22,"CHAdeMO, Tesla Proprietary",2019,No,3.7,22,Monthly
+EVST00637,50.437069,-2.289826,"6892 London St, Station Area",AC Level 1,0.1199,80.3,16.06,15.1,EVgo,5,"CHAdeMO, J1772",2012,No,3.6,2,Monthly
+EVST00638,47.529837,1.537154,"3303 London St, Station Area",DC Fast,0.2725,57.9,11.03,72.2,ChargePoint,127,Tesla Proprietary,2022,Yes,3.9,7,Bi-Annual
+EVST00639,-35.935814,153.244445,"5863 Sydney St, Station Area",AC Level 2,0.2044,57.7,8.1,33.3,EVgo,31,"CCS, J1772, Tesla Proprietary",2012,Yes,3.5,20,Monthly
+EVST00640,25.897972,76.091526,"6940 New Delhi St, Station Area",DC Fast,0.3003,92.8,3.8,17.3,EVgo,81,"CCS, Tesla Proprietary",2020,No,3.5,12,Quarterly
+EVST00641,-37.243476,150.261171,"3292 Sydney St, Station Area",AC Level 2,0.5531878945476194,65.6,5.01,150.00693640012972,ChargePoint,18,CCS,2022,Yes,3.7,1,Quarterly
+EVST00642,26.820862,78.133353,"6473 New Delhi St, Station Area",DC Fast,0.3375,81.5,7.66,67.9,ChargePoint,198,"CCS, J1772, Type 2",2013,No,3.6,7,Annual
+EVST00643,30.601334,73.71835,"3981 New Delhi St, Station Area",AC Level 2,0.1592,81.3,0.1,15.8,ChargePoint,23,Tesla Proprietary,2022,No,3.9,24,Quarterly
+EVST00644,35.609546,136.858509,"1351 Tokyo St, Station Area",AC Level 1,0.0787,92.0,5.68,22.8,ChargePoint,5,J1772,2022,Yes,4.4,20,Quarterly
+EVST00645,-31.932954,150.7882,"3722 Sydney St, Station Area",AC Level 1,0.0675,87.0,10.8,10.0,Electrify America,9,CCS,2020,Yes,3.5,24,Annual
+EVST00646,52.123874,2.197036,"4410 London St, Station Area",AC Level 1,0.0815,92.0,13.02,1.0,EVgo,9,"CCS, CHAdeMO, J1772",2016,No,4.6,11,Monthly
+EVST00647,36.850038,138.996705,"24 Tokyo St, Station Area",AC Level 2,0.5524881625813286,81.3,4.31,151.91096379393693,EVgo,24,,2014,No,3.8,27,Quarterly
+EVST00648,47.505255,2.503605,"8926 Paris St, Station Area",DC Fast,0.2993,72.5,3.95,45.1,Tesla,119,"J1772, Tesla Proprietary, Type 2",2021,Yes,4.0,27,Monthly
+EVST00649,29.399826,78.909684,"5278 New Delhi St, Station Area",AC Level 2,0.5859992674813063,69.7,30.62,154.87593552100125,BP Pulse,20,CHAdeMO,2014,Yes,4.4,11,Monthly
+EVST00650,29.706971,80.369327,"363 New Delhi St, Station Area",AC Level 2,0.1425,69.0,1.48,23.5,Electrify America,23,CHAdeMO,2020,No,2.7,7,Monthly
+EVST00651,34.811229,138.785027,"8679 Tokyo St, Station Area",AC Level 2,0.1798,70.9,4.97,39.3,Tesla,15,"CCS, J1772, Tesla Proprietary",2014,No,3.9,28,Quarterly
+EVST00652,49.695911,2.326945,"8550 Paris St, Station Area",AC Level 2,0.1868,56.5,5.04,42.7,Electrify America,29,"CHAdeMO, Type 2",2016,No,3.8,11,Monthly
+EVST00653,52.356682,2.605283,"121 London St, Station Area",DC Fast,0.5631878407224102,71.2,8.31,198.7618844292002,Electrify America,235,"CCS, J1772",2018,Yes,4.2,15,Bi-Annual
+EVST00654,-34.693129,148.926001,"1632 Sydney St, Station Area",AC Level 2,0.1299,69.5,6.96,37.8,Electrify America,21,Type 2,2014,No,3.7,28,Quarterly
+EVST00655,47.172447,3.893572,"3638 Paris St, Station Area",DC Fast,0.319,51.7,6.95,32.1,EVgo,168,Tesla Proprietary,2022,No,3.6,8,Quarterly
+EVST00656,47.080408,0.824727,"5072 Paris St, Station Area",DC Fast,0.3764,63.8,3.76,20.2,Tesla,209,"CCS, J1772",2021,Yes,4.6,26,Quarterly
+EVST00657,-33.739042,151.363009,"7257 Sydney St, Station Area",AC Level 2,0.1844,87.6,11.37,32.7,EVgo,32,"CCS, J1772, Type 2",2012,No,3.2,5,Annual
+EVST00658,49.347115,1.988271,"4243 Paris St, Station Area",AC Level 1,0.055,78.9,13.0,3.3,EVgo,10,CCS,2023,No,3.9,9,Quarterly
+EVST00659,36.586111,-123.856417,"6116 San Francisco St, Station Area",AC Level 1,0.0747,90.3,12.55,1.0,Blink,4,"J1772, Tesla Proprietary, Type 2",2021,Yes,4.0,12,Monthly
+EVST00660,51.547278,-1.602453,"102 London St, Station Area",AC Level 2,0.1221,77.1,4.95,21.4,Blink,20,"CCS, J1772, Tesla Proprietary",2022,No,3.3,15,Monthly
+EVST00661,52.363206,0.286822,"6585 London St, Station Area",AC Level 2,0.142,92.7,7.25,28.5,EVgo,25,"Tesla Proprietary, Type 2",2019,No,3.2,8,Bi-Annual
+EVST00662,-32.941514,152.702609,"9153 Sydney St, Station Area",DC Fast,0.3802,89.8,2.16,58.1,Tesla,125,"CHAdeMO, Tesla Proprietary",2020,No,3.6,26,Bi-Annual
+EVST00663,40.10272,-122.614004,"5262 San Francisco St, Station Area",AC Level 2,0.1073,54.9,7.33,14.3,EVgo,31,"CHAdeMO, Tesla Proprietary, Type 2",2016,Yes,4.3,20,Quarterly
+EVST00664,53.422871,-0.02263,"4549 London St, Station Area",AC Level 2,0.5692232497634327,98.9,7.26,178.50241471508738,ChargePoint,30,"Tesla Proprietary, Type 2",2014,No,3.8,20,Monthly
+EVST00665,47.354663,3.208961,"2971 Paris St, Station Area",DC Fast,0.2586,50.7,4.64,66.3,Blink,109,"CCS, J1772, Tesla Proprietary",2015,No,3.6,22,Quarterly
+EVST00666,-31.343421,149.751872,"9541 Sydney St, Station Area",AC Level 2,0.1586,79.8,26.93,9.6,EVgo,21,Tesla Proprietary,2016,No,3.9,19,Quarterly
+EVST00667,48.060135,3.461739,"332 Paris St, Station Area",DC Fast,0.331,89.6,2.42,49.7,Electrify America,113,"CCS, Tesla Proprietary, Type 2",2015,Yes,4.7,19,Quarterly
+EVST00668,30.181209,78.438015,"2867 New Delhi St, Station Area",AC Level 1,0.0887,66.6,0.4,13.1,Blink,7,"CCS, Tesla Proprietary, Type 2",2021,Yes,3.8,20,Monthly
+EVST00669,28.71588,81.114439,"1387 New Delhi St, Station Area",AC Level 2,0.1853,79.9,25.33,17.5,ChargePoint,21,CCS,2018,No,3.9,21,Quarterly
+EVST00670,37.156676,-122.983556,"8662 San Francisco St, Station Area",DC Fast,0.2118,68.1,15.57,53.3,ChargePoint,198,"CHAdeMO, Type 2",2017,No,4.1,27,Quarterly
+EVST00671,25.902355,76.521877,"4826 New Delhi St, Station Area",DC Fast,0.3594,53.0,1.16,36.5,EVgo,106,"CCS, CHAdeMO, J1772",2021,Yes,4.0,6,Annual
+EVST00672,48.599253,3.505649,"9223 Paris St, Station Area",DC Fast,0.2844,50.4,4.43,53.0,ChargePoint,19,Tesla Proprietary,2021,No,3.8,15,Monthly
+EVST00673,46.517525,3.580856,"6651 Paris St, Station Area",AC Level 2,0.1719,54.7,1.42,20.6,EVgo,14,"Tesla Proprietary, Type 2",2024,Yes,3.6,6,Annual
+EVST00674,39.225849,-123.222031,"5568 San Francisco St, Station Area",DC Fast,0.2338,54.9,6.99,33.5,Tesla,99,"CCS, CHAdeMO, Tesla Proprietary",2016,No,2.8,6,Quarterly
+EVST00675,51.131789,1.747456,"5174 Paris St, Station Area",AC Level 2,0.1501,80.5,1.32,15.3,BP Pulse,19,CCS,2015,No,3.9,28,Quarterly
+EVST00676,-35.064166,152.020996,"2027 Sydney St, Station Area",AC Level 2,0.1571,76.3,7.75,37.0,Tesla,23,J1772,2012,Yes,4.0,14,Bi-Annual
+EVST00677,49.309556,1.110824,"5620 Paris St, Station Area",AC Level 1,0.1031,72.8,2.95,17.7,ChargePoint,5,"CCS, CHAdeMO",2014,No,3.5,21,Quarterly
+EVST00678,36.686813,-123.035201,"6852 San Francisco St, Station Area",AC Level 2,0.1024,84.6,21.22,31.3,EVgo,16,"CHAdeMO, J1772",2019,No,,22,Monthly
+EVST00679,47.913873,2.486589,"9652 Paris St, Station Area",AC Level 2,0.1509,50.8,4.86,22.4,Electrify America,17,"CCS, CHAdeMO",2022,No,3.3,1,Monthly
+EVST00680,29.775642,78.702908,"5489 New Delhi St, Station Area",AC Level 1,0.57686814625935,63.5,7.87,189.9684266961464,Blink,5,"CHAdeMO, J1772, Type 2",2019,No,2.6,15,Bi-Annual
+EVST00681,-33.926607,150.302402,"9387 Sydney St, Station Area",DC Fast,0.3253,88.9,2.81,62.2,BP Pulse,122,"Tesla Proprietary, Type 2",2024,No,3.3,6,Quarterly
+EVST00682,40.384372,-125.182977,"9444 San Francisco St, Station Area",DC Fast,0.3389,95.5,5.05,26.2,EVgo,120,"CCS, Type 2",2020,No,2.8,10,Quarterly
+EVST00683,27.890551,74.334104,"5225 New Delhi St, Station Area",DC Fast,0.3644,71.9,0.41,64.8,ChargePoint,184,"CCS, J1772, Tesla Proprietary",2023,Yes,4.3,6,Quarterly
+EVST00684,30.112904,75.31988,"4392 New Delhi St, Station Area",AC Level 1,0.0693,54.1,2.64,7.7,Blink,5,Type 2,2015,No,3.2,20,Monthly
+EVST00685,51.65352,-2.097552,"1427 London St, Station Area",DC Fast,0.3464,89.9,6.72,82.7,Shell Recharge,132,"CHAdeMO, Tesla Proprietary, Type 2",2016,Yes,4.6,4,Monthly
+EVST00686,-32.675133,150.977384,"2685 Sydney St, Station Area",AC Level 1,0.1072,94.3,2.31,17.8,BP Pulse,6,"CCS, CHAdeMO",2022,Yes,3.5,14,Bi-Annual
+EVST00687,35.005464,137.86698,"8790 Tokyo St, Station Area",AC Level 2,0.1007,70.7,1.36,32.9,Shell Recharge,26,"CCS, CHAdeMO, Type 2",2020,Yes,3.7,9,Quarterly
+EVST00688,48.782262,1.298068,"1383 Paris St, Station Area",DC Fast,0.3306,62.2,0.27,43.8,Blink,142,"CHAdeMO, J1772",2018,No,3.2,28,Monthly
+EVST00689,35.502952,138.489171,"3970 Tokyo St, Station Area",AC Level 1,0.0992,52.2,3.93,17.2,Electrify America,9,"CCS, CHAdeMO",2024,Yes,4.9,23,Quarterly
+EVST00690,-35.122886,150.548538,"6985 Sydney St, Station Area",AC Level 1,0.0748,79.6,16.23,6.1,Blink,5,Tesla Proprietary,2021,Yes,3.6,11,Annual
+EVST00691,29.607022,79.192756,"2406 New Delhi St, Station Area",AC Level 1,0.0558,95.5,9.91,6.0,EVgo,7,"J1772, Type 2",2015,Yes,4.2,9,Monthly
+EVST00692,-32.893426,152.202221,"9740 Sydney St, Station Area",AC Level 2,0.1783,83.9,27.36,24.3,Electrify America,19,"CCS, J1772",2019,Yes,4.2,21,Monthly
+EVST00693,29.504232,77.233194,"6494 New Delhi St, Station Area",DC Fast,0.24,65.9,9.84,66.0,BP Pulse,89,Type 2,2017,No,2.4,19,Quarterly
+EVST00694,30.919348,76.517461,"284 New Delhi St, Station Area",AC Level 1,0.0764,82.1,3.64,13.7,EVgo,7,"CCS, CHAdeMO",2017,No,3.4,17,Monthly
+EVST00695,39.948917,-123.069249,"2472 San Francisco St, Station Area",AC Level 1,0.0792,91.6,15.4,1.0,EVgo,10,CHAdeMO,2022,Yes,3.9,3,Monthly
+EVST00696,50.944983,0.36382,"7403 London St, Station Area",AC Level 2,0.1715,73.8,11.27,37.2,Blink,18,J1772,2020,No,5.0,3,Monthly
+EVST00697,-33.309222,152.085554,"8631 Sydney St, Station Area",AC Level 2,0.1312,91.0,5.1,22.5,EVgo,21,"CCS, Tesla Proprietary",2012,Yes,4.8,19,Monthly
+EVST00698,47.921199,0.990774,"9268 Paris St, Station Area",DC Fast,0.2658,69.6,40.33,55.3,ChargePoint,84,"CHAdeMO, J1772, Type 2",2019,No,3.0,14,Quarterly
+EVST00699,37.809933,-122.364679,"8510 San Francisco St, Station Area",DC Fast,0.3049,67.4,24.43,58.9,Shell Recharge,77,CCS,2020,No,3.4,25,Monthly
+EVST00700,36.875276,-125.466829,"748 San Francisco St, Station Area",DC Fast,0.3503,79.1,1.0,64.6,ChargePoint,111,,2018,No,3.7,1,Quarterly
+EVST00701,51.286705,2.669771,"7296 Paris St, Station Area",DC Fast,0.4144,73.2,25.09,18.5,Electrify America,128,Tesla Proprietary,2015,Yes,3.9,6,Bi-Annual
+EVST00702,49.402147,3.495424,"1102 Paris St, Station Area",AC Level 2,0.1048,98.9,6.55,29.0,Blink,20,,2020,No,3.1,23,Monthly
+EVST00703,51.180356,-0.547903,"766 London St, Station Area",DC Fast,0.3158,75.8,8.06,37.8,EVgo,139,"CCS, J1772, Tesla Proprietary",2024,No,3.4,29,Monthly
+EVST00704,53.297828,2.59699,"6919 London St, Station Area",AC Level 2,0.1174,69.3,11.46,45.2,Blink,14,Type 2,2013,No,,22,Annual
+EVST00705,34.518977,-123.741258,"4781 San Francisco St, Station Area",AC Level 1,0.1004,69.7,1.38,14.7,EVgo,6,"CHAdeMO, Tesla Proprietary",2019,Yes,4.0,1,Quarterly
+EVST00706,45.835446,2.678361,"6479 Paris St, Station Area",DC Fast,0.2531,77.4,5.95,60.7,EVgo,175,J1772,2023,No,3.2,2,Quarterly
+EVST00707,38.968658,-122.473137,"8514 San Francisco St, Station Area",AC Level 1,0.0665,67.7,1.48,1.2,Tesla,4,"Tesla Proprietary, Type 2",2017,No,3.3,26,Quarterly
+EVST00708,48.947303,2.201753,"689 Paris St, Station Area",DC Fast,0.2705,86.1,4.52,9.6,BP Pulse,132,CCS,2016,No,3.5,15,Annual
+EVST00709,36.051869,139.478817,"5275 Tokyo St, Station Area",DC Fast,0.2962,69.0,0.8,30.2,Blink,165,Type 2,2015,No,3.1,15,Monthly
+EVST00710,33.686606,139.810958,"8343 Tokyo St, Station Area",DC Fast,0.3162,69.2,4.95,76.3,Tesla,111,"Tesla Proprietary, Type 2",2014,No,3.3,28,Monthly
+EVST00711,-33.903651,152.481238,"4403 Sydney St, Station Area",AC Level 2,0.1645,80.8,1.65,14.3,Shell Recharge,24,CCS,2017,No,4.1,8,Bi-Annual
+EVST00712,51.861864,4.418804,"5234 Paris St, Station Area",AC Level 2,0.1498,53.0,5.75,26.5,Blink,14,CHAdeMO,2022,Yes,4.3,9,Monthly
+EVST00713,-32.632501,151.205925,"4978 Sydney St, Station Area",DC Fast,0.2335,82.8,8.47,60.1,Shell Recharge,194,J1772,2014,Yes,3.9,20,Quarterly
+EVST00714,-33.61424,152.432274,"9071 Sydney St, Station Area",AC Level 2,0.566003204721494,75.2,22.83,199.25395080004103,BP Pulse,24,"CHAdeMO, Type 2",2015,No,4.3,27,Monthly
+EVST00715,27.955319,76.15635,"499 New Delhi St, Station Area",AC Level 2,0.1484,72.7,7.31,26.1,Shell Recharge,22,Type 2,2024,Yes,4.3,11,Quarterly
+EVST00716,-34.460659,152.358233,"8779 Sydney St, Station Area",DC Fast,0.5739393206624086,86.0,8.75,192.21339424445387,Tesla,206,"CHAdeMO, Tesla Proprietary",2024,No,2.9,5,Quarterly
+EVST00717,45.662803,1.209213,"8163 Paris St, Station Area",DC Fast,0.2646,87.9,0.14,52.5,Electrify America,134,"CCS, CHAdeMO, J1772",2014,No,3.5,2,Quarterly
+EVST00718,36.062661,141.28629,"8124 Tokyo St, Station Area",DC Fast,0.2199,92.3,7.7,42.7,EVgo,119,"CHAdeMO, Tesla Proprietary",2017,No,3.2,1,Quarterly
+EVST00719,52.775625,3.188161,"4123 London St, Station Area",AC Level 1,0.0793,68.7,4.31,20.5,Tesla,10,"CCS, Tesla Proprietary",2017,Yes,3.9,11,Monthly
+EVST00720,46.493171,2.169074,"5158 Paris St, Station Area",AC Level 2,0.1889,66.4,7.13,54.1,BP Pulse,31,"CCS, J1772",2015,No,3.5,16,Monthly
+EVST00721,36.782775,-125.708215,"3690 San Francisco St, Station Area",AC Level 2,0.1548,85.7,2.12,30.1,Blink,19,"CCS, J1772, Tesla Proprietary",2013,No,3.7,15,Bi-Annual
+EVST00722,26.877703,76.386891,"2517 New Delhi St, Station Area",AC Level 1,0.076,79.1,4.32,31.7,Electrify America,7,"CHAdeMO, J1772, Type 2",2012,No,3.6,7,Monthly
+EVST00723,27.165873,79.056813,"8753 New Delhi St, Station Area",AC Level 2,0.1239,81.6,16.97,17.6,EVgo,27,Type 2,2019,No,2.8,20,Quarterly
+EVST00724,37.855122,-121.589785,"5059 San Francisco St, Station Area",AC Level 2,0.2027,77.8,7.67,36.5,ChargePoint,22,"CCS, CHAdeMO, Type 2",2012,Yes,5.0,26,Quarterly
+EVST00725,-36.995403,151.58267,"7233 Sydney St, Station Area",AC Level 1,0.0594,88.6,13.28,11.7,Tesla,8,CHAdeMO,2020,No,4.1,7,Quarterly
+EVST00726,38.696306,-120.906397,"1008 San Francisco St, Station Area",AC Level 2,0.1282,59.5,5.61,35.2,Electrify America,26,"CCS, J1772, Tesla Proprietary",2013,Yes,3.6,20,Quarterly
+EVST00727,-32.738017,151.93598,"7888 Sydney St, Station Area",AC Level 2,0.1671,77.8,1.12,28.5,Tesla,19,CHAdeMO,2014,No,3.8,16,Bi-Annual
+EVST00728,37.398246,-120.592812,"6588 San Francisco St, Station Area",AC Level 2,0.0943,57.9,0.1,22.9,Shell Recharge,24,CHAdeMO,2012,Yes,,20,Quarterly
+EVST00729,31.955137,141.029436,"9975 Tokyo St, Station Area",AC Level 2,0.1882,70.4,5.49,31.2,Blink,22,"CCS, CHAdeMO, J1772",2017,Yes,3.8,1,Monthly
+EVST00730,47.361972,4.634751,"1340 Paris St, Station Area",DC Fast,0.3312,83.2,6.65,55.4,BP Pulse,89,Type 2,2016,Yes,4.2,20,Annual
+EVST00731,-32.019447,151.747494,"5400 Sydney St, Station Area",AC Level 2,0.177,74.7,3.03,43.6,Tesla,17,"CCS, CHAdeMO",2016,Yes,4.3,22,Monthly
+EVST00732,31.509209,141.008189,"5111 Tokyo St, Station Area",DC Fast,0.3279,69.0,6.34,68.8,Electrify America,117,"CHAdeMO, J1772, Type 2",2016,No,3.6,20,Bi-Annual
+EVST00733,28.092615,76.748309,"5383 New Delhi St, Station Area",AC Level 1,0.0768,94.2,12.26,26.4,Blink,9,"J1772, Tesla Proprietary",2024,No,3.4,25,Monthly
+EVST00734,-35.638801,150.307109,"544 Sydney St, Station Area",AC Level 2,0.1181,88.6,4.52,37.3,EVgo,27,J1772,2017,Yes,3.6,22,Quarterly
+EVST00735,52.714255,2.432351,"4731 London St, Station Area",AC Level 2,0.1458,76.3,9.99,19.7,Shell Recharge,26,,2022,Yes,4.5,29,Quarterly
+EVST00736,-34.881471,151.533607,"2995 Sydney St, Station Area",AC Level 2,0.1207,97.5,24.91,20.0,ChargePoint,24,Type 2,2015,No,4.4,20,Monthly
+EVST00737,-33.262869,152.416621,"6173 Sydney St, Station Area",AC Level 2,0.1646,71.2,14.11,38.9,EVgo,24,"CHAdeMO, J1772",2018,Yes,4.2,13,Bi-Annual
+EVST00738,36.524391,139.83591,"2321 Tokyo St, Station Area",DC Fast,0.3403,89.4,3.93,28.4,Electrify America,164,CHAdeMO,2012,No,4.2,25,Monthly
+EVST00739,-31.114461,150.329527,"4350 Sydney St, Station Area",DC Fast,0.3738,58.4,2.08,43.4,Electrify America,170,"CHAdeMO, J1772, Tesla Proprietary",2015,Yes,3.5,21,Quarterly
+EVST00740,28.309487,77.225474,"6200 New Delhi St, Station Area",AC Level 2,0.1612,64.3,6.44,25.8,Shell Recharge,24,J1772,2012,No,3.1,17,Bi-Annual
+EVST00741,-33.304733,153.363291,"641 Sydney St, Station Area",AC Level 2,0.1777,66.9,15.95,19.6,Electrify America,15,"CCS, J1772, Type 2",2012,No,3.1,17,Quarterly
+EVST00742,-36.096383,152.04216,"7867 Sydney St, Station Area",DC Fast,0.2851,55.3,8.88,37.0,BP Pulse,110,"CCS, CHAdeMO, Tesla Proprietary",2014,Yes,4.2,11,Quarterly
+EVST00743,50.64222,-0.21501,"7156 Paris St, Station Area",AC Level 2,0.1357,75.1,21.59,22.6,EVgo,17,"CCS, CHAdeMO, Tesla Proprietary",2014,No,3.7,18,Quarterly
+EVST00744,50.366637,-0.450667,"573 London St, Station Area",AC Level 2,0.1642,59.6,22.86,32.1,Tesla,28,"CHAdeMO, Type 2",2016,No,3.3,14,Monthly
+EVST00745,-34.709931,153.882741,"648 Sydney St, Station Area",DC Fast,0.2807,81.7,5.33,47.9,Shell Recharge,233,"J1772, Type 2",2021,No,3.1,4,Annual
+EVST00746,35.642828,139.329605,"8502 Tokyo St, Station Area",AC Level 2,0.1581,59.5,12.24,31.0,Electrify America,11,Tesla Proprietary,2013,No,,13,Quarterly
+EVST00747,46.512273,-0.348518,"2833 Paris St, Station Area",DC Fast,0.2469,56.2,5.39,104.2,ChargePoint,228,Tesla Proprietary,2019,No,4.6,28,Quarterly
+EVST00748,51.850555,2.711773,"8606 London St, Station Area",AC Level 2,0.1236,98.5,0.1,17.7,Blink,22,J1772,2016,No,,10,Quarterly
+EVST00749,52.958599,0.895789,"4992 London St, Station Area",AC Level 2,0.1691,82.9,44.89,19.9,Tesla,27,"J1772, Type 2",2017,No,,20,Quarterly
+EVST00750,38.214301,-122.524419,"3423 San Francisco St, Station Area",AC Level 2,0.1766,96.8,7.26,23.9,Electrify America,25,"CHAdeMO, Type 2",2023,Yes,3.7,13,Monthly
+EVST00751,26.230554,76.651873,"2736 New Delhi St, Station Area",DC Fast,0.2507,74.5,5.23,41.8,EVgo,222,"CCS, J1772, Type 2",2018,No,4.5,9,Monthly
+EVST00752,37.589186,-120.795872,"6589 San Francisco St, Station Area",AC Level 2,0.1701,51.7,0.73,51.7,Electrify America,23,"CCS, J1772, Tesla Proprietary",2015,No,3.9,12,Quarterly
+EVST00753,38.887943,-123.232375,"1098 San Francisco St, Station Area",DC Fast,0.2734,78.7,2.39,63.7,Shell Recharge,82,"CCS, Tesla Proprietary",2015,Yes,3.9,28,Monthly
+EVST00754,25.796917,78.931385,"4026 New Delhi St, Station Area",DC Fast,0.3008,77.9,2.58,63.4,Blink,145,"CHAdeMO, J1772",2014,Yes,4.2,4,Monthly
+EVST00755,47.244451,3.165493,"3458 Paris St, Station Area",DC Fast,0.3708,50.7,9.85,42.0,Tesla,176,"CHAdeMO, Type 2",2022,Yes,4.0,20,Quarterly
+EVST00756,36.991015,140.017323,"1542 Tokyo St, Station Area",AC Level 1,0.0961,93.1,16.98,6.1,Tesla,7,"CHAdeMO, Tesla Proprietary, Type 2",2020,Yes,3.7,25,Quarterly
+EVST00757,-33.463657,151.427572,"3528 Sydney St, Station Area",AC Level 2,0.1739,81.0,0.6,49.8,Blink,25,"CCS, CHAdeMO, J1772",2015,Yes,3.2,6,Quarterly
+EVST00758,36.294157,139.387848,"5286 Tokyo St, Station Area",AC Level 2,0.2073,87.2,8.11,34.2,EVgo,22,"CCS, J1772",2018,Yes,3.8,22,Bi-Annual
+EVST00759,40.564142,-120.85094,"6775 San Francisco St, Station Area",AC Level 2,0.1289,74.7,0.77,25.9,EVgo,19,"CCS, Tesla Proprietary",2018,Yes,3.6,19,Quarterly
+EVST00760,-33.165971,149.911286,"864 Sydney St, Station Area",DC Fast,0.5932505327097598,80.9,3.27,170.38079381827077,Shell Recharge,96,"CCS, J1772",2012,No,,10,Monthly
+EVST00761,52.494232,-2.560688,"8723 London St, Station Area",AC Level 2,0.1283,62.9,41.65,20.7,EVgo,20,"CCS, J1772",2023,Yes,5.0,6,Bi-Annual
+EVST00762,52.922718,3.27386,"8783 Paris St, Station Area",DC Fast,0.2873,98.7,7.99,56.1,ChargePoint,160,"CHAdeMO, Tesla Proprietary, Type 2",2022,Yes,4.1,28,Quarterly
+EVST00763,28.293193,78.155857,"6919 New Delhi St, Station Area",AC Level 2,0.0794,70.0,5.62,25.6,EVgo,12,Type 2,2018,Yes,3.4,6,Quarterly
+EVST00764,27.417076,77.929362,"9242 New Delhi St, Station Area",AC Level 2,0.1438,58.1,17.55,29.1,Shell Recharge,18,"J1772, Tesla Proprietary, Type 2",2021,No,3.8,28,Bi-Annual
+EVST00765,36.317895,140.261893,"4279 Tokyo St, Station Area",AC Level 1,0.0691,52.8,9.74,14.6,Tesla,3,"Tesla Proprietary, Type 2",2013,Yes,3.6,19,Monthly
+EVST00766,-33.210313,150.728489,"8215 Sydney St, Station Area",DC Fast,0.3392,81.8,2.34,64.8,Blink,119,J1772,2024,No,4.2,25,Quarterly
+EVST00767,48.066527,3.533424,"7272 Paris St, Station Area",AC Level 2,0.1606,99.2,6.63,31.0,BP Pulse,28,"CCS, Tesla Proprietary, Type 2",2020,Yes,3.8,9,Monthly
+EVST00768,34.127604,139.581963,"5625 Tokyo St, Station Area",AC Level 2,0.132,94.8,6.85,24.7,ChargePoint,16,Type 2,2024,Yes,3.8,1,Monthly
+EVST00769,41.239667,-123.15007,"1795 San Francisco St, Station Area",DC Fast,0.3295,85.1,6.93,36.7,Blink,185,"CHAdeMO, Tesla Proprietary, Type 2",2023,No,4.7,20,Quarterly
+EVST00770,36.166465,139.182463,"5575 Tokyo St, Station Area",AC Level 2,0.1717,99.5,3.27,24.3,EVgo,36,CCS,2019,No,4.6,11,Monthly
+EVST00771,47.758172,5.38316,"9012 Paris St, Station Area",AC Level 1,0.0646,86.1,8.65,33.8,Electrify America,10,J1772,2015,No,3.8,16,Monthly
+EVST00772,29.987795,74.606536,"9845 New Delhi St, Station Area",AC Level 1,0.0701,67.0,4.53,12.7,Shell Recharge,7,"CCS, Type 2",2020,Yes,4.6,14,Quarterly
+EVST00773,37.611182,-121.669718,"4480 San Francisco St, Station Area",AC Level 2,0.0832,80.1,20.03,38.6,ChargePoint,26,,2018,No,3.3,10,Quarterly
+EVST00774,-34.248122,148.690634,"2479 Sydney St, Station Area",AC Level 2,0.5622049740727428,54.0,2.52,193.79407177606103,Electrify America,15,"Tesla Proprietary, Type 2",2017,No,3.5,21,Quarterly
+EVST00775,29.457309,77.04665,"7474 New Delhi St, Station Area",AC Level 2,0.5895629836561189,61.1,8.93,171.6875458253208,Electrify America,14,Type 2,2021,No,3.1,15,Monthly
+EVST00776,26.676077,76.558559,"760 New Delhi St, Station Area",AC Level 2,0.1522,70.9,8.52,53.7,Shell Recharge,22,"J1772, Tesla Proprietary",2023,No,3.4,19,Quarterly
+EVST00777,36.205141,136.522758,"1511 Tokyo St, Station Area",AC Level 2,0.1216,60.1,3.73,17.4,Shell Recharge,24,"J1772, Tesla Proprietary",2014,No,3.6,20,Quarterly
+EVST00778,40.644332,-121.835844,"5619 San Francisco St, Station Area",AC Level 2,0.1346,97.7,1.66,1.0,Electrify America,27,"CCS, CHAdeMO",2019,,2.7,20,Quarterly
+EVST00779,52.206666,-0.697857,"9901 London St, Station Area",AC Level 2,0.1132,99.8,0.72,43.8,ChargePoint,19,"CCS, J1772",2022,Yes,4.2,10,Bi-Annual
+EVST00780,28.049582,74.06019,"3288 New Delhi St, Station Area",AC Level 2,0.1551,68.5,8.15,34.3,Blink,23,"CCS, CHAdeMO, J1772",2016,No,4.3,23,Annual
+EVST00781,27.853242,78.468352,"4433 New Delhi St, Station Area",AC Level 1,0.0885,85.5,4.36,4.5,BP Pulse,7,CHAdeMO,2016,No,3.7,7,Monthly
+EVST00782,48.24109,4.504709,"3223 Paris St, Station Area",AC Level 2,0.1621,70.4,5.06,28.7,Tesla,21,"CHAdeMO, J1772",2012,No,2.1,28,Quarterly
+EVST00783,37.393956,-120.184213,"4405 San Francisco St, Station Area",AC Level 1,0.0802,57.0,4.01,8.4,EVgo,7,"J1772, Tesla Proprietary, Type 2",2016,Yes,4.5,24,Bi-Annual
+EVST00784,37.20819,-121.880965,"71 San Francisco St, Station Area",AC Level 2,0.1038,66.8,1.11,53.9,BP Pulse,18,"CCS, J1772",2019,Yes,4.5,16,Quarterly
+EVST00785,37.050667,139.719387,"5947 Tokyo St, Station Area",DC Fast,0.269,61.7,4.88,49.8,Shell Recharge,164,"CCS, Type 2",2024,Yes,5.0,6,Annual
+EVST00786,46.256786,4.344435,"5962 Paris St, Station Area",DC Fast,0.2796,66.4,0.12,50.0,Electrify America,160,CCS,2018,No,4.6,27,Bi-Annual
+EVST00787,39.0679,-119.895825,"3156 San Francisco St, Station Area",AC Level 2,0.1379,60.8,3.67,37.1,Shell Recharge,20,J1772,2015,No,2.2,17,Bi-Annual
+EVST00788,-34.43833,152.909653,"2640 Sydney St, Station Area",AC Level 2,0.1522,55.6,5.82,33.6,ChargePoint,25,"CCS, J1772",2022,Yes,3.9,24,Monthly
+EVST00789,49.422022,0.939894,"7615 Paris St, Station Area",AC Level 2,0.1928,60.9,18.94,17.5,Electrify America,27,Type 2,2014,Yes,4.5,1,Monthly
+EVST00790,36.084418,-122.117383,"1879 San Francisco St, Station Area",DC Fast,0.3406,95.3,1.1,36.5,BP Pulse,184,J1772,2014,Yes,3.8,10,Quarterly
+EVST00791,39.767847,-121.760126,"471 San Francisco St, Station Area",AC Level 2,0.1204,54.3,7.21,39.1,ChargePoint,17,"CCS, Tesla Proprietary, Type 2",2018,No,3.2,9,Quarterly
+EVST00792,37.544652,136.935875,"405 Tokyo St, Station Area",AC Level 2,0.1704,66.2,3.49,38.2,Blink,22,Tesla Proprietary,2022,Yes,4.1,24,Bi-Annual
+EVST00793,-32.429414,151.913341,"8816 Sydney St, Station Area",AC Level 2,0.1692,76.4,13.04,19.5,Electrify America,17,Type 2,2014,Yes,3.5,14,Annual
+EVST00794,-36.140932,154.618788,"3643 Sydney St, Station Area",AC Level 1,0.0639,67.7,2.14,15.9,EVgo,7,CCS,2012,No,4.3,4,Monthly
+EVST00795,36.919882,140.610204,"1019 Tokyo St, Station Area",AC Level 2,0.1755,75.9,4.21,39.4,ChargePoint,17,"J1772, Type 2",2021,No,4.0,18,Quarterly
+EVST00796,52.114683,2.08232,"8788 London St, Station Area",DC Fast,0.292,52.2,9.99,42.3,Blink,214,"CCS, J1772",2019,No,3.8,5,Bi-Annual
+EVST00797,26.205993,77.483372,"1486 New Delhi St, Station Area",DC Fast,0.2295,82.4,3.29,67.8,Blink,189,"CCS, CHAdeMO, Type 2",2020,,4.5,13,Bi-Annual
+EVST00798,35.639754,139.540473,"3367 Tokyo St, Station Area",AC Level 1,0.0891,78.2,12.66,8.8,Blink,9,"CHAdeMO, Tesla Proprietary, Type 2",2017,Yes,3.9,29,Bi-Annual
+EVST00799,52.054202,0.444107,"207 London St, Station Area",AC Level 2,0.1565,84.0,0.53,30.5,Shell Recharge,27,"CCS, CHAdeMO",2013,Yes,4.5,13,Quarterly
+EVST00800,36.510313,138.42656,"6790 Tokyo St, Station Area",AC Level 2,0.1432,78.4,2.26,45.6,Tesla,21,"CCS, CHAdeMO, Type 2",2016,Yes,4.2,13,Annual
+EVST00801,38.040792,-123.865063,"6992 San Francisco St, Station Area",AC Level 2,0.1489,71.9,0.19,51.0,Electrify America,20,"J1772, Tesla Proprietary, Type 2",2018,No,3.7,2,Quarterly
+EVST00802,51.944247,1.771657,"7564 London St, Station Area",AC Level 2,0.5631974327366331,67.5,10.45,155.69840222366975,ChargePoint,31,"CHAdeMO, Tesla Proprietary",2017,No,3.4,14,Monthly
+EVST00803,51.067017,4.410714,"2630 Paris St, Station Area",AC Level 1,0.0922,61.3,4.13,9.2,EVgo,7,Type 2,2023,Yes,3.8,28,Monthly
+EVST00804,30.452951,75.722341,"3281 New Delhi St, Station Area",DC Fast,0.2978,75.0,6.97,35.0,Blink,82,CHAdeMO,2014,No,3.9,28,Quarterly
+EVST00805,-38.169382,152.661298,"9380 Sydney St, Station Area",DC Fast,0.3083,51.3,0.71,69.1,Shell Recharge,200,"CCS, J1772, Tesla Proprietary",2016,No,4.9,28,Bi-Annual
+EVST00806,-34.344958,151.07886,"8215 Sydney St, Station Area",DC Fast,0.3179,66.4,6.76,69.7,BP Pulse,157,"CCS, CHAdeMO, Type 2",2014,No,4.4,11,Quarterly
+EVST00807,48.609623,2.861913,"372 Paris St, Station Area",DC Fast,0.2423,83.9,2.53,34.1,EVgo,225,"J1772, Tesla Proprietary, Type 2",2019,No,4.5,2,Quarterly
+EVST00808,35.146752,-121.729072,"6918 San Francisco St, Station Area",AC Level 2,0.1232,55.4,8.44,29.6,BP Pulse,23,"CCS, Tesla Proprietary",2022,Yes,3.8,7,Quarterly
+EVST00809,35.817475,141.141826,"8126 Tokyo St, Station Area",AC Level 2,0.0837,53.1,2.78,35.0,ChargePoint,22,"CHAdeMO, Tesla Proprietary",2023,No,3.2,7,Bi-Annual
+EVST00810,30.487037,77.333077,"5592 New Delhi St, Station Area",AC Level 1,0.0913,82.6,3.83,8.7,Blink,10,"CCS, J1772",2014,No,3.3,3,Monthly
+EVST00811,36.145048,-120.304157,"6398 San Francisco St, Station Area",AC Level 2,0.1136,69.9,4.12,22.9,Electrify America,14,"CCS, CHAdeMO, Type 2",2017,No,4.5,21,Quarterly
+EVST00812,29.118501,77.673119,"10 New Delhi St, Station Area",AC Level 1,0.5593473803918807,90.1,44.69,177.4065675487836,Blink,6,J1772,2021,No,3.1,16,Monthly
+EVST00813,-35.242535,152.145576,"301 Sydney St, Station Area",DC Fast,0.3185,96.9,15.79,54.1,BP Pulse,106,"CCS, Tesla Proprietary",2012,Yes,3.3,21,Quarterly
+EVST00814,50.499532,-1.377694,"351 London St, Station Area",AC Level 2,0.1681,97.9,0.15,23.5,ChargePoint,11,"CCS, CHAdeMO",2021,,3.0,6,Quarterly
+EVST00815,-31.65271,154.447289,"1590 Sydney St, Station Area",AC Level 2,0.1139,71.3,3.27,20.7,Electrify America,26,"J1772, Type 2",2013,Yes,,21,Quarterly
+EVST00816,27.800063,77.913737,"9907 New Delhi St, Station Area",AC Level 2,0.148,63.2,17.37,34.3,ChargePoint,19,"CHAdeMO, J1772, Tesla Proprietary",2012,No,3.6,2,Quarterly
+EVST00817,38.468219,-121.349904,"6343 San Francisco St, Station Area",DC Fast,0.3835,80.4,6.88,9.3,ChargePoint,195,"CHAdeMO, J1772, Type 2",2013,Yes,3.5,21,Annual
+EVST00818,34.968073,-124.831679,"7822 San Francisco St, Station Area",AC Level 2,0.2014,81.4,10.25,41.6,EVgo,24,"CCS, J1772, Tesla Proprietary",2023,Yes,,24,Annual
+EVST00819,51.650076,1.118147,"2956 Paris St, Station Area",AC Level 2,0.1796,81.1,1.97,35.6,BP Pulse,25,"CHAdeMO, J1772",2020,Yes,4.6,8,Monthly
+EVST00820,29.517879,79.065826,"9374 New Delhi St, Station Area",AC Level 2,0.1601,66.1,0.74,24.9,Tesla,20,Type 2,2022,No,2.6,10,Monthly
+EVST00821,37.50115,-121.989063,"1989 San Francisco St, Station Area",DC Fast,0.2497,53.2,2.34,18.6,Tesla,112,"CHAdeMO, Tesla Proprietary",2020,No,3.1,13,Monthly
+EVST00822,49.71992,-0.51847,"9022 Paris St, Station Area",DC Fast,0.3359,60.5,25.4,41.2,ChargePoint,154,"CHAdeMO, J1772, Type 2",2022,Yes,3.6,17,Monthly
+EVST00823,35.660171,-120.861965,"308 San Francisco St, Station Area",AC Level 2,0.1453,57.7,6.56,46.8,ChargePoint,27,J1772,2018,No,3.8,16,Monthly
+EVST00824,50.630396,1.536526,"205 Paris St, Station Area",DC Fast,0.328,56.2,4.32,37.7,ChargePoint,147,CCS,2022,Yes,3.7,4,Bi-Annual
+EVST00825,48.370623,4.469175,"789 Paris St, Station Area",AC Level 2,0.131,96.3,7.96,28.5,Shell Recharge,18,,2012,Yes,3.5,11,Annual
+EVST00826,37.468796,-122.551154,"7917 San Francisco St, Station Area",AC Level 2,0.1448,50.7,9.05,53.3,Blink,16,Tesla Proprietary,2019,Yes,4.9,15,Monthly
+EVST00827,-34.606283,151.51636,"2575 Sydney St, Station Area",AC Level 1,0.0833,80.1,9.1,12.5,Blink,7,J1772,2021,No,3.3,18,Bi-Annual
+EVST00828,27.742923,78.977432,"4511 New Delhi St, Station Area",AC Level 2,0.1574,97.4,3.29,25.7,Tesla,19,CCS,2024,No,4.3,19,Bi-Annual
+EVST00829,29.655906,75.862761,"4713 New Delhi St, Station Area",DC Fast,0.3247,68.0,39.45,46.7,Tesla,146,CHAdeMO,2016,No,3.5,20,Quarterly
+EVST00830,38.15876,-123.90867,"7895 San Francisco St, Station Area",AC Level 2,0.1326,76.4,2.01,40.9,EVgo,21,"CHAdeMO, Tesla Proprietary, Type 2",2014,No,3.3,14,Bi-Annual
+EVST00831,52.485022,-0.422548,"3487 London St, Station Area",AC Level 2,0.1097,84.8,16.67,24.6,ChargePoint,20,"CHAdeMO, Tesla Proprietary, Type 2",2021,No,4.2,15,Annual
+EVST00832,51.494208,1.112959,"68 London St, Station Area",DC Fast,0.3812,65.9,4.41,38.5,EVgo,165,J1772,2012,Yes,4.6,10,Annual
+EVST00833,36.446,137.653984,"3864 Tokyo St, Station Area",DC Fast,0.4245,73.9,6.93,52.5,Electrify America,178,CHAdeMO,2022,Yes,3.9,8,Bi-Annual
+EVST00834,37.146627,-124.921452,"2882 San Francisco St, Station Area",AC Level 2,0.1634,90.9,7.87,37.9,Blink,32,J1772,2021,Yes,4.1,10,Quarterly
+EVST00835,31.958498,78.444581,"7308 New Delhi St, Station Area",AC Level 2,0.1103,87.3,1.41,20.8,Electrify America,26,"CCS, J1772, Tesla Proprietary",2020,No,3.3,13,Monthly
+EVST00836,-36.220696,150.304833,"7512 Sydney St, Station Area",DC Fast,0.2613,90.4,2.62,57.7,ChargePoint,230,"J1772, Type 2",2015,No,4.9,4,Annual
+EVST00837,-31.977394,150.620961,"920 Sydney St, Station Area",AC Level 2,0.1653,99.4,8.55,31.2,Shell Recharge,18,J1772,2013,No,3.4,7,Monthly
+EVST00838,53.559261,-2.913016,"7929 London St, Station Area",DC Fast,0.3671,68.5,13.58,41.8,BP Pulse,70,"CCS, Tesla Proprietary, Type 2",2019,No,4.3,4,Quarterly
+EVST00839,36.496662,-123.437869,"705 San Francisco St, Station Area",AC Level 2,0.1136,87.4,7.04,15.9,ChargePoint,22,CHAdeMO,2016,Yes,3.1,12,Monthly
+EVST00840,31.95781,77.197649,"6196 New Delhi St, Station Area",DC Fast,0.2938,80.1,19.42,45.3,EVgo,193,"J1772, Tesla Proprietary, Type 2",2017,Yes,4.4,15,Quarterly
+EVST00841,53.000635,1.267767,"3893 London St, Station Area",AC Level 1,0.0839,83.3,4.77,25.1,EVgo,8,"CHAdeMO, Tesla Proprietary, Type 2",2014,No,3.5,5,Monthly
+EVST00842,50.313309,1.195355,"3012 Paris St, Station Area",AC Level 2,0.1759,87.0,3.73,56.1,Shell Recharge,28,"CHAdeMO, J1772, Tesla Proprietary",2016,Yes,5.0,5,Bi-Annual
+EVST00843,28.655933,79.695064,"4831 New Delhi St, Station Area",AC Level 2,0.1397,87.5,14.02,9.4,EVgo,9,Type 2,2022,No,4.6,16,Quarterly
+EVST00844,37.449061,-123.446234,"3104 San Francisco St, Station Area",AC Level 2,0.1031,94.3,0.34,31.4,Tesla,28,CHAdeMO,2023,Yes,4.8,7,Quarterly
+EVST00845,37.460787,-123.444038,"7938 San Francisco St, Station Area",DC Fast,0.3311,67.5,13.49,52.7,ChargePoint,167,"CCS, J1772, Type 2",2016,Yes,4.9,26,Quarterly
+EVST00846,38.360696,-120.113364,"9666 San Francisco St, Station Area",DC Fast,0.3562,82.7,2.35,47.0,ChargePoint,73,"CCS, Tesla Proprietary",2013,Yes,4.8,5,Quarterly
+EVST00847,39.876679,-122.10221,"8157 San Francisco St, Station Area",AC Level 1,0.0783,64.0,7.73,16.1,Electrify America,8,J1772,2012,No,3.3,14,Bi-Annual
+EVST00848,38.046871,-123.247437,"4392 San Francisco St, Station Area",AC Level 2,0.1622,79.7,0.13,50.9,Tesla,23,J1772,2014,Yes,3.5,24,Annual
+EVST00849,-35.235965,150.9766,"5032 Sydney St, Station Area",AC Level 2,0.1358,87.6,3.15,25.8,Shell Recharge,24,"CCS, Tesla Proprietary, Type 2",2012,No,4.4,4,Bi-Annual
+EVST00850,50.093241,4.38181,"4471 Paris St, Station Area",AC Level 2,0.1246,89.6,22.91,12.7,Shell Recharge,27,"CCS, Tesla Proprietary, Type 2",2020,Yes,4.3,14,Quarterly
+EVST00851,29.995626,79.408304,"7934 New Delhi St, Station Area",AC Level 2,0.1808,71.0,9.58,15.4,Tesla,24,,2020,No,2.7,14,Bi-Annual
+EVST00852,-32.886811,149.98411,"5523 Sydney St, Station Area",DC Fast,0.3194,75.4,2.67,36.4,EVgo,76,CCS,2022,No,4.2,17,Quarterly
+EVST00853,29.732148,77.145349,"4681 New Delhi St, Station Area",DC Fast,0.3245,66.7,1.59,58.9,BP Pulse,143,"CCS, Tesla Proprietary",2016,No,4.5,26,Quarterly
+EVST00854,51.101008,0.007435,"4095 London St, Station Area",AC Level 1,0.11,58.5,4.09,4.4,Electrify America,4,"CCS, Type 2",2022,Yes,3.7,17,Quarterly
+EVST00855,50.113916,-1.60716,"3750 London St, Station Area",AC Level 2,0.1184,63.0,1.9,28.8,Shell Recharge,25,"CHAdeMO, Type 2",2014,Yes,4.5,11,Quarterly
+EVST00856,27.31161,77.125472,"5526 New Delhi St, Station Area",AC Level 2,0.1334,95.6,17.24,10.7,BP Pulse,29,"CHAdeMO, J1772, Type 2",2015,No,2.9,12,Quarterly
+EVST00857,49.054205,-0.119816,"6889 London St, Station Area",AC Level 2,0.1547,65.4,8.3,24.2,EVgo,16,"CCS, Tesla Proprietary, Type 2",2023,No,4.1,19,Quarterly
+EVST00858,38.130323,-120.709086,"4323 San Francisco St, Station Area",AC Level 1,0.0687,98.7,8.14,14.6,Electrify America,6,"CCS, J1772, Tesla Proprietary",2023,Yes,3.6,9,Quarterly
+EVST00859,-33.993973,153.020438,"8066 Sydney St, Station Area",AC Level 2,0.1735,62.1,18.31,42.3,Electrify America,18,"CCS, Tesla Proprietary, Type 2",2019,Yes,3.2,20,Bi-Annual
+EVST00860,-34.528782,150.715486,"8266 Sydney St, Station Area",AC Level 2,0.1444,86.2,7.97,13.3,ChargePoint,20,J1772,2019,Yes,4.3,12,Quarterly
+EVST00861,24.180472,76.88807,"4290 New Delhi St, Station Area",AC Level 2,0.1202,78.7,40.36,3.1,Tesla,24,"CHAdeMO, J1772",2021,No,4.8,2,Quarterly
+EVST00862,26.742924,78.205438,"9089 New Delhi St, Station Area",DC Fast,0.3033,84.8,3.55,70.0,EVgo,128,Type 2,2022,No,4.0,16,Bi-Annual
+EVST00863,39.456161,-123.297183,"1731 San Francisco St, Station Area",AC Level 2,0.1551,82.2,7.57,32.6,EVgo,25,"CCS, J1772, Tesla Proprietary",2015,Yes,3.2,8,Monthly
+EVST00864,-34.865739,152.09226,"9320 Sydney St, Station Area",AC Level 2,0.178,85.3,2.16,19.1,ChargePoint,27,CCS,2012,No,3.4,11,Monthly
+EVST00865,29.154788,77.07714,"2941 New Delhi St, Station Area",AC Level 2,0.1618,95.3,6.27,50.3,Electrify America,28,"J1772, Type 2",2014,No,3.5,10,Quarterly
+EVST00866,-35.954828,149.755202,"5642 Sydney St, Station Area",DC Fast,0.3231,78.2,4.52,41.9,Electrify America,94,"CCS, CHAdeMO, Type 2",2016,No,3.4,4,Monthly
+EVST00867,-31.710742,149.774045,"2836 Sydney St, Station Area",AC Level 1,0.0864,53.4,1.58,25.7,EVgo,10,"CCS, CHAdeMO, J1772",2015,No,4.5,9,Monthly
+EVST00868,28.397859,79.379588,"4421 New Delhi St, Station Area",AC Level 1,0.0762,63.5,2.51,16.4,ChargePoint,10,CCS,2018,No,4.5,27,Bi-Annual
+EVST00869,36.111261,139.415668,"3400 Tokyo St, Station Area",AC Level 2,0.1285,85.4,3.54,23.5,Tesla,30,Tesla Proprietary,2013,No,2.8,10,Monthly
+EVST00870,41.26357,-119.958869,"7051 San Francisco St, Station Area",AC Level 2,0.1587,74.7,5.69,42.0,ChargePoint,21,"CCS, CHAdeMO, Tesla Proprietary",2019,Yes,3.9,22,Quarterly
+EVST00871,37.95086,138.879846,"812 Tokyo St, Station Area",AC Level 2,0.14,77.4,9.67,21.6,Blink,18,"J1772, Tesla Proprietary",2021,No,3.7,12,Monthly
+EVST00872,51.047552,0.309008,"8382 London St, Station Area",DC Fast,0.3845,79.8,3.34,66.4,EVgo,101,"CCS, Tesla Proprietary, Type 2",2013,Yes,4.1,2,Monthly
+EVST00873,36.88507,-118.830385,"9037 San Francisco St, Station Area",AC Level 2,0.1903,69.1,2.05,35.2,Shell Recharge,16,"CHAdeMO, Type 2",2015,Yes,4.6,25,Quarterly
+EVST00874,37.286582,-124.00548,"5629 San Francisco St, Station Area",AC Level 1,0.0927,88.7,15.83,2.9,EVgo,7,CCS,2019,No,4.6,27,Annual
+EVST00875,-33.103953,148.362578,"5472 Sydney St, Station Area",AC Level 2,0.1614,86.2,22.24,33.8,Tesla,26,"J1772, Type 2",2012,Yes,4.1,7,Quarterly
+EVST00876,48.698764,4.282085,"6999 Paris St, Station Area",DC Fast,0.2956,85.7,4.86,48.7,Shell Recharge,215,CHAdeMO,2020,No,4.5,5,Quarterly
+EVST00877,48.263734,1.111986,"1991 Paris St, Station Area",DC Fast,0.2369,85.8,4.84,70.5,EVgo,126,"CCS, J1772, Tesla Proprietary",2021,No,3.3,27,Quarterly
+EVST00878,-31.668028,151.17824,"7496 Sydney St, Station Area",DC Fast,0.2892,94.5,0.5,52.7,Shell Recharge,148,"CHAdeMO, J1772, Type 2",2016,Yes,3.6,3,Quarterly
+EVST00879,48.685285,1.473323,"2187 Paris St, Station Area",AC Level 2,0.153,79.8,2.55,25.7,ChargePoint,21,CCS,2012,Yes,3.3,26,Quarterly
+EVST00880,52.305984,2.754444,"6763 Paris St, Station Area",DC Fast,0.3115,98.4,2.29,33.3,Blink,118,CCS,2018,No,3.8,6,Monthly
+EVST00881,37.911014,-123.845204,"3056 San Francisco St, Station Area",DC Fast,0.3235,56.0,6.7,45.2,ChargePoint,187,"CCS, Tesla Proprietary, Type 2",2023,No,3.9,26,Monthly
+EVST00882,31.291878,76.93909,"7460 New Delhi St, Station Area",AC Level 2,0.1776,81.6,1.09,66.4,Tesla,24,"CCS, Tesla Proprietary",2015,No,4.3,28,Quarterly
+EVST00883,36.212179,140.325023,"7909 Tokyo St, Station Area",AC Level 2,0.1292,85.8,3.21,50.5,BP Pulse,23,"CHAdeMO, Type 2",2023,Yes,,7,Quarterly
+EVST00884,39.219341,-123.931863,"2087 San Francisco St, Station Area",DC Fast,0.2658,73.9,10.3,30.2,Tesla,168,Type 2,2023,No,4.1,7,Bi-Annual
+EVST00885,-34.955717,150.159174,"6174 Sydney St, Station Area",AC Level 2,0.1935,64.4,9.0,16.7,Tesla,25,"CHAdeMO, Tesla Proprietary",2015,Yes,3.7,4,Quarterly
+EVST00886,-35.149439,150.688226,"4983 Sydney St, Station Area",DC Fast,0.3385,77.5,2.85,69.5,Blink,180,CHAdeMO,2019,Yes,3.9,23,Quarterly
+EVST00887,38.464459,-124.562623,"2940 San Francisco St, Station Area",AC Level 2,0.1383,68.2,1.14,34.8,BP Pulse,18,J1772,2012,No,4.0,11,Quarterly
+EVST00888,52.99023,-0.761641,"5882 London St, Station Area",AC Level 2,0.1468,95.5,3.1,35.9,EVgo,26,Tesla Proprietary,2019,Yes,5.0,19,Quarterly
+EVST00889,37.835285,-122.241205,"9925 San Francisco St, Station Area",AC Level 1,0.0779,67.8,5.69,34.3,Blink,8,"CCS, J1772",2023,Yes,4.6,18,Quarterly
+EVST00890,49.57781,-0.727123,"25 London St, Station Area",DC Fast,0.3016,58.8,6.18,41.5,BP Pulse,128,CHAdeMO,2024,Yes,4.2,16,Monthly
+EVST00891,35.734512,-122.826465,"9567 San Francisco St, Station Area",DC Fast,0.3236,78.8,0.77,21.2,EVgo,162,CCS,2014,No,5.0,8,Annual
+EVST00892,-36.009505,151.179447,"8558 Sydney St, Station Area",AC Level 1,0.1307,69.8,3.71,18.7,EVgo,8,"CCS, CHAdeMO, Tesla Proprietary",2020,No,4.0,11,Quarterly
+EVST00893,46.205167,1.368585,"5293 Paris St, Station Area",AC Level 2,0.1557,54.8,14.9,20.1,ChargePoint,27,Tesla Proprietary,2012,No,3.8,15,Quarterly
+EVST00894,28.778128,78.245594,"6100 New Delhi St, Station Area",AC Level 1,0.0933,78.2,23.18,11.6,ChargePoint,5,J1772,2015,Yes,4.0,3,Quarterly
+EVST00895,-32.181234,153.363267,"3692 Sydney St, Station Area",AC Level 1,0.0463,76.9,23.75,1.0,Electrify America,10,"CHAdeMO, Tesla Proprietary",2022,No,3.7,12,Bi-Annual
+EVST00896,48.836476,1.655629,"1292 Paris St, Station Area",DC Fast,0.2758,58.7,0.69,31.6,EVgo,151,Tesla Proprietary,2020,No,4.1,21,Monthly
+EVST00897,45.465978,3.079997,"5714 Paris St, Station Area",AC Level 2,0.1869,79.9,21.06,21.0,BP Pulse,19,,2017,Yes,4.0,13,Bi-Annual
+EVST00898,37.488759,-122.778826,"8162 San Francisco St, Station Area",AC Level 2,0.5536329374700384,78.4,12.72,195.78736703939342,ChargePoint,19,"CHAdeMO, J1772, Tesla Proprietary",2024,Yes,4.1,12,Monthly
+EVST00899,37.530702,-121.871169,"2311 San Francisco St, Station Area",AC Level 2,0.04,88.7,8.34,53.9,Tesla,17,,2021,Yes,3.9,25,Monthly
+EVST00900,52.000598,4.700869,"7170 Paris St, Station Area",DC Fast,0.3337,68.1,5.28,63.6,Electrify America,63,J1772,2012,No,,16,Bi-Annual
+EVST00901,35.589193,-121.656411,"7480 San Francisco St, Station Area",AC Level 2,0.2075,62.4,2.21,29.9,Tesla,25,"CCS, Type 2",2013,No,4.7,22,Monthly
+EVST00902,37.188884,-125.079522,"7582 San Francisco St, Station Area",DC Fast,0.2002,97.6,7.14,43.4,EVgo,249,"CCS, J1772",2020,Yes,3.9,2,Quarterly
+EVST00903,54.066179,0.553193,"3400 London St, Station Area",AC Level 2,0.1956,78.1,1.0,20.1,Tesla,14,"CHAdeMO, Tesla Proprietary, Type 2",2023,Yes,3.2,27,Quarterly
+EVST00904,29.288868,79.058296,"3920 New Delhi St, Station Area",AC Level 1,0.04,51.4,0.5,7.0,Electrify America,5,Tesla Proprietary,2014,No,3.0,23,Annual
+EVST00905,36.52117,139.317906,"4162 Tokyo St, Station Area",DC Fast,0.3469,91.0,20.13,34.1,Shell Recharge,188,"CCS, Tesla Proprietary, Type 2",2018,No,3.9,24,Bi-Annual
+EVST00906,-33.696923,152.702752,"8541 Sydney St, Station Area",AC Level 1,0.0798,59.8,2.24,7.9,Blink,7,"CCS, J1772, Type 2",2022,Yes,4.3,21,Quarterly
+EVST00907,36.171115,138.615127,"9003 Tokyo St, Station Area",DC Fast,0.1825,89.3,18.61,69.5,EVgo,192,CCS,2023,Yes,3.9,16,Bi-Annual
+EVST00908,52.673814,-2.356109,"4140 London St, Station Area",AC Level 2,0.1634,85.3,1.43,48.8,Tesla,21,"CCS, J1772, Type 2",2020,No,3.0,16,Monthly
+EVST00909,34.461971,139.862054,"9698 Tokyo St, Station Area",DC Fast,0.3575,98.4,2.4,42.3,Blink,121,CHAdeMO,2024,No,3.1,19,Quarterly
+EVST00910,39.091988,-125.054115,"5704 San Francisco St, Station Area",DC Fast,0.3182,98.3,1.66,51.9,ChargePoint,139,"Tesla Proprietary, Type 2",2024,No,3.8,15,Bi-Annual
+EVST00911,-35.928305,150.849643,"3850 Sydney St, Station Area",DC Fast,0.3292,63.7,4.34,46.7,BP Pulse,31,"CCS, CHAdeMO",2022,No,3.5,22,Bi-Annual
+EVST00912,51.999952,1.802463,"7 London St, Station Area",AC Level 1,0.5842100760620533,88.3,15.56,189.22691498147034,ChargePoint,5,CCS,2020,No,5.0,10,Quarterly
+EVST00913,35.944311,136.785656,"6110 Tokyo St, Station Area",DC Fast,0.2069,65.8,18.83,64.0,Blink,197,"CHAdeMO, Tesla Proprietary, Type 2",2024,Yes,4.4,23,Bi-Annual
+EVST00914,27.68946,75.289755,"6448 New Delhi St, Station Area",DC Fast,0.3346,81.5,5.35,33.2,Tesla,210,"CHAdeMO, Tesla Proprietary, Type 2",2012,Yes,3.5,10,Quarterly
+EVST00915,48.822572,0.804152,"9682 Paris St, Station Area",AC Level 2,0.2025,79.9,8.87,16.0,ChargePoint,29,CHAdeMO,2013,Yes,,14,Annual
+EVST00916,34.74239,139.55532,"7181 Tokyo St, Station Area",AC Level 2,0.1839,52.7,0.81,18.7,ChargePoint,24,"CHAdeMO, J1772, Type 2",2018,No,3.9,2,Monthly
+EVST00917,47.249048,1.803625,"297 Paris St, Station Area",DC Fast,0.2006,50.3,0.74,70.7,ChargePoint,37,"Tesla Proprietary, Type 2",2020,Yes,3.5,27,Quarterly
+EVST00918,-34.399222,153.308005,"5670 Sydney St, Station Area",AC Level 2,0.1046,52.9,13.29,2.2,ChargePoint,19,"CHAdeMO, Tesla Proprietary",2023,Yes,3.7,20,Bi-Annual
+EVST00919,49.851417,1.303722,"7427 London St, Station Area",DC Fast,0.2577,56.4,4.17,39.7,EVgo,216,"CHAdeMO, J1772, Type 2",2020,Yes,4.3,8,Quarterly
+EVST00920,49.340796,3.095109,"4965 Paris St, Station Area",DC Fast,0.2204,62.9,11.34,35.4,Shell Recharge,231,Type 2,2015,No,2.5,2,Quarterly
+EVST00921,26.888772,77.427445,"4293 New Delhi St, Station Area",AC Level 1,0.0809,95.3,4.32,11.7,Blink,10,,2023,No,3.1,25,Bi-Annual
+EVST00922,49.924566,2.942045,"8098 Paris St, Station Area",AC Level 2,0.1618,75.9,6.18,24.9,EVgo,21,"CHAdeMO, Tesla Proprietary",2013,Yes,3.9,1,Quarterly
+EVST00923,33.903981,138.357326,"6113 Tokyo St, Station Area",AC Level 2,0.1071,89.8,7.78,34.5,Tesla,15,Tesla Proprietary,2013,Yes,4.9,14,Monthly
+EVST00924,36.925458,-121.133584,"6813 San Francisco St, Station Area",AC Level 2,0.1733,91.9,4.9,22.8,Blink,22,"CCS, Type 2",2021,No,3.1,1,Monthly
+EVST00925,50.570495,-1.795866,"4641 London St, Station Area",DC Fast,0.3301,86.7,4.03,45.3,EVgo,151,"CHAdeMO, Type 2",2024,Yes,5.0,21,Quarterly
+EVST00926,30.60162,78.462065,"2781 New Delhi St, Station Area",AC Level 2,0.1336,69.6,4.0,16.2,EVgo,30,"J1772, Tesla Proprietary",2018,No,2.9,6,Quarterly
+EVST00927,49.352035,4.131414,"5190 Paris St, Station Area",AC Level 2,0.1448,93.2,1.17,34.2,Blink,23,CCS,2013,Yes,3.4,13,Monthly
+EVST00928,51.189799,0.188497,"9589 London St, Station Area",DC Fast,0.2025,87.1,9.68,41.1,EVgo,151,"CCS, Tesla Proprietary",2012,No,3.9,17,Bi-Annual
+EVST00929,36.424279,139.38598,"6026 Tokyo St, Station Area",AC Level 2,0.14,87.2,1.32,49.0,ChargePoint,22,"CHAdeMO, J1772, Type 2",2024,Yes,4.6,11,Monthly
+EVST00930,45.695811,2.952665,"7072 Paris St, Station Area",DC Fast,0.3004,95.1,1.87,51.2,Shell Recharge,170,CHAdeMO,2015,No,3.8,20,Bi-Annual
+EVST00931,48.7919,-1.940078,"1242 Paris St, Station Area",AC Level 1,0.0834,79.9,4.35,14.0,BP Pulse,8,J1772,2020,Yes,4.4,15,Annual
+EVST00932,-30.872529,151.662687,"9878 Sydney St, Station Area",AC Level 2,0.1614,76.4,4.4,39.3,Shell Recharge,18,"J1772, Tesla Proprietary, Type 2",2016,Yes,,13,Quarterly
+EVST00933,51.70592,-0.297831,"2447 London St, Station Area",AC Level 1,0.0849,94.5,3.83,17.6,ChargePoint,5,"CHAdeMO, Tesla Proprietary, Type 2",2014,No,3.6,10,Annual
+EVST00934,48.95847,2.276258,"9711 Paris St, Station Area",DC Fast,0.2868,72.7,13.94,51.6,Electrify America,219,Tesla Proprietary,2020,No,4.2,12,Monthly
+EVST00935,36.498393,140.710099,"4457 Tokyo St, Station Area",DC Fast,0.3143,90.6,2.84,53.4,Tesla,68,"CHAdeMO, Tesla Proprietary, Type 2",2021,No,3.3,10,Quarterly
+EVST00936,29.957308,77.096847,"9188 New Delhi St, Station Area",DC Fast,0.5705816903902078,52.7,16.7,170.09635841738708,ChargePoint,232,Tesla Proprietary,2018,No,3.8,17,Annual
+EVST00937,34.7787,-124.12971,"8917 San Francisco St, Station Area",DC Fast,0.2952,50.1,7.11,62.2,BP Pulse,54,"CCS, Type 2",2018,No,3.2,23,Bi-Annual
+EVST00938,35.25141,-122.631504,"7553 San Francisco St, Station Area",DC Fast,0.3159,76.4,6.52,46.4,Electrify America,121,"CCS, CHAdeMO, Tesla Proprietary",2018,No,3.9,18,Monthly
+EVST00939,35.991637,139.751633,"9163 Tokyo St, Station Area",DC Fast,0.2907,53.7,7.59,52.7,ChargePoint,199,J1772,2019,No,4.2,1,Monthly
+EVST00940,47.784285,2.524601,"6094 Paris St, Station Area",AC Level 2,0.1306,98.8,1.88,34.4,BP Pulse,22,"Tesla Proprietary, Type 2",2022,No,3.4,25,Monthly
+EVST00941,-31.900762,151.452179,"8487 Sydney St, Station Area",DC Fast,0.3261,50.3,7.36,63.0,ChargePoint,84,Type 2,2021,Yes,4.9,23,Annual
+EVST00942,35.203438,141.209354,"1722 Tokyo St, Station Area",AC Level 2,0.1333,85.9,13.19,12.0,EVgo,24,"CCS, CHAdeMO, J1772",2015,Yes,4.1,24,Monthly
+EVST00943,25.712104,75.579948,"703 New Delhi St, Station Area",DC Fast,0.3193,62.2,9.04,54.0,ChargePoint,153,CCS,2015,No,3.2,2,Quarterly
+EVST00944,33.774179,139.913851,"5433 Tokyo St, Station Area",AC Level 2,0.1508,98.4,0.77,31.7,ChargePoint,21,,2020,Yes,4.2,24,Quarterly
+EVST00945,33.650386,-120.484505,"8097 San Francisco St, Station Area",AC Level 2,0.1409,69.1,3.81,39.9,BP Pulse,19,"CHAdeMO, Type 2",2020,Yes,2.9,14,Quarterly
+EVST00946,37.423712,-125.021317,"7653 San Francisco St, Station Area",DC Fast,0.2836,51.4,0.22,52.2,Tesla,148,Tesla Proprietary,2016,Yes,4.2,25,Quarterly
+EVST00947,28.331324,77.47847,"5278 New Delhi St, Station Area",AC Level 2,0.1348,51.3,3.58,29.8,Blink,19,"CCS, J1772",2022,No,3.6,23,Quarterly
+EVST00948,37.138206,-123.297468,"5208 San Francisco St, Station Area",AC Level 2,0.1006,77.7,1.24,43.2,Electrify America,34,"CHAdeMO, Tesla Proprietary",2017,No,4.0,26,Quarterly
+EVST00949,30.232219,76.652934,"6098 New Delhi St, Station Area",DC Fast,0.3191,99.3,4.93,106.9,Shell Recharge,138,J1772,2016,Yes,4.3,4,Quarterly
+EVST00950,53.30518,-1.485011,"8681 London St, Station Area",AC Level 2,0.5885213456959699,99.0,0.26,192.74331420853252,BP Pulse,20,"CCS, CHAdeMO",2019,Yes,,17,Quarterly
+EVST00951,37.519317,-122.673726,"8417 San Francisco St, Station Area",AC Level 2,0.1755,66.9,21.83,21.1,BP Pulse,19,"CCS, J1772",2014,Yes,3.1,22,Quarterly
+EVST00952,48.305359,2.634083,"1097 London St, Station Area",AC Level 2,0.1341,74.1,3.14,36.7,Shell Recharge,31,"Tesla Proprietary, Type 2",2021,Yes,4.9,18,Quarterly
+EVST00953,49.782522,0.455554,"5957 Paris St, Station Area",AC Level 2,0.2069,55.0,11.54,29.4,Tesla,14,Type 2,2023,Yes,3.9,24,Bi-Annual
+EVST00954,36.50924,137.895885,"3809 Tokyo St, Station Area",AC Level 2,0.1386,76.1,1.99,33.6,Blink,24,CCS,2024,Yes,3.8,22,Quarterly
+EVST00955,-33.404713,149.256398,"7993 Sydney St, Station Area",DC Fast,0.2562,80.0,10.17,37.2,BP Pulse,138,J1772,2017,No,3.4,2,Quarterly
+EVST00956,50.32882,4.943327,"5059 Paris St, Station Area",DC Fast,0.2503,62.6,3.44,55.9,ChargePoint,79,"CCS, Type 2",2015,No,3.2,6,Monthly
+EVST00957,33.928958,138.95679,"9912 Tokyo St, Station Area",DC Fast,0.2133,80.6,7.67,61.1,ChargePoint,109,"CCS, CHAdeMO, J1772",2018,Yes,4.2,19,Monthly
+EVST00958,51.869733,2.313741,"4323 Paris St, Station Area",DC Fast,0.3766,95.0,21.94,16.6,EVgo,166,"Tesla Proprietary, Type 2",2013,Yes,4.5,11,Bi-Annual
+EVST00959,27.174758,76.604826,"6790 New Delhi St, Station Area",AC Level 2,0.1911,50.0,8.72,43.8,Blink,18,Type 2,2020,Yes,3.5,11,Bi-Annual
+EVST00960,36.800034,138.233666,"1086 Tokyo St, Station Area",DC Fast,0.33,61.4,1.14,59.2,Tesla,163,Type 2,2017,Yes,4.1,27,Monthly
+EVST00961,35.243878,-122.772126,"9322 San Francisco St, Station Area",AC Level 2,0.1231,60.5,17.94,15.7,Shell Recharge,31,"CHAdeMO, J1772, Tesla Proprietary",2013,Yes,4.7,3,Quarterly
+EVST00962,34.280803,143.337665,"1535 Tokyo St, Station Area",AC Level 1,0.1162,56.2,10.58,1.0,EVgo,7,"CHAdeMO, Tesla Proprietary",2019,No,4.3,16,Quarterly
+EVST00963,30.888453,79.297106,"3783 New Delhi St, Station Area",DC Fast,0.2824,58.3,15.69,18.2,Tesla,77,"CHAdeMO, Type 2",2021,No,3.8,10,Quarterly
+EVST00964,51.11605,-1.407207,"8375 London St, Station Area",DC Fast,0.2865,81.3,18.2,91.1,EVgo,108,"CCS, J1772, Tesla Proprietary",2014,No,3.9,2,Monthly
+EVST00965,29.873784,78.180361,"9673 New Delhi St, Station Area",AC Level 2,0.1931,55.1,2.43,33.6,Electrify America,21,Type 2,2017,Yes,4.2,11,Annual
+EVST00966,49.212033,1.104916,"4843 Paris St, Station Area",DC Fast,0.3329,86.9,3.19,32.5,ChargePoint,132,"J1772, Tesla Proprietary",2023,No,3.1,12,Monthly
+EVST00967,48.699163,-0.312351,"4847 Paris St, Station Area",AC Level 2,0.216,94.4,11.49,34.2,ChargePoint,23,"CCS, Type 2",2021,No,3.1,14,Annual
+EVST00968,53.553175,1.401466,"488 London St, Station Area",AC Level 2,0.1575,96.3,0.46,33.5,Tesla,24,CHAdeMO,2022,Yes,2.8,5,Monthly
+EVST00969,28.258912,78.949139,"9787 New Delhi St, Station Area",AC Level 2,0.1381,83.0,3.03,23.4,EVgo,31,"Tesla Proprietary, Type 2",2017,No,3.8,22,Quarterly
+EVST00970,35.103793,-120.850322,"165 San Francisco St, Station Area",AC Level 1,0.0678,59.9,3.46,11.9,EVgo,7,"CHAdeMO, J1772, Tesla Proprietary",2018,Yes,3.6,11,Monthly
+EVST00971,50.30254,-0.832598,"261 London St, Station Area",AC Level 2,0.0946,54.3,16.11,41.6,Blink,16,"Tesla Proprietary, Type 2",2018,No,,17,Monthly
+EVST00972,36.502988,139.400136,"4734 Tokyo St, Station Area",AC Level 2,0.1416,61.6,22.79,42.9,ChargePoint,28,"CCS, CHAdeMO, Type 2",2017,Yes,3.0,16,Annual
+EVST00973,36.269464,140.774948,"37 Tokyo St, Station Area",AC Level 2,0.1843,98.1,1.27,38.8,Electrify America,28,CHAdeMO,2013,No,4.1,17,Quarterly
+EVST00974,33.325613,140.237544,"1644 Tokyo St, Station Area",AC Level 2,0.168,98.1,5.51,21.9,EVgo,23,CCS,2012,Yes,4.3,15,Monthly
+EVST00975,36.688386,-123.009856,"6276 San Francisco St, Station Area",DC Fast,0.301,69.1,10.5,61.5,EVgo,138,"CHAdeMO, Type 2",2022,No,3.5,9,Annual
+EVST00976,50.634818,-2.556408,"7050 London St, Station Area",AC Level 2,0.1202,66.3,3.34,15.8,Shell Recharge,25,Tesla Proprietary,2018,No,3.3,15,Monthly
+EVST00977,37.226696,-122.248587,"2982 San Francisco St, Station Area",DC Fast,0.3113,75.5,6.08,43.9,Electrify America,139,"CCS, J1772, Tesla Proprietary",2018,No,3.3,16,Monthly
+EVST00978,46.79273,3.970714,"7952 Paris St, Station Area",AC Level 1,0.1003,64.6,2.08,17.0,ChargePoint,3,"CCS, CHAdeMO, Tesla Proprietary",2019,No,3.8,1,Monthly
+EVST00979,34.733643,137.853918,"6076 Tokyo St, Station Area",AC Level 2,0.1629,99.0,11.64,39.8,Tesla,25,"CCS, J1772",2017,Yes,3.9,21,Quarterly
+EVST00980,47.763684,3.310339,"2283 Paris St, Station Area",DC Fast,0.3083,61.1,11.36,28.8,ChargePoint,195,"CCS, CHAdeMO, Type 2",2023,No,2.7,13,Annual
+EVST00981,50.0139,2.849513,"7124 Paris St, Station Area",AC Level 2,0.1261,68.5,4.5,43.5,ChargePoint,29,"CCS, Tesla Proprietary",2018,Yes,4.0,9,Monthly
+EVST00982,-32.655118,152.334522,"5921 Sydney St, Station Area",AC Level 2,0.176,71.5,3.44,27.2,Electrify America,18,"CHAdeMO, Type 2",2018,No,,1,Bi-Annual
+EVST00983,48.637884,3.660163,"8120 Paris St, Station Area",AC Level 2,0.056,56.3,2.47,26.1,ChargePoint,23,CHAdeMO,2018,Yes,4.6,9,Monthly
+EVST00984,48.26854,1.310502,"1545 Paris St, Station Area",AC Level 2,0.1615,69.1,0.59,27.3,Blink,23,"CCS, J1772, Tesla Proprietary",2014,No,4.7,12,Monthly
+EVST00985,49.066486,-0.073239,"2309 Paris St, Station Area",AC Level 2,0.2271,92.8,6.49,44.7,Shell Recharge,22,"J1772, Tesla Proprietary",2014,Yes,4.1,25,Bi-Annual
+EVST00986,47.631737,1.551921,"3036 Paris St, Station Area",AC Level 2,0.1047,57.0,16.63,24.6,Electrify America,23,"CHAdeMO, Type 2",2014,No,3.1,19,Bi-Annual
+EVST00987,47.136352,3.685891,"3414 Paris St, Station Area",AC Level 2,0.1428,79.2,1.04,42.2,BP Pulse,22,"CCS, J1772",2015,No,3.4,13,Quarterly
+EVST00988,50.097068,-0.940806,"8887 London St, Station Area",AC Level 2,0.1498,70.3,4.22,53.8,Shell Recharge,23,,2014,Yes,4.0,4,Monthly
+EVST00989,50.55518,-1.168865,"7324 London St, Station Area",AC Level 1,0.0707,58.5,17.06,19.5,Blink,8,"J1772, Tesla Proprietary, Type 2",2014,No,2.8,8,Monthly
+EVST00990,-35.614011,148.477274,"5440 Sydney St, Station Area",AC Level 2,0.1811,50.6,13.46,33.1,Tesla,28,"CHAdeMO, J1772",2024,Yes,4.1,27,Bi-Annual
+EVST00991,35.919289,142.279271,"5404 Tokyo St, Station Area",DC Fast,0.3236,63.7,10.37,51.5,EVgo,112,"CCS, CHAdeMO, J1772",2016,Yes,4.4,4,Quarterly
+EVST00992,49.951174,3.59077,"8858 Paris St, Station Area",AC Level 2,0.1546,53.1,0.13,20.4,Electrify America,21,"CHAdeMO, J1772, Tesla Proprietary",2022,Yes,4.1,19,Quarterly
+EVST00993,49.126753,1.027044,"4468 London St, Station Area",AC Level 2,0.1739,68.8,8.99,28.7,Blink,20,"CCS, Tesla Proprietary, Type 2",2017,No,3.7,15,Monthly
+EVST00994,35.713893,141.101888,"2253 Tokyo St, Station Area",AC Level 2,0.1505,90.5,2.83,36.7,ChargePoint,19,Type 2,2022,No,2.9,7,Bi-Annual
+EVST00995,48.526696,3.217263,"1369 Paris St, Station Area",AC Level 1,0.1436,86.0,11.46,4.0,ChargePoint,4,"CHAdeMO, J1772",2021,No,3.6,26,Monthly
+EVST00996,49.368863,1.985707,"3300 Paris St, Station Area",AC Level 2,0.1545,97.4,2.02,32.8,Electrify America,22,Type 2,2022,Yes,4.1,12,Quarterly
+EVST00997,48.837192,2.106554,"6532 Paris St, Station Area",AC Level 1,0.0839,71.4,0.1,12.9,ChargePoint,8,Type 2,2015,Yes,3.6,20,Quarterly
+EVST00998,33.495801,139.008953,"4709 Tokyo St, Station Area",AC Level 2,0.0987,85.4,5.61,52.4,Tesla,21,Type 2,2013,No,3.9,3,Monthly
+EVST00999,26.720316,81.161111,"4217 New Delhi St, Station Area",DC Fast,0.2728,83.3,2.73,61.3,Shell Recharge,150,"CCS, Type 2",2016,Yes,4.7,29,Quarterly
+EVST01000,48.900735,3.186068,"4800 Paris St, Station Area",DC Fast,0.3574,60.9,7.04,48.2,Electrify America,171,Type 2,2021,No,3.8,1,Quarterly
+EVST01001,-32.325629,150.513599,"9747 Sydney St, Station Area",AC Level 2,0.1099,65.2,2.61,29.0,EVgo,29,"CCS, J1772, Tesla Proprietary",2020,No,4.1,10,Quarterly
+EVST01002,-37.190081,151.907545,"9975 Sydney St, Station Area",AC Level 2,0.0853,76.5,11.97,26.4,ChargePoint,20,,2021,Yes,3.7,27,Annual
+EVST01003,49.37519,0.835897,"1613 Paris St, Station Area",AC Level 2,0.151,89.8,5.52,20.6,BP Pulse,16,"CHAdeMO, Type 2",2024,Yes,3.3,19,Quarterly
+EVST01004,30.398333,79.46576,"1145 New Delhi St, Station Area",DC Fast,0.3685,73.1,2.34,52.3,Tesla,145,CCS,2014,No,4.3,20,Monthly
+EVST01005,37.545361,-123.411004,"2443 San Francisco St, Station Area",DC Fast,0.3021,61.4,10.1,51.3,EVgo,244,,2017,No,3.4,10,Quarterly
+EVST01006,29.439204,77.960628,"8518 New Delhi St, Station Area",AC Level 1,0.0733,99.7,19.05,3.5,BP Pulse,5,"J1772, Type 2",2018,No,3.5,23,Quarterly
+EVST01007,27.559296,78.807966,"4595 New Delhi St, Station Area",AC Level 1,0.0428,55.8,18.22,5.5,ChargePoint,8,"CHAdeMO, J1772, Type 2",2013,No,4.5,28,Quarterly
+EVST01008,48.677551,2.929353,"8636 Paris St, Station Area",AC Level 2,0.1636,97.8,30.45,28.9,EVgo,28,"CCS, Type 2",2020,Yes,3.9,19,Bi-Annual
+EVST01009,-36.30017,151.351005,"6467 Sydney St, Station Area",DC Fast,0.5566335565516533,90.5,9.43,173.20912473969926,ChargePoint,32,"CHAdeMO, J1772, Type 2",2012,No,3.5,7,Monthly
+EVST01010,45.340085,2.368403,"5531 Paris St, Station Area",DC Fast,0.2109,91.9,7.58,47.2,ChargePoint,171,"CCS, J1772",2023,No,4.4,27,Monthly
+EVST01011,52.921549,-0.212462,"2815 London St, Station Area",AC Level 1,0.1027,89.7,0.63,4.7,EVgo,8,"CCS, CHAdeMO, Type 2",2013,No,3.6,1,Monthly
+EVST01012,-35.346292,150.344252,"3440 Sydney St, Station Area",AC Level 2,0.173,60.4,2.02,42.5,Electrify America,21,J1772,2013,No,3.5,26,Bi-Annual
+EVST01013,50.824108,-0.802025,"1477 London St, Station Area",AC Level 2,0.184,81.6,2.9,22.5,Blink,19,"CCS, Tesla Proprietary",2014,No,3.5,1,Quarterly
+EVST01014,49.427737,2.091586,"5192 London St, Station Area",DC Fast,0.3292,87.8,6.16,66.0,Electrify America,120,Tesla Proprietary,2023,Yes,4.0,2,Quarterly
+EVST01015,46.741645,2.189395,"2804 Paris St, Station Area",DC Fast,0.3327,87.3,13.82,39.0,Electrify America,134,"CCS, Tesla Proprietary, Type 2",2023,Yes,4.0,2,Quarterly
+EVST01016,28.353143,76.030306,"2925 New Delhi St, Station Area",AC Level 2,0.1656,63.6,4.87,31.3,Shell Recharge,20,"J1772, Tesla Proprietary, Type 2",2023,No,4.3,6,Annual
+EVST01017,34.581834,138.875854,"396 Tokyo St, Station Area",AC Level 1,0.0974,59.1,2.3,31.2,ChargePoint,6,CCS,2022,No,3.7,22,Bi-Annual
+EVST01018,36.243156,141.300856,"7990 Tokyo St, Station Area",AC Level 2,0.0954,66.4,3.99,20.3,Electrify America,20,J1772,2024,,4.4,12,Quarterly
+EVST01019,38.453708,-121.40599,"9391 San Francisco St, Station Area",AC Level 2,0.105,74.0,0.29,41.2,ChargePoint,28,"CCS, J1772",2018,No,,3,Bi-Annual
+EVST01020,38.256174,-121.578906,"4982 San Francisco St, Station Area",DC Fast,0.2632,78.7,2.43,62.5,Electrify America,89,"CHAdeMO, J1772, Type 2",2012,Yes,3.3,10,Annual
+EVST01021,38.132801,-122.805682,"5360 San Francisco St, Station Area",AC Level 2,0.1461,91.8,0.34,33.2,EVgo,13,CCS,2017,No,3.1,29,Quarterly
+EVST01022,40.141552,-121.559356,"9257 San Francisco St, Station Area",DC Fast,0.3194,88.5,5.84,25.8,Electrify America,210,"CCS, Tesla Proprietary",2014,No,4.7,16,Quarterly
+EVST01023,27.012509,76.243658,"5114 New Delhi St, Station Area",AC Level 2,0.1597,83.8,20.97,19.1,ChargePoint,21,"J1772, Type 2",2015,No,3.8,22,Quarterly
+EVST01024,28.531498,76.819579,"6226 New Delhi St, Station Area",AC Level 2,0.1835,63.2,4.36,34.5,Tesla,20,,2020,No,2.1,8,Quarterly
+EVST01025,-32.169765,152.664007,"4281 Sydney St, Station Area",AC Level 2,0.1845,73.9,11.23,33.8,ChargePoint,21,"CHAdeMO, Tesla Proprietary",2014,No,4.7,16,Bi-Annual
+EVST01026,39.67171,-121.107983,"5143 San Francisco St, Station Area",AC Level 1,0.0626,66.8,9.32,1.0,ChargePoint,7,CCS,2016,No,3.7,24,Quarterly
+EVST01027,35.642255,-123.892265,"5218 San Francisco St, Station Area",AC Level 2,0.1572,61.7,7.74,8.6,Tesla,19,"CCS, CHAdeMO, Type 2",2017,Yes,4.1,20,Monthly
+EVST01028,51.038867,-1.41109,"7110 London St, Station Area",DC Fast,0.2576,50.5,14.38,25.8,Blink,175,"J1772, Type 2",2012,No,3.3,1,Quarterly
+EVST01029,50.893782,2.515253,"6041 Paris St, Station Area",AC Level 1,0.0762,67.0,6.76,23.8,Electrify America,5,CHAdeMO,2021,Yes,3.9,18,Quarterly
+EVST01030,36.438319,142.239499,"5039 Tokyo St, Station Area",AC Level 1,0.0864,62.8,7.8,1.0,Electrify America,6,"CCS, CHAdeMO, Type 2",2021,Yes,,23,Monthly
+EVST01031,35.969095,136.776952,"759 Tokyo St, Station Area",AC Level 1,0.04,78.6,3.33,8.8,Tesla,3,CHAdeMO,2019,No,3.4,4,Quarterly
+EVST01032,51.180873,0.289699,"9044 London St, Station Area",AC Level 1,0.1282,53.1,10.87,5.9,Electrify America,9,"CCS, CHAdeMO, Tesla Proprietary",2012,No,3.4,12,Monthly
+EVST01033,-34.444501,149.145235,"8882 Sydney St, Station Area",DC Fast,0.3283,63.5,1.71,41.1,Electrify America,141,CCS,2022,No,3.5,19,Bi-Annual
+EVST01034,51.939729,-1.079296,"1845 London St, Station Area",DC Fast,0.5801675276630074,52.2,10.0,184.22873634589843,BP Pulse,184,J1772,2017,Yes,3.9,1,Monthly
+EVST01035,37.396339,-122.966043,"2933 San Francisco St, Station Area",AC Level 1,0.1185,82.1,30.77,13.7,ChargePoint,8,,2015,Yes,4.1,21,Monthly
+EVST01036,-33.932668,150.578537,"9732 Sydney St, Station Area",DC Fast,0.2826,78.4,2.41,57.8,Tesla,177,"CHAdeMO, J1772, Type 2",2024,No,3.9,25,Bi-Annual
+EVST01037,28.731798,76.408306,"3210 New Delhi St, Station Area",DC Fast,0.3066,66.9,10.84,39.4,Electrify America,150,"CCS, J1772",2023,No,3.9,16,Monthly
+EVST01038,36.757793,-122.408589,"8121 San Francisco St, Station Area",DC Fast,0.2756,57.4,11.27,47.6,ChargePoint,169,"CCS, J1772, Tesla Proprietary",2017,No,4.1,13,Quarterly
+EVST01039,36.474394,138.847417,"7856 Tokyo St, Station Area",AC Level 2,0.1996,97.9,0.6,20.1,Blink,17,"J1772, Type 2",2017,No,3.6,3,Quarterly
+EVST01040,-29.497433,149.015614,"8606 Sydney St, Station Area",AC Level 2,0.1469,79.2,8.96,33.3,Blink,16,"CCS, J1772",2023,No,3.1,22,Bi-Annual
+EVST01041,-36.53428,152.379104,"160 Sydney St, Station Area",AC Level 2,0.1545,84.0,5.74,17.8,Tesla,21,"CCS, J1772, Tesla Proprietary",2014,No,4.8,28,Monthly
+EVST01042,29.099919,78.338308,"4829 New Delhi St, Station Area",DC Fast,0.3602,76.6,5.07,48.8,Blink,116,Type 2,2017,Yes,4.6,26,Monthly
+EVST01043,34.535915,140.915061,"5654 Tokyo St, Station Area",DC Fast,0.3293,90.3,16.68,35.7,Tesla,221,"CCS, CHAdeMO, Tesla Proprietary",2019,No,4.7,16,Monthly
+EVST01044,36.542304,137.339198,"8371 Tokyo St, Station Area",AC Level 2,0.1484,94.8,3.08,28.0,Tesla,24,CHAdeMO,2016,No,4.3,1,Annual
+EVST01045,-33.798964,151.657677,"2245 Sydney St, Station Area",AC Level 2,0.1833,69.1,30.82,1.0,Tesla,18,CHAdeMO,2016,Yes,4.2,9,Bi-Annual
+EVST01046,38.917682,-121.405432,"3068 San Francisco St, Station Area",DC Fast,0.4269,84.5,5.7,46.4,Blink,136,Tesla Proprietary,2013,No,2.3,8,Monthly
+EVST01047,53.27066,-1.674603,"1799 London St, Station Area",DC Fast,0.3159,61.5,0.64,56.4,Electrify America,157,"J1772, Tesla Proprietary, Type 2",2015,No,3.0,1,Monthly
+EVST01048,49.145232,2.36596,"7618 Paris St, Station Area",AC Level 2,0.1535,82.6,0.76,16.8,Tesla,22,"CCS, CHAdeMO, Tesla Proprietary",2016,Yes,3.8,4,Monthly
+EVST01049,-32.170722,151.0349,"9987 Sydney St, Station Area",DC Fast,0.3085,70.0,13.79,41.3,ChargePoint,164,J1772,2022,Yes,4.8,17,Monthly
+EVST01050,34.258453,-119.656174,"1405 San Francisco St, Station Area",AC Level 2,0.1893,50.3,11.62,17.4,ChargePoint,22,"CCS, Tesla Proprietary, Type 2",2016,No,,3,Monthly
+EVST01051,51.242278,5.238944,"2331 Paris St, Station Area",AC Level 2,0.132,97.8,9.62,33.5,Blink,15,CCS,2014,No,,2,Bi-Annual
+EVST01052,36.238793,137.153765,"3070 Tokyo St, Station Area",AC Level 2,0.1417,93.4,0.73,33.5,BP Pulse,11,Tesla Proprietary,2023,No,3.7,28,Monthly
+EVST01053,50.473365,6.093091,"8889 Paris St, Station Area",DC Fast,0.2231,64.5,8.08,55.8,Blink,131,"CCS, J1772",2016,Yes,3.8,18,Bi-Annual
+EVST01054,26.784086,75.836161,"4457 New Delhi St, Station Area",DC Fast,0.2408,99.9,44.21,13.5,ChargePoint,178,"CCS, CHAdeMO",2023,No,3.3,24,Monthly
+EVST01055,36.528745,-120.94839,"2819 San Francisco St, Station Area",AC Level 2,0.1345,65.9,11.48,14.5,ChargePoint,20,"CHAdeMO, J1772",2013,Yes,4.0,8,Bi-Annual
+EVST01056,28.832807,78.664747,"3223 New Delhi St, Station Area",AC Level 2,0.1483,72.9,2.3,48.7,ChargePoint,28,"CCS, CHAdeMO, Tesla Proprietary",2012,Yes,3.8,11,Quarterly
+EVST01057,35.650643,138.156765,"5980 Tokyo St, Station Area",AC Level 2,0.2031,92.6,11.97,22.6,EVgo,22,"CCS, CHAdeMO",2023,Yes,3.6,18,Monthly
+EVST01058,-33.444197,151.949202,"3870 Sydney St, Station Area",AC Level 1,0.0907,65.2,0.57,12.9,Electrify America,10,Tesla Proprietary,2013,No,3.8,20,Bi-Annual
+EVST01059,37.302973,139.488999,"1404 Tokyo St, Station Area",AC Level 2,0.1226,72.5,2.92,21.5,EVgo,28,CHAdeMO,2012,Yes,4.5,11,Monthly
+EVST01060,48.85957,0.703695,"8200 London St, Station Area",AC Level 1,0.0654,83.3,19.08,7.9,Shell Recharge,9,Type 2,2020,Yes,3.3,27,Bi-Annual
+EVST01061,-32.408071,151.555308,"4222 Sydney St, Station Area",AC Level 2,0.1912,56.5,12.38,36.6,ChargePoint,16,CHAdeMO,2016,Yes,4.4,21,Bi-Annual
+EVST01062,-33.856377,153.003809,"2567 Sydney St, Station Area",AC Level 2,0.1838,71.1,12.02,23.4,EVgo,22,"J1772, Tesla Proprietary, Type 2",2018,No,2.9,7,Annual
+EVST01063,37.469227,-122.306301,"7283 San Francisco St, Station Area",AC Level 2,0.1508,65.5,8.45,31.2,Electrify America,28,"CCS, J1772, Type 2",2017,Yes,4.0,3,Bi-Annual
+EVST01064,-36.075473,150.957489,"7452 Sydney St, Station Area",DC Fast,0.2779,83.8,16.22,17.0,Electrify America,164,CHAdeMO,2015,,4.0,1,Monthly
+EVST01065,-33.114227,152.853396,"1551 Sydney St, Station Area",AC Level 2,0.1837,56.8,2.75,24.3,Shell Recharge,25,J1772,2018,No,2.7,25,Quarterly
+EVST01066,32.055038,140.520894,"737 Tokyo St, Station Area",AC Level 2,0.1202,61.6,22.1,26.5,Blink,15,"J1772, Tesla Proprietary, Type 2",2015,No,3.9,24,Quarterly
+EVST01067,29.586491,78.30672,"455 New Delhi St, Station Area",DC Fast,0.3196,85.6,12.42,71.6,EVgo,246,Type 2,2014,No,3.1,14,Quarterly
+EVST01068,46.618441,1.35532,"7656 Paris St, Station Area",AC Level 2,0.2182,57.8,0.71,25.0,Electrify America,18,Tesla Proprietary,2014,No,2.9,21,Quarterly
+EVST01069,35.756387,138.082406,"6257 Tokyo St, Station Area",AC Level 2,0.1562,71.1,13.42,27.0,ChargePoint,12,"CHAdeMO, Type 2",2013,No,3.9,26,Monthly
+EVST01070,37.596147,-123.270983,"7919 San Francisco St, Station Area",AC Level 2,0.1267,85.6,6.69,41.7,Shell Recharge,20,"CHAdeMO, J1772, Tesla Proprietary",2018,No,4.2,5,Quarterly
+EVST01071,-32.114493,150.278068,"6263 Sydney St, Station Area",AC Level 2,0.1623,88.3,6.55,18.6,Blink,10,Type 2,2019,No,4.3,29,Quarterly
+EVST01072,51.239417,1.051499,"4017 London St, Station Area",AC Level 2,0.1359,54.7,13.63,24.3,ChargePoint,17,CHAdeMO,2012,No,4.2,15,Monthly
+EVST01073,-34.910008,152.673276,"5895 Sydney St, Station Area",AC Level 1,0.0521,92.6,3.56,1.0,Electrify America,12,"CCS, CHAdeMO",2017,Yes,3.9,13,Annual
+EVST01074,48.096696,2.119505,"7224 Paris St, Station Area",AC Level 2,0.171,86.2,0.63,12.2,Electrify America,20,J1772,2021,Yes,3.8,5,Bi-Annual
+EVST01075,37.585524,141.796679,"3988 Tokyo St, Station Area",AC Level 2,0.1835,67.0,25.92,23.4,Shell Recharge,15,"CCS, CHAdeMO, Tesla Proprietary",2012,Yes,4.5,20,Quarterly
+EVST01076,38.579345,-120.366696,"9150 San Francisco St, Station Area",AC Level 2,0.1407,88.2,25.92,36.6,Shell Recharge,22,"CHAdeMO, J1772",2015,Yes,3.7,18,Monthly
+EVST01077,-34.447245,151.574398,"8995 Sydney St, Station Area",AC Level 2,0.1387,86.4,11.94,32.5,Blink,18,"CHAdeMO, Tesla Proprietary, Type 2",2024,No,3.8,1,Bi-Annual
+EVST01078,37.42023,-123.652238,"8006 San Francisco St, Station Area",AC Level 1,0.0608,80.0,12.35,4.6,Tesla,9,"J1772, Type 2",2017,Yes,4.1,19,Monthly
+EVST01079,33.325434,142.013365,"9921 Tokyo St, Station Area",AC Level 2,0.1455,77.9,12.93,24.2,BP Pulse,18,"CHAdeMO, J1772, Type 2",2012,No,3.3,5,Quarterly
+EVST01080,29.196611,77.117474,"3904 New Delhi St, Station Area",DC Fast,0.2719,86.7,39.41,49.3,Blink,164,"CCS, CHAdeMO, Tesla Proprietary",2018,No,3.9,9,Bi-Annual
+EVST01081,25.974176,77.398248,"1141 New Delhi St, Station Area",AC Level 2,0.1197,100.0,0.72,40.6,EVgo,16,"J1772, Tesla Proprietary, Type 2",2017,No,4.6,18,Monthly
+EVST01082,29.741595,76.699592,"4842 New Delhi St, Station Area",AC Level 2,0.2068,78.9,0.41,37.0,BP Pulse,35,"CCS, J1772, Type 2",2014,Yes,2.7,23,Monthly
+EVST01083,28.806832,75.874315,"7458 New Delhi St, Station Area",AC Level 2,0.164,90.4,2.55,48.1,ChargePoint,25,"CCS, J1772, Tesla Proprietary",2012,No,4.1,4,Monthly
+EVST01084,52.437028,0.149241,"7793 Paris St, Station Area",AC Level 2,0.1672,87.2,7.23,44.8,BP Pulse,21,"CHAdeMO, J1772, Tesla Proprietary",2023,Yes,4.6,14,Quarterly
+EVST01085,49.857197,0.821502,"3885 London St, Station Area",DC Fast,0.3442,92.8,11.5,53.1,EVgo,135,"CCS, CHAdeMO",2022,Yes,3.8,9,Quarterly
+EVST01086,28.459907,76.033898,"2926 New Delhi St, Station Area",AC Level 2,0.1731,97.7,5.89,21.8,Shell Recharge,19,"J1772, Tesla Proprietary",2020,No,2.8,21,Monthly
+EVST01087,-31.171368,155.798597,"4454 Sydney St, Station Area",AC Level 2,0.1376,59.7,8.95,21.2,Tesla,18,"J1772, Tesla Proprietary, Type 2",2012,Yes,4.4,25,Annual
+EVST01088,30.400984,75.57989,"8038 New Delhi St, Station Area",DC Fast,0.3136,58.3,4.78,56.5,Electrify America,111,Type 2,2023,No,3.2,19,Bi-Annual
+EVST01089,47.812282,0.466126,"606 Paris St, Station Area",DC Fast,0.2865,79.3,5.14,49.0,Electrify America,234,CCS,2018,Yes,3.8,24,Monthly
+EVST01090,38.110851,-121.654192,"3281 San Francisco St, Station Area",DC Fast,0.3219,72.5,3.68,50.2,ChargePoint,122,"CCS, CHAdeMO",2018,No,4.3,14,Quarterly
+EVST01091,48.859599,4.64617,"2299 Paris St, Station Area",AC Level 1,0.0868,78.5,7.45,8.6,Tesla,3,Tesla Proprietary,2023,Yes,5.0,18,Quarterly
+EVST01092,36.099134,139.747184,"8059 Tokyo St, Station Area",AC Level 1,0.5506493522362527,89.9,1.07,166.65675843808876,BP Pulse,5,Type 2,2017,No,4.4,9,Quarterly
+EVST01093,27.565879,78.067364,"4696 New Delhi St, Station Area",AC Level 2,0.1101,96.6,0.67,46.2,BP Pulse,27,CCS,2015,Yes,4.2,29,Quarterly
+EVST01094,35.542219,136.884979,"868 Tokyo St, Station Area",AC Level 2,0.1544,70.9,5.55,28.6,BP Pulse,21,"CCS, J1772, Type 2",2015,No,3.1,6,Monthly
+EVST01095,49.110321,-1.144067,"2618 London St, Station Area",AC Level 2,0.1439,85.9,3.5,30.7,Tesla,21,"CHAdeMO, Type 2",2024,Yes,4.4,27,Monthly
+EVST01096,37.977585,-124.029824,"444 San Francisco St, Station Area",DC Fast,0.2055,59.8,3.53,88.7,Tesla,208,"CHAdeMO, J1772, Tesla Proprietary",2019,No,3.3,22,Monthly
+EVST01097,29.288931,74.366431,"4755 New Delhi St, Station Area",AC Level 2,0.1652,76.7,18.54,23.2,Tesla,18,"CCS, Tesla Proprietary",2019,No,4.1,29,Monthly
+EVST01098,-34.209929,151.38477,"9975 Sydney St, Station Area",AC Level 1,0.0993,51.1,44.19,1.0,Tesla,8,Tesla Proprietary,2019,No,3.5,19,Quarterly
+EVST01099,35.352324,-125.783641,"5672 San Francisco St, Station Area",AC Level 1,0.1306,75.2,7.69,16.5,Tesla,6,,2014,Yes,3.9,11,Annual
+EVST01100,37.158998,137.667006,"8693 Tokyo St, Station Area",AC Level 2,0.1383,77.3,1.39,49.2,ChargePoint,25,"CCS, Type 2",2017,No,4.1,9,Quarterly
+EVST01101,36.222988,138.844509,"7425 Tokyo St, Station Area",AC Level 2,0.1338,86.8,12.26,18.2,ChargePoint,20,"CCS, CHAdeMO, J1772",2024,No,3.3,6,Annual
+EVST01102,34.587177,138.403371,"8827 Tokyo St, Station Area",DC Fast,0.2445,82.5,6.55,48.1,Tesla,138,"CHAdeMO, Tesla Proprietary, Type 2",2013,No,4.3,29,Quarterly
+EVST01103,28.192999,77.803613,"3110 New Delhi St, Station Area",AC Level 1,0.0842,67.9,11.37,4.7,Blink,9,"CHAdeMO, Tesla Proprietary",2024,No,2.9,4,Monthly
+EVST01104,35.523896,-121.96103,"9511 San Francisco St, Station Area",AC Level 2,0.1561,50.3,8.05,34.4,Blink,26,Type 2,2015,No,3.9,24,Bi-Annual
+EVST01105,49.969285,1.212898,"2386 London St, Station Area",AC Level 2,0.1257,55.8,0.94,48.3,ChargePoint,21,"CHAdeMO, Type 2",2015,No,3.6,21,Monthly
+EVST01106,50.700683,1.000776,"4383 London St, Station Area",AC Level 2,0.1448,98.7,8.49,43.9,Electrify America,20,"Tesla Proprietary, Type 2",2012,No,4.2,4,Monthly
+EVST01107,53.350031,1.583419,"6812 London St, Station Area",AC Level 2,0.0906,96.1,8.27,45.5,BP Pulse,30,"J1772, Tesla Proprietary, Type 2",2020,Yes,4.9,27,Annual
+EVST01108,27.654645,77.206122,"2868 New Delhi St, Station Area",DC Fast,0.3463,66.3,29.0,66.8,Tesla,179,"J1772, Type 2",2016,Yes,4.0,5,Quarterly
+EVST01109,29.57422,77.6642,"2645 New Delhi St, Station Area",AC Level 2,0.1269,62.9,19.16,19.8,BP Pulse,20,"CCS, Tesla Proprietary",2017,No,4.2,5,Annual
+EVST01110,36.967426,-121.652129,"1300 San Francisco St, Station Area",AC Level 2,0.149,71.8,34.8,16.1,Shell Recharge,19,J1772,2019,No,3.5,16,Monthly
+EVST01111,49.228521,2.564685,"43 Paris St, Station Area",DC Fast,0.2287,84.5,22.83,51.3,ChargePoint,201,"Tesla Proprietary, Type 2",2020,No,3.6,3,Bi-Annual
+EVST01112,51.295307,-0.723591,"5012 London St, Station Area",AC Level 1,0.0684,67.8,0.98,9.8,ChargePoint,7,"CCS, J1772, Tesla Proprietary",2024,Yes,4.1,3,Monthly
+EVST01113,52.816985,-0.626464,"9866 London St, Station Area",DC Fast,0.286,53.4,0.53,34.3,ChargePoint,142,"CCS, Tesla Proprietary",2019,Yes,3.9,19,Quarterly
+EVST01114,50.705183,-1.354138,"2201 London St, Station Area",AC Level 2,0.1497,70.1,16.72,25.5,ChargePoint,23,CCS,2014,Yes,3.6,28,Bi-Annual
+EVST01115,49.148608,0.504625,"4401 London St, Station Area",AC Level 2,0.1644,63.0,12.18,33.6,Tesla,24,"CHAdeMO, Tesla Proprietary, Type 2",2021,No,3.8,2,Quarterly
+EVST01116,33.603276,139.509277,"9354 Tokyo St, Station Area",DC Fast,0.372,66.2,0.77,51.9,Blink,147,J1772,2012,No,3.0,19,Quarterly
+EVST01117,27.816084,76.214239,"7722 New Delhi St, Station Area",AC Level 2,0.172,58.1,1.14,21.5,BP Pulse,28,"CCS, J1772, Tesla Proprietary",2022,Yes,4.1,18,Bi-Annual
+EVST01118,46.98301,1.358833,"41 Paris St, Station Area",AC Level 2,0.1789,82.9,10.12,45.8,Tesla,28,J1772,2015,Yes,3.9,2,Bi-Annual
+EVST01119,-33.253482,149.393702,"5005 Sydney St, Station Area",AC Level 2,0.1934,76.3,4.76,35.9,Blink,25,"CHAdeMO, Type 2",2021,Yes,4.4,5,Monthly
+EVST01120,34.977548,141.118562,"1432 Tokyo St, Station Area",DC Fast,0.3285,63.5,10.89,33.1,BP Pulse,219,"CHAdeMO, J1772, Tesla Proprietary",2014,No,2.9,13,Monthly
+EVST01121,41.33681,-122.301473,"2470 San Francisco St, Station Area",AC Level 2,0.1489,77.7,3.43,34.9,BP Pulse,22,"J1772, Tesla Proprietary, Type 2",2017,No,3.6,21,Annual
+EVST01122,35.168328,-123.7136,"2465 San Francisco St, Station Area",AC Level 2,0.1803,74.6,2.3,40.9,Electrify America,25,CHAdeMO,2021,Yes,4.0,7,Quarterly
+EVST01123,51.81285,1.085022,"6124 London St, Station Area",DC Fast,0.3537,89.8,26.18,64.6,Electrify America,200,"CCS, CHAdeMO",2020,Yes,4.5,13,Quarterly
+EVST01124,49.81547,-0.968473,"1990 London St, Station Area",AC Level 2,0.1695,97.8,3.17,18.2,BP Pulse,27,"CHAdeMO, Tesla Proprietary",2012,No,3.4,15,Monthly
+EVST01125,27.873798,75.099249,"2519 New Delhi St, Station Area",AC Level 2,0.1064,56.5,19.18,35.9,Tesla,27,"CCS, J1772, Tesla Proprietary",2012,No,3.8,21,Monthly
+EVST01126,28.826029,78.740833,"2258 New Delhi St, Station Area",AC Level 1,0.0632,94.2,3.1,16.0,Shell Recharge,8,"CHAdeMO, J1772, Tesla Proprietary",2024,No,3.8,8,Annual
+EVST01127,25.125843,76.403355,"3569 New Delhi St, Station Area",AC Level 2,0.1418,85.2,0.1,39.2,ChargePoint,32,Tesla Proprietary,2018,No,3.7,20,Quarterly
+EVST01128,49.211839,1.738851,"6560 Paris St, Station Area",AC Level 1,0.0956,84.6,0.11,14.9,Tesla,6,"CCS, CHAdeMO, Tesla Proprietary",2023,No,3.8,25,Bi-Annual
+EVST01129,51.710961,2.41397,"3999 Paris St, Station Area",AC Level 1,0.0796,68.7,5.64,10.4,EVgo,7,,2012,No,3.1,17,Monthly
+EVST01130,48.176443,4.066084,"3275 Paris St, Station Area",AC Level 2,0.1841,67.2,9.63,39.2,ChargePoint,21,"CHAdeMO, J1772, Type 2",2018,No,3.8,21,Monthly
+EVST01131,36.065912,139.680356,"5175 Tokyo St, Station Area",AC Level 1,0.1063,50.3,0.84,1.0,ChargePoint,6,"CCS, CHAdeMO, Type 2",2019,Yes,3.4,5,Quarterly
+EVST01132,-32.331417,149.410624,"6150 Sydney St, Station Area",AC Level 2,0.186,99.1,3.81,34.0,ChargePoint,12,"CCS, J1772, Type 2",2023,Yes,4.6,27,Bi-Annual
+EVST01133,-34.11473,152.025116,"154 Sydney St, Station Area",DC Fast,0.3603,80.3,4.47,42.8,Blink,219,Type 2,2021,Yes,4.1,9,Monthly
+EVST01134,-34.74024,150.481815,"8901 Sydney St, Station Area",AC Level 2,0.1189,70.1,4.4,34.3,ChargePoint,17,CHAdeMO,2020,No,4.4,6,Quarterly
+EVST01135,45.442995,5.184086,"9163 Paris St, Station Area",DC Fast,0.3241,77.2,12.53,49.0,EVgo,158,"CCS, CHAdeMO, Type 2",2015,No,2.2,16,Quarterly
+EVST01136,38.736386,-122.42108,"6025 San Francisco St, Station Area",DC Fast,0.2696,52.0,3.92,31.0,Shell Recharge,79,"CCS, Tesla Proprietary",2024,Yes,3.6,12,Monthly
+EVST01137,-34.038553,147.856747,"5745 Sydney St, Station Area",AC Level 2,0.1005,58.7,7.05,45.1,Tesla,25,CCS,2016,No,2.7,14,Quarterly
+EVST01138,34.157174,140.186347,"6944 Tokyo St, Station Area",DC Fast,0.2856,81.2,6.47,65.4,Electrify America,111,"CHAdeMO, J1772",2015,No,3.0,24,Quarterly
+EVST01139,-33.678905,154.126197,"4408 Sydney St, Station Area",DC Fast,0.3662,75.7,3.89,67.6,ChargePoint,93,"J1772, Type 2",2021,Yes,4.8,16,Monthly
+EVST01140,47.981079,4.71608,"3655 Paris St, Station Area",AC Level 2,0.1638,89.4,1.07,45.9,Shell Recharge,23,"J1772, Type 2",2024,No,4.1,11,Quarterly
+EVST01141,27.821261,79.955431,"3527 New Delhi St, Station Area",DC Fast,0.4009,82.9,2.77,38.6,ChargePoint,115,"CCS, CHAdeMO, Tesla Proprietary",2023,No,3.5,24,Monthly
+EVST01142,36.585637,138.12066,"1598 Tokyo St, Station Area",AC Level 1,0.0835,80.1,0.1,6.1,Blink,6,"CCS, CHAdeMO",2014,Yes,3.7,11,Bi-Annual
+EVST01143,26.606326,78.577229,"8411 New Delhi St, Station Area",DC Fast,0.4224,90.8,4.65,30.1,EVgo,159,CHAdeMO,2022,No,3.2,28,Bi-Annual
+EVST01144,30.184873,76.126008,"3206 New Delhi St, Station Area",AC Level 2,0.1553,53.4,9.16,29.1,BP Pulse,26,"J1772, Tesla Proprietary, Type 2",2016,Yes,3.8,29,Bi-Annual
+EVST01145,49.410871,0.208634,"2844 London St, Station Area",AC Level 1,0.0804,84.5,7.68,4.7,BP Pulse,5,Type 2,2014,No,3.5,14,Quarterly
+EVST01146,34.682148,137.740871,"9641 Tokyo St, Station Area",AC Level 2,0.1116,85.8,16.77,37.3,Electrify America,17,CHAdeMO,2024,No,3.4,23,Quarterly
+EVST01147,51.741019,1.385516,"5067 Paris St, Station Area",DC Fast,0.3555,63.8,6.59,42.0,Electrify America,151,"CHAdeMO, Tesla Proprietary, Type 2",2024,No,2.5,21,Quarterly
+EVST01148,-32.177768,150.19493,"6217 Sydney St, Station Area",AC Level 2,0.1349,59.8,2.32,33.9,EVgo,25,CHAdeMO,2016,No,3.7,25,Quarterly
+EVST01149,-33.722394,152.557133,"2454 Sydney St, Station Area",AC Level 2,0.1306,60.7,2.11,21.1,Tesla,29,"CCS, Tesla Proprietary, Type 2",2012,Yes,4.2,14,Monthly
+EVST01150,27.203105,78.410079,"2775 New Delhi St, Station Area",AC Level 2,0.1884,59.9,10.44,1.0,ChargePoint,17,CCS,2014,Yes,3.5,12,Bi-Annual
+EVST01151,34.882292,140.06553,"7282 Tokyo St, Station Area",AC Level 2,0.1847,76.2,0.94,43.1,Blink,20,CCS,2019,No,2.9,9,Monthly
+EVST01152,48.966513,0.326568,"4509 Paris St, Station Area",DC Fast,0.3566,56.8,0.85,80.3,BP Pulse,209,CHAdeMO,2012,Yes,3.2,17,Quarterly
+EVST01153,35.732485,139.182841,"1478 Tokyo St, Station Area",DC Fast,0.2819,83.0,25.54,59.5,BP Pulse,249,"CCS, J1772, Type 2",2014,No,4.4,18,Quarterly
+EVST01154,28.477594,76.089825,"8354 New Delhi St, Station Area",AC Level 2,0.1485,55.3,5.39,37.7,Blink,17,Tesla Proprietary,2013,Yes,3.8,14,Quarterly
+EVST01155,51.461151,1.176714,"4027 London St, Station Area",AC Level 2,0.1482,51.3,5.1,43.2,Blink,18,,2024,Yes,4.6,10,Quarterly
+EVST01156,48.535037,4.119477,"6684 Paris St, Station Area",AC Level 1,0.0957,66.0,8.11,18.0,Blink,8,"Tesla Proprietary, Type 2",2016,No,4.0,14,Quarterly
+EVST01157,35.611932,-120.834822,"3413 San Francisco St, Station Area",AC Level 2,0.1966,59.6,18.57,46.1,EVgo,19,Tesla Proprietary,2016,No,4.0,15,Quarterly
+EVST01158,27.839134,76.076171,"5606 New Delhi St, Station Area",DC Fast,0.3184,99.4,14.45,41.4,Blink,112,CCS,2017,No,4.8,4,Annual
+EVST01159,37.048136,135.541,"7755 Tokyo St, Station Area",DC Fast,0.3987,65.1,5.34,78.6,Tesla,162,"CHAdeMO, J1772",2012,No,3.8,20,Quarterly
+EVST01160,33.623699,136.999857,"8850 Tokyo St, Station Area",AC Level 2,0.1769,61.1,10.61,27.8,ChargePoint,30,,2019,No,3.1,25,Monthly
+EVST01161,48.572267,4.48464,"2074 Paris St, Station Area",AC Level 2,0.5616914992339544,59.8,5.41,159.7357003380623,ChargePoint,15,"CCS, Tesla Proprietary, Type 2",2023,No,4.1,10,Bi-Annual
+EVST01162,34.446569,139.048418,"6724 Tokyo St, Station Area",AC Level 2,0.1749,68.7,18.05,34.5,Blink,29,"CCS, J1772, Type 2",2022,No,3.4,12,Monthly
+EVST01163,28.780926,76.082913,"9145 New Delhi St, Station Area",AC Level 2,0.2012,80.3,8.95,3.7,Electrify America,19,"CHAdeMO, Tesla Proprietary",2015,No,3.6,3,Monthly
+EVST01164,48.27365,4.81619,"6427 Paris St, Station Area",AC Level 2,0.2099,89.1,7.4,21.5,Blink,24,"CCS, J1772, Tesla Proprietary",2012,No,,17,Monthly
+EVST01165,51.07269,4.24994,"1431 Paris St, Station Area",DC Fast,0.3593,68.2,7.74,77.5,EVgo,230,"CHAdeMO, J1772",2022,No,3.2,13,Quarterly
+EVST01166,38.534775,-122.382727,"1898 San Francisco St, Station Area",AC Level 2,0.1508,81.3,1.07,35.9,Tesla,24,"CCS, J1772, Type 2",2022,Yes,3.9,25,Quarterly
+EVST01167,35.807195,-122.859505,"2028 San Francisco St, Station Area",DC Fast,0.2892,74.1,18.58,24.3,Electrify America,135,"CHAdeMO, J1772",2023,No,4.0,27,Quarterly
+EVST01168,36.683042,139.452148,"1064 Tokyo St, Station Area",AC Level 2,0.1673,92.3,24.24,35.6,Blink,26,"CCS, Tesla Proprietary, Type 2",2019,Yes,,23,Bi-Annual
+EVST01169,27.451922,77.549744,"7536 New Delhi St, Station Area",AC Level 1,0.1135,78.5,1.61,16.9,Electrify America,7,"CCS, J1772",2018,No,4.3,7,Quarterly
+EVST01170,27.748405,79.609071,"9650 New Delhi St, Station Area",AC Level 2,0.163,64.5,0.42,25.6,Blink,25,J1772,2021,No,3.1,6,Monthly
+EVST01171,49.327329,2.985901,"5168 Paris St, Station Area",AC Level 2,0.1636,85.2,4.35,29.5,Tesla,21,"J1772, Tesla Proprietary",2020,No,3.1,15,Quarterly
+EVST01172,48.118979,3.441244,"5988 Paris St, Station Area",AC Level 2,0.1515,91.0,3.89,17.3,EVgo,26,"CCS, CHAdeMO, Type 2",2021,No,4.8,18,Bi-Annual
+EVST01173,37.015484,141.404205,"7736 Tokyo St, Station Area",AC Level 2,0.1402,73.3,7.39,44.8,BP Pulse,15,CCS,2015,No,2.8,1,Quarterly
+EVST01174,50.345635,-1.882314,"4157 London St, Station Area",DC Fast,0.2919,99.4,1.69,41.1,BP Pulse,99,"CHAdeMO, J1772, Tesla Proprietary",2023,Yes,4.1,15,Quarterly
+EVST01175,36.84648,-121.287107,"4724 San Francisco St, Station Area",AC Level 2,0.5804823601498222,94.0,3.18,165.67352018933383,Electrify America,15,Type 2,2012,No,4.8,3,Quarterly
+EVST01176,34.691644,139.208447,"5890 Tokyo St, Station Area",DC Fast,0.3859,59.8,5.6,27.4,BP Pulse,147,"CCS, J1772, Type 2",2013,No,3.7,8,Quarterly
+EVST01177,50.658942,-3.901943,"3046 London St, Station Area",DC Fast,0.288,89.3,0.82,47.3,ChargePoint,74,J1772,2020,Yes,3.8,11,Quarterly
+EVST01178,53.156187,-3.320054,"618 London St, Station Area",AC Level 2,0.1516,80.0,1.62,50.8,Tesla,19,"CCS, Type 2",2019,Yes,3.0,2,Bi-Annual
+EVST01179,52.450594,-1.654976,"5677 London St, Station Area",AC Level 2,0.124,76.7,11.22,29.5,ChargePoint,16,Type 2,2019,No,3.7,8,Monthly
+EVST01180,40.339816,-121.622565,"8220 San Francisco St, Station Area",AC Level 2,0.1715,75.7,0.94,42.2,Blink,29,Type 2,2023,Yes,4.4,19,Monthly
+EVST01181,52.258066,2.522899,"733 Paris St, Station Area",AC Level 2,0.191,92.7,24.6,41.2,EVgo,17,Tesla Proprietary,2023,No,2.4,29,Bi-Annual
+EVST01182,27.067824,77.48555,"2167 New Delhi St, Station Area",DC Fast,0.3812,80.5,8.76,51.3,Electrify America,86,"CCS, J1772, Type 2",2021,No,3.5,23,Bi-Annual
+EVST01183,-33.763171,154.135715,"2630 Sydney St, Station Area",DC Fast,0.3102,76.9,15.91,58.5,Electrify America,162,CHAdeMO,2014,No,3.8,9,Quarterly
+EVST01184,33.9119,137.746666,"8044 Tokyo St, Station Area",AC Level 2,0.1672,52.4,1.53,21.3,Shell Recharge,30,"CCS, CHAdeMO",2013,Yes,4.4,28,Quarterly
+EVST01185,34.509791,139.60915,"5045 Tokyo St, Station Area",AC Level 2,0.552801933841026,72.4,3.26,193.7581815734659,Tesla,21,CCS,2013,No,5.0,13,Annual
+EVST01186,50.562276,0.328853,"5343 London St, Station Area",DC Fast,0.3264,95.4,13.37,30.0,BP Pulse,148,"CCS, Tesla Proprietary",2019,No,3.9,11,Quarterly
+EVST01187,36.189168,-123.52381,"6452 San Francisco St, Station Area",DC Fast,0.3157,85.6,4.8,42.3,Shell Recharge,215,"CCS, CHAdeMO, Tesla Proprietary",2021,Yes,4.1,25,Quarterly
+EVST01188,47.278769,2.39469,"2766 Paris St, Station Area",AC Level 2,0.1517,52.5,32.31,1.0,Shell Recharge,26,"CCS, J1772, Tesla Proprietary",2022,No,4.4,12,Quarterly
+EVST01189,48.640173,-0.047724,"7135 Paris St, Station Area",DC Fast,0.3069,94.2,10.63,35.1,Blink,171,"CCS, CHAdeMO, Tesla Proprietary",2013,Yes,,22,Quarterly
+EVST01190,35.949822,-120.304541,"303 San Francisco St, Station Area",AC Level 1,0.089,91.3,35.89,1.0,EVgo,6,"CCS, CHAdeMO",2015,Yes,4.3,5,Quarterly
+EVST01191,36.93939,138.627878,"1137 Tokyo St, Station Area",AC Level 1,0.0741,77.3,2.21,21.2,Electrify America,8,CCS,2016,No,3.7,10,Annual
+EVST01192,50.13077,2.9193,"8157 London St, Station Area",AC Level 1,0.0752,51.1,21.83,16.0,BP Pulse,4,"J1772, Type 2",2020,Yes,4.0,29,Monthly
+EVST01193,55.721753,-0.176511,"6581 London St, Station Area",AC Level 2,0.2012,78.1,1.24,51.4,ChargePoint,19,"CCS, Type 2",2012,No,4.0,8,Monthly
+EVST01194,-34.545877,152.75138,"1765 Sydney St, Station Area",DC Fast,0.4355,52.7,14.36,29.3,Blink,222,Tesla Proprietary,2022,No,3.6,25,Quarterly
+EVST01195,48.964626,2.272246,"4387 Paris St, Station Area",AC Level 2,0.1139,66.0,6.89,44.2,Blink,29,J1772,2013,No,4.1,14,Quarterly
+EVST01196,46.913588,2.306084,"518 Paris St, Station Area",AC Level 2,0.1122,81.4,0.21,37.9,Blink,24,CCS,2018,No,3.1,28,Bi-Annual
+EVST01197,-31.309662,150.333256,"6718 Sydney St, Station Area",AC Level 2,0.1213,95.6,0.12,30.4,Shell Recharge,12,"CHAdeMO, Type 2",2024,Yes,4.4,13,Annual
+EVST01198,30.293151,77.387686,"7558 New Delhi St, Station Area",AC Level 2,0.1469,67.9,10.01,34.7,ChargePoint,16,"J1772, Tesla Proprietary, Type 2",2014,Yes,4.8,15,Quarterly
+EVST01199,-33.423426,151.686298,"2784 Sydney St, Station Area",AC Level 2,0.1769,93.0,1.9,52.2,Blink,19,"CCS, J1772",2020,No,3.6,12,Annual
+EVST01200,46.836396,1.175812,"3500 Paris St, Station Area",AC Level 1,0.0918,95.9,1.63,21.6,Electrify America,7,J1772,2019,Yes,4.5,7,Monthly
