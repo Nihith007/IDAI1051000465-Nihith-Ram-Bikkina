@@ -1,4 +1,4 @@
-# IDAI1051000465-Nihith-Ram-Bikkina
+<img width="1408" height="781" alt="image" src="https://github.com/user-attachments/assets/d279cb5f-f395-434b-9ddf-5fbb0a392473" /># IDAI1051000465-Nihith-Ram-Bikkina
 Mining the Future: Unlocking Business Intelligence with AI
 
 # Candidate Name – Nihith Ram Bikkina
@@ -323,6 +323,21 @@ Geographic visualisation reveals where stations are concentrated, which regions 
 | 7 | Approximately 4–8% of stations show anomalous behaviour depending on the IQR multiplier selected | A targeted maintenance and audit programme for flagged stations can recover significant utilisation value without new capital expenditure |
 
 ---
+## Screenshots
+
+<img width="1792" height="903" alt="image" src="https://github.com/user-attachments/assets/34525d88-a5d6-48d6-a4ab-4e0708f54675" />
+<img width="1739" height="884" alt="image" src="https://github.com/user-attachments/assets/dfc44cc0-c3cf-4fd4-867c-5ee794eafdac" />
+<img width="1754" height="867" alt="image" src="https://github.com/user-attachments/assets/d1dc0a34-e275-44b5-90ea-1da78de24989" />
+<img width="1443" height="635" alt="image" src="https://github.com/user-attachments/assets/6ade4dd0-f504-42f8-a96b-c3631c436b7e" />
+<img width="1451" height="571" alt="image" src="https://github.com/user-attachments/assets/6bc47824-18f6-483d-8f3a-cae6724ccdff" />
+<img width="1460" height="900" alt="image" src="https://github.com/user-attachments/assets/b50a56af-4a09-4a32-9950-c5abde788f91" />
+<img width="1469" height="928" alt="image" src="https://github.com/user-attachments/assets/d33ba5b4-fd5f-42e8-be7d-b0f43223f671" />
+<img width="1453" height="903" alt="image" src="https://github.com/user-attachments/assets/c6ee57ab-a81d-4167-ba92-56d146633918" />
+<img width="1458" height="558" alt="image" src="https://github.com/user-attachments/assets/bcc176c2-38f5-4bb2-b7ad-ae001fb44515" />
+
+
+
+
 
 ## 🚀 Streamlit Deployment
 
